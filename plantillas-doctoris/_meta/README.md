@@ -11,7 +11,7 @@ Repositorio de plantillas clínicas para el Servicio de Urgencias del Hospital H
 ├── 02_objetivo/        # Plantillas para la sección Objetiva (O)
 ├── 03_analisis-plan/   # Plantillas para Análisis y Plan (A+P)
 ├── 04_resultados/      # Plantillas para interpretación de resultados
-└── _meta/             # Documentación y metadatos
+└── _meta/              # Documentación y metadatos
 ```
 
 ## Formato de Plantillas
@@ -32,7 +32,7 @@ version: 1.0
 Nombre descriptivo de la plantilla
 
 ## CONTENIDO
-Texto de la plantilla con variables {{VARIABLE}} si es necesario
+Texto de la plantilla. Para subjetivo usar [corchetes] con opciones; para resultados/otros se pueden usar {{VARIABLES}} puntuales si aportan utilidad.
 ```
 
 ## Uso
@@ -41,7 +41,7 @@ Texto de la plantilla con variables {{VARIABLE}} si es necesario
 2. Copiar contenido al sistema Doctoris
 3. **Plantillas de Objetivo**: Completas y descriptivas - modificar manualmente según hallazgos
 4. **Plantillas de Subjetivo**: Contienen ejemplos típicos entre [corchetes] - modificar según caso específico
-5. **Plantillas de Análisis-Plan**: Tienen variables {{VARIABLE}} para completar
+5. **Plantillas de Análisis-Plan**: Casos realistas con planes específicos; variables opcionales si aportan claridad
 6. Personalizar según caso específico
 
 ## Notas Importantes

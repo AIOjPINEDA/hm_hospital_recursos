@@ -6,11 +6,11 @@ Sistema de plantillas SOAP optimizadas para documentación clínica eficiente en
 
 ```
 plantillas-doctoris/
-├── subjetivo/          # Plantillas sección S
-├── objetivo/           # Plantillas sección O
-├── analisis-plan/      # Plantillas sección A+P
-├── resultados/         # Plantillas interpretación resultados
-└── _meta/             # Documentación técnica
+├── 01_subjetivo/       # Plantillas sección S
+├── 02_objetivo/        # Plantillas sección O
+├── 03_analisis-plan/   # Plantillas sección A+P
+├── 04_resultados/      # Plantillas interpretación resultados
+└── _meta/              # Documentación técnica
 ```
 
 ## 🎯 Convención de Nombres
@@ -45,6 +45,8 @@ plantillas-doctoris/
 - `cefalea-plan.md` - Plan cefalea
 - `febril-plan.md` - Plan síndrome febril
 - `disnea-plan.md` - Plan disnea
+- `sinusitis-viral-plan.md` - Plan sinusitis aguda viral
+- `sinusitis-bacteriana-plan.md` - Plan sinusitis aguda bacteriana
 
 ### Resultados (R)
 - `analitica-res.md` - Analítica normal
