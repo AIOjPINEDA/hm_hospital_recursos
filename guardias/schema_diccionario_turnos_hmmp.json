@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Diccionario de Turnos HMMP",
+  "type": "object",
+  "required": [
+    "version",
+    "centro",
+    "turnos"
+  ],
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "centro": {
+      "type": "string"
+    },
+    "fuente": {
+      "type": "string"
+    },
+    "categorias_dia": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "turnos": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "descripcion": {
+            "type": "string"
+          },
+          "horario": {
+            "type": [
+              "object",
+              "string"
+            ]
+          },
+          "horario_base": {
+            "type": "string"
+          },
+          "reglas_especiales": {
+            "type": "object"
+          },
+          "nota": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "codigos_especiales": {
+      "type": "object"
+    }
+  }
+}
