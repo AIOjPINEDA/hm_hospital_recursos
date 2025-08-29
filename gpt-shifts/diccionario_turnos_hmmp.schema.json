@@ -37,6 +37,13 @@
               "string"
             ]
           },
+          "alias_de": {
+            "type": "string"
+          },
+          "aliases": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
           "horario_base": {
             "type": "string"
           },

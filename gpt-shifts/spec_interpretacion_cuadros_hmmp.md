@@ -1,4 +1,4 @@
-# Especificación de Interpretación de Cuadros de Turnos — HM Montepríncipe (Urgencias)
+# Especificación de interpretación de cuadros — HM Montepríncipe (Urgencias)
 
 **Versión:** 2025-08-29  
 **Ámbito:** Decodificar cuadros mensuales de turnos desde PDF/imagen a datos estructurados y cómputo de horas.  
@@ -25,9 +25,9 @@ Proveer reglas claras, deterministas y trazables para que un agente (humano o IA
 
 ## 3) Familias de día
 - **Lunes**
-- **Martes–Jueves**
+- **Martes-Jueves**
 - **Viernes**
-- **Finde–Festivo** (sábados, domingos y festivos del calendario laboral local)
+- **Finde-Festivo** (sábados, domingos y festivos del calendario laboral local)
 
 > Un agente deberá calcular el día de la semana de cada fecha y, si procede, detectar si es festivo local para aplicar “Finde–Festivo”.
 
@@ -81,7 +81,7 @@ La salida recomendada es un CSV/Parquet con columnas:
 - `horas_totales` (= `horas_tramo` + `postguardia_horas`)
 - `observaciones` (texto libre: “víspera de festivo”, “vacante”, etc.)
 
-Se adjunta `plantilla_salida_eventos.csv` con el header recomendado.
+Se adjunta `plantilla_salida_eventos_global.csv` con el header recomendado.
 
 ---
 
@@ -136,4 +136,3 @@ Si existen eventos con sufijo “HM Monteprincipe”, se puede cruzar:
 
 ## 14) Referencia
 - `diccionario_turnos_hmmp.json` (este repositorio).
-

@@ -1,7 +1,7 @@
 {
   "version": "2025-08-29",
   "centro": "Hospital Madrid Montepríncipe (Urgencias)",
-  "fuente": "Leyenda 'HORARIO TURNOS' del cuadro PDF 'Septiembre prov6.pdf' (versión 29-8-25 Prov 3)",
+  "fuente": "Leyenda 'HORARIO TURNOS' del cuadro PDF 'pdfs/Septiembre prov6.pdf' (versión 29-08-2025 Prov 6)",
   "categorias_dia": [
     "Lunes",
     "Martes-Jueves",
@@ -67,6 +67,7 @@
     "N": {
       "descripcion": "Noche (N1/N2)",
       "horario_base": "22:00-08:00",
+      "aliases": ["N1", "N2"],
       "reglas_especiales": {
         "noches_viernes_sabado_vispera": "22:00-09:00",
         "postguardia": "+7:00",
@@ -75,7 +76,7 @@
     },
     "CRP-RM": {
       "descripcion": "Consulta/Refuerzo (mismo horario que RM)",
-      "horario": "alias:RM"
+      "alias_de": "RM"
     }
   },
   "codigos_especiales": {

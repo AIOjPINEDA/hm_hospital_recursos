@@ -10,7 +10,7 @@
     "service": "Urgencias HM Montepríncipe"
   },
   "data_sources": {
-    "roster_pdf_notes": "Septiembre prov6.pdf",
+    "roster_pdf": "pdfs/Septiembre prov6.pdf",
     "calendar_filters": {
       "calendar_ids": [
         "21rrctkic78isgnqj81l4jvoj8@group.calendar.google.com"
@@ -28,26 +28,7 @@
     },
     "precedence": "roster_over_calendar"
   },
-  "computation_rules": {
-    "timezone": "Europe/Madrid",
-    "postguardia_hours": "07:00",
-    "include_postguardia_for": [
-      "N1",
-      "N2",
-      "N"
-    ],
-    "night_base": "22:00-08:00",
-    "night_friday_saturday_eve_holiday": "22:00-09:00",
-    "prorate_cross_month_nights": true,
-    "postguardia_belongs_to_day_after": true,
-    "rounding_minutes": 0
-  },
-  "matching_rules": {
-    "normalize_accents": true,
-    "case_insensitive": true,
-    "allow_initials_lastname": true,
-    "fuzzy_threshold": 0.88
-  },
+  
   "reporting": {
     "currency": "EUR",
     "rates_per_shift": {
