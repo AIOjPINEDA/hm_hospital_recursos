@@ -1,0 +1,18 @@
+{
+  "version": "2025-08-29",
+  "centro": "Hospital Madrid Montepríncipe (Urgencias)",
+  "fuente": "Leyenda 'HORARIO TURNOS' del cuadro PDF 'pdfs/Septiembre prov6.pdf' (versión 29-08-2025 Prov 6)",
+  "categorias_dia": ["Lunes", "Martes-Jueves", "Viernes", "Finde-Festivo"],
+  "turnos": {
+    "M1": {"descripcion": "Mañana 1", "horario": {"Lunes": "08:00-15:00", "Martes-Jueves": "08:00-15:00", "Viernes": "08:00-15:00", "Finde-Festivo": "09:00-15:00"}},
+    "M2": {"descripcion": "Mañana 2", "horario": {"Lunes": "09:00-14:00", "Martes-Jueves": "09:00-14:00", "Viernes": "09:00-14:00", "Finde-Festivo": "10:00-16:00"}},
+    "RM": {"descripcion": "Refuerzo de Mañana", "horario": {"Lunes": "09:00-13:00", "Martes-Jueves": "10:00-12:00", "Viernes": "10:00-13:00", "Finde-Festivo": "10:00-15:00"}},
+    "T1": {"descripcion": "Tarde 1", "horario": {"Lunes": "15:00-22:00", "Martes-Jueves": "15:00-22:00", "Viernes": "15:00-22:00", "Finde-Festivo": "15:00-21:00"}},
+    "T2": {"descripcion": "Tarde 2", "horario": {"Lunes": "16:00-22:00", "Martes-Jueves": "16:00-23:00", "Viernes": "16:00-23:00", "Finde-Festivo": "16:00-22:00"}},
+    "RT": {"descripcion": "Refuerzo de Tarde", "horario": {"Lunes": "15:00-20:00", "Martes-Jueves": "15:00-20:00", "Viernes": "16:00-21:00", "Finde-Festivo": "15:00-20:00"}},
+    "N": {"descripcion": "Noche (N1/N2)", "horario_base": "22:00-08:00", "aliases": ["N1", "N2"], "reglas_especiales": {"noches_viernes_sabado_vispera": "22:00-09:00", "postguardia": "+7:00"}},
+    "CRP-RM": {"descripcion": "Consulta/Refuerzo (mismo horario que RM)", "alias_de": "RM"}
+  },
+  "codigos_especiales": {"x": "vacante/pendiente", "0": "bloqueo/ausencia (no asignable)"}
+}
+
