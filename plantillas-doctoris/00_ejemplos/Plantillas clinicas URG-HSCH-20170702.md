@@ -1,3 +1,4 @@
+
 # 📚 MANUAL DE PLANTILLAS CLÍNICAS - URGENCIAS HM HOSPITAL
 
 > **Versión:** 3.0 | **Fecha:** 2025-08-30

@@ -36,7 +36,7 @@ EA: Enfermedad Actual
 EF: Exploración Física
 PC: Pruebas Complementarias
 JC: Juicio Clínico
-PLAN/TTO: Plan Terapéutico
+PLAN: Plan Terapéutico
 ```
 
 ---
@@ -96,12 +96,13 @@ PLAN/TTO: Plan Terapéutico
 
 <a id="alergologia"></a>
 
-## 🏛️ 2. Traumatología
+## 🦴 2. Traumatología
 
 <a id="trauma-raquis"></a>
-## 🏛️ 2.1. Columna Vertebral (Raquis)
+## 2.1. Columna Vertebral (Cervical, Dorsal, Lumbar)
 
-### <a name="trauma-21-1"></a> 2.1.1. Traumatismo Lumbar
+<a id="trauma-21-1"></a>
+### 2.1.1. Traumatismo Lumbar
 
 **AP:**
 - Sin interés.
@@ -134,7 +135,8 @@ PLAN/TTO: Plan Terapéutico
 - Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
 - Si empeoramiento o fiebre, volver a Urgencias. Control en Traumatología ambulatorio en ± 5-7 días previa cita.
 
-### <a name="trauma-21-2"></a> 2.1.2. Lumbalgia No Traumática
+<a id="trauma-21-2"></a>
+### 2.1.2. Lumbalgia No Traumática
 
 **AP:**
 - Sin interés.
@@ -168,7 +170,8 @@ PLAN/TTO: Plan Terapéutico
 - Si empeoramiento o fiebre, volver a Urgencias.
 - Control por su médico de Atención Primaria en aprox. 1-2 semanas.
 
-### <a name="trauma-21-3"></a> 2.1.3. Dorsalgia No Traumática
+<a id="trauma-21-3"></a>
+### 2.1.3. Dorsalgia No Traumática
 
 **AP:**
 - Escoliosis.
@@ -196,7 +199,8 @@ PLAN/TTO: Plan Terapéutico
 - Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
 - Si empeoramiento o fiebre, volver a Urgencias. Control en Consultas de Traumatología en 7 días.
 
-### <a name="trauma-21-4"></a> 2.1.4. Latigazo Cervical (ATF)
+<a id="trauma-21-4"></a>
+### 2.1.4. Latigazo Cervical (ATF)
 
 **AP:**
 - Sin interés.
@@ -234,7 +238,8 @@ PLAN/TTO: Plan Terapéutico
 - **SI MOLESTIAS GÁSTRICAS, OMEPRAZOL 20 mg**: 1 comprimido cada día.
 - Si empeoramiento o fiebre, volver a Urgencias. Control en CONSULTAS DE TRAUMATOLOGÍA en aprox. 1-2 semanas.
 
-### <a name="trauma-21-5"></a> 2.1.5. Cervicalgia No Traumática
+<a id="trauma-21-5"></a>
+### 2.1.5. Cervicalgia No Traumática
 
 **AP:**
 - Sin interés.
@@ -500,7 +505,8 @@ PLAN/TTO: Plan Terapéutico
 
 <a id="trauma-23"></a>
 
-## **CODO**
+<a id="trauma-23"></a>
+## 2.3. Codo
 
  1. ### **TRAUMATISMO**
 
@@ -536,7 +542,7 @@ PLAN:
 -Si empeoramiento o fiebre, volver a Urgencias.
 -Control médico de atención primaria en ±15 días
 
-### LUXACIÓN CODO**
+### Luxación de codo
 
 AP:
 -Sin interés
@@ -567,7 +573,7 @@ PLAN:
 -Si empeoramiento o fiebre, volver a Urgencias.
 -Control Traumatología ambulatorio en ±15 días previa citación.
 
-### CABEZA RADIAL**
+### Fractura de cabeza radial
 
 AP:
 -Sin interés
@@ -599,7 +605,7 @@ PLAN:
 -OMPRAZOL 20 MG EFG 1 COMP./ 24 h SI MOLESTIAS GÁSTRICAS
 -Control Traumatología área en ±10 días previa citación.
 
-### FX OLÉCRANON**
+### Fractura de olécranon
 
 AP:
 -Sin interés
@@ -633,7 +639,7 @@ PLAN:
 -Solicito preoperatorio. Se entrega consentimiento informado.
 -Se avisará telefónicamente al paciente para cirugía.
 
-### PRON DOLOROSA**
+### Pronación dolorosa
 
 AP:
 -Sin interés
@@ -655,7 +661,7 @@ PLAN:
 -Si nuevo episodio, volver a Urgencias.
 -No precisa seguimiento.
 
-### EPICONDILITIS**
+### Epicondilitis
 
 AP:
 -Sin interés
@@ -693,9 +699,10 @@ PLAN:
 <a id="trauma-24"></a>
 
 
-## MUÑECA-MANO
+<a id="trauma-24"></a>
+## 2.4. Muñeca-Mano
 
-### **TX MUÑECA**
+### Traumatismo de muñeca
 
 AP:
 -Sin interés
@@ -729,7 +736,7 @@ PLAN:
 -OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
 --Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología la próxima semana.
 
-### TX DEDOS MANO**
+### Traumatismo de dedos de la mano
 
 **AP:**
 **-Sin interés**
@@ -764,7 +771,7 @@ PLAN:
 -OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
 -Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología la próxima semana.
 
-### FRACTURA EDR**
+### Fractura de radio distal (EDR)
 
 AP:
 -Sin interés
@@ -790,7 +797,7 @@ PLAN:
 -Opirén flas 30 mg / 24h si molestias gástricas.
 -Control Traumatología ambulatorio en ± 7-10 días con RX de control (entrego volante) previa citación
 
-### TORUS**
+### Fractura en rodete (Torus) del radio distal
 
  AP:
 -Sin interés
@@ -819,7 +826,7 @@ PLAN:
 -IBUPROFENO SUSP. ORAL 100 MG/5 ML (DALSY) cc/ 8 horas según peso.
 -Control Traumatología ambulatorio en ± 15 días previa citación.
 
-### FX ESCAFOIDES**
+### Fractura de escafoides
 
 AP:
 -Sin interés
@@ -853,7 +860,7 @@ PLAN:
 
 -Control Traumatología ambulatorio en ± 15 días con RX de control (entrego volante) previa citación
 
-### FX 5º MTC**
+### Fractura de 5º metacarpiano (MTC)
 
 AP:
 -Sin interés
@@ -885,7 +892,7 @@ PLAN:
 
 -Control Traumatología ambulatorio en ± 15 días previa citación.
 
-### AVULSIÓN PLACA VOLAR**
+### Avulsión de placa volar
 
 AP:
 -Sin interés
@@ -918,7 +925,7 @@ Plan:
 
 -Control en consultas Traumatología en aprox 2-3 semanas.
 
-### DEDO RESORTE**
+### Dedo en resorte
 
 AP:
 -Sin interés
@@ -941,7 +948,7 @@ PLAN:
 -Pongo al paciente en LEQ para polectomía A1. Explico la cirugía al paciente.
 -Entrego consentimiento informado. Interconsulta a Anestesia.
 
-### SD TÚNEL CARPO**
+### Síndrome del túnel del carpo
 
 AP:
 -Sin interés
@@ -967,7 +974,7 @@ PLAN:
 -Pongo al paciente en LEQ para liberación nervio mediano.
 -Explico la cirugía al paciente. Entrego consentimiento informado. Interconsulta a Anestesia.
 
-### RIZARTROSIS DeQUERVAIN**
+### Rizartrosis y De Quervain
 
 AP:
 -Sin interés
@@ -1011,9 +1018,10 @@ PLAN:
 
 <a id="trauma-25"></a>
 
-## CADERA
+<a id="trauma-25"></a>
+## 2.5. Cadera
 
-### **Fx CADERA**
+### Fractura de cadera
 AP:
 -NAMC
 -Sin interés
@@ -1050,7 +1058,7 @@ Plan:
 -Se realiza gestión para Cirugía Urgente Diferida
 -Se explica la cirugía al paciente y familiares. Se entregan consentimientos informados de cirugía y de transfusión sangre.
 
-### Fx RAMAS**
+### Fractura de ramas isquiopubianas
 
 AP:
 -Sin interés
@@ -1079,7 +1087,7 @@ PLAN:
 -Si empeoramiento o fiebre, volver a Urgencias.
 -Control Traumatología ambulatorio ± 1 mes previa citación, con RX de control (entrego volante)
 
-### TRAUMA CADERA**
+### Traumatismo de cadera
 
 AP:
 -Sin interés
@@ -1112,7 +1120,7 @@ PLAN:
 -Si empeoramiento o fiebre, volver a Urgencias.
 -Control médico de atención primaria en ± 15 días
 
-### SINOVITIS**
+### Sinovitis (cojera del niño)
 
 AP:
 -Sin interés
@@ -1138,7 +1146,7 @@ PLAN:
 -Control Traumatología (Infantil) ambulatorio ± 10-15 días previa citación.
 -Si empeoramiento o fiebre, volver a Urgencias.
 
-### TROCANTERITIS
+### Trocanteritis
 
 AP:
 -Sin interés
@@ -1163,7 +1171,7 @@ PLAN:
 -Control Traumatología ambulatorio ± 10-15 días previa citación.
 -Si empeoramiento o fiebre, volver a Urgencias.
 
-### COXARTROSIS
+### Coxartrosis
 
 AP:
 -Sin interés
@@ -1194,9 +1202,10 @@ PLAN:
 
 <a id="trauma-26"></a>
 
-## RODILLA
+<a id="trauma-26"></a>
+## 2.6. Rodilla
 
- 1. ### **TX RODILLA**
+ 1. ### Traumatismo de rodilla
 
 AP:
 -Sin interés
@@ -1226,7 +1235,7 @@ PLAN:
 -Omeprazol 20mg EFG, 1 comp / 24h si molestias gástricas.
 -Control en Consultas de Traumatología en ± 15 días
 
-### ESGUINCE LLI**
+### Esguince del LLI
 
 AP:
 -Sin interés
@@ -1260,7 +1269,7 @@ PLAN:
 
 -Control en Consultas de Traumatología en ± 2-3 días. Si empeora volver a Urgencias.
 
-### MENISCO URGENCIA**
+### Menisco (urgencias)
 
 **AP:**
 **-Sin interés**
@@ -1294,7 +1303,7 @@ PLAN:
 **-Opirén flas 30 / 24h**
 **-Control Traumatología ambulatorio en ± 15 días previa citación.**
 
-### MENISCO: QX**
+### Menisco (quirúrgico)
 
 **AP:**
 **-Sin interés**
@@ -1325,7 +1334,7 @@ PLAN:
 **-Pongo en LEQ para meniscectomía parcial artroscópica. Explico la cirugía al paciente.**
 **-Se entrega consentimiento informado. Interconsulta a Anestesia.**
 
-### INSUF. LCA**
+### Insuficiencia del LCA
 
 **AP:**
 **-Sin interés**
@@ -1354,7 +1363,7 @@ PLAN:
 -Pongo en LEQ para ligamentoplastia artroscopia. Explico la cirugía al paciente.
 -Se entrega consentimiento informado. Interconsulta a Anestesia.
 
-### PTR**
+### Prótesis total de rodilla (PTR)
 
 **AP:**
 **-Sin interés**
@@ -1382,7 +1391,8 @@ PLAN:
 
 <a id="trauma-27"></a>
 
-## TOBILLO-PIE
+<a id="trauma-27"></a>
+## 2.7. Tobillo-Pie
 
  1. ### **ESGUINCE ADULTOS**
 
@@ -1419,7 +1429,7 @@ PLAN:
 
 -Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología en ± 7-10 días
 
-### ESGUINCE NIÑOS**
+### Esguince (niños)
 
 AP:
 -Sin interés
@@ -1453,7 +1463,7 @@ PLAN:
 
 -Control médico de atención primaria en ± 7-10 días
 
-### TOBILLO-FÉRULA**
+### Tobillo: férula
 
 AP:
 -Sin interés
@@ -1492,7 +1502,7 @@ PLAN:
 
  -Control Traumatología en ± 15 días previa citación.
 
-### FRACTURA PERONE TRANSINDESMAL**
+### Fractura de peroné transindesmal
 
 AP:
 -Sin interés
@@ -1527,7 +1537,7 @@ PLAN:
 
 -Control Traumatología en ± 15 días previa citación.
 
-### FX 5º MTT**
+### Fractura de 5º metatarsiano (MTT)
 
 AP:
 -Sin interés
@@ -1563,7 +1573,7 @@ PLAN:
 
 -Control Traumatología en ± 15 días previa citación.
 
-### DISTENS. PEDIO**
+### Distensión del pedio
 
 AP:
 -Sin interés
@@ -1599,7 +1609,7 @@ PLAN:
 
 -Control médico de atención primaria en ± 10-15 días.
 
-### DEDOS PIE**
+### Traumatismo de dedos del pie
 
 AP:
 -Sin interés
@@ -1630,7 +1640,7 @@ PLAN:
 
 -Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología en ± 7 días.
 
-### DESGARRO FIBRAS**
+### Desgarro de fibras musculares
 
 AP:
 -Sin interés
@@ -1658,7 +1668,7 @@ PLAN:
 -OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
 -CONTROL EN CONSULTAS DE TRAUMATOLOGÍA en 8-10 días. SI EMPEORA VOLVER A URGENCIAS.
 
-### FASCITIS PLANTAR**
+### Fascitis plantar
 
 AP:
 -Sin interés
@@ -1693,7 +1703,7 @@ PLAN:
 -Control consultas Traumatología en aprox. 2 semanas para valorar nueva infiltración.
 -Se propone tratamiento quirúrgico: Fasciotomía plantar. Se explica la cirugía al paciente. Se entrega consentimiento informado. Interconsulta Anestesia.
 
-### H. VALGUS + MTT**
+### Hallux valgus + metatarsalgia
 
 AP:
 -Sin interés
