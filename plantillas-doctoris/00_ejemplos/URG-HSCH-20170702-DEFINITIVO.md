@@ -786,1661 +786,818 @@ Atragantamiento tras ingesta de carne, con disfagia para sólidos y líquidos, y
 3.  **Seguimiento:**
     - Cita preferente en **Cirugía General** en 2-3 días. Acudir a Urgencias si empeora.
 
-## ENDOCRINO***
+<a id="endocrinologia"></a>
+## 💊 1.10. Endocrinología
+
+### 💊 1.10.1. Debut Diabético
+
+**MC:** Hiperglucemia.
+
+**AP:**
+- RAMC: No conocidas.
+- Patologías previas: [Especificar].
+- Cirugías previas: [Especificar].
+- Tratamiento habitual: [Especificar].
 
- 1. ### **DEBUT DIABÉTICO**
+**EA:**
+Paciente remitido desde residencia por hiperglucemia (no diabético conocido). Refiere poliuria, polidipsia y astenia de varios días de evolución. Afebril y sin otra sintomatología.
 
-Varón / Mujer de años. MC: HIERGLUCEMIA
+**EF:**
+- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
+- **General:** Consciente y orientado, buen estado de hidratación y nutrición. Eupneico.
+- **Exploración sistémica:** Normal, sin hallazgos patológicos relevantes.
 
-AP: 
-No Reacciones Adversas a Medicamentos Conocidas 
-Morbilidad: 
-Qx: 
-TTos.:
+**JC:** Hiperglucemia. Debut diabético.
 
-EA: 
-Remitido desde su residencia por HIPERGLUCEMIA (No conocían que el paciente era diabético). El paciente refiere desde hace unos días POLIURIA, POLIDIPSIA y ASTENIA. NO fiebre, ni disuria ni tos ni otra sintomatología.
+**PLAN:**
+1.  **Pruebas y Tratamiento en Urgencias:**
+    - Se solicita AS y AO.
+    - Se inicia sueroterapia con SSF.
+2.  **Tratamiento al Alta:**
+    - **Dieta antidiabética** y alta ingesta de líquidos (2-3 litros/día).
+    - **METFORMINA 850 mg**: ½ comprimido con cada comida.
+    - **Control glucémico** preprandial.
+    - **Pauta de insulina rápida (Actrapid®) de rescate:**
+        - Glucemia 160-190: 2 UI
+        - Glucemia 191-220: 4 UI
+        - Glucemia 221-250: 6 UI
+        - Glucemia 251-280: 8 UI
+        - Glucemia 281-310: 10 UI
+        - Glucemia 311-350: 12 UI
+        - Glucemia > 350: Avisar a servicios de emergencia.
+    - **Educación sobre hipoglucemia:** Si glucemia < 80 mg/dL, administrar agua con azúcar seguida de comida.
+3.  **Seguimiento:**
+    - Control por su MAP. Acudir a Urgencias si empeora.
 
-EF: 
- TA ,FC , SATO2 %, Tª º 
- Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Cabeza y Cuello:. No bocio ni adenopatías. Pulsos carotídeos rítmicos sin soplos. No ingurgitación venosa yugular. 
- Otosc: OD: Conducto Auditivo Derecho: normal, tímpano íntegro y normal. OI: Conducto Auditivo Derecho: normal, tímpano íntegro y normal. 
- Ojos: RFM y Motilidad conservada. No inyección conjuntival ni alteraciones parpebrales. 
- Auscultación Pulmonar: murmullo vesicular conservado 
- Auscultación Cardiaca: Rítmica sin soplos 
- Abdomen: Ruidos hidro-aéreos presentes, blando y depresible, no palpo masas ni megalias, no puntos dolorosos, no signos de irritación peritoneal. Puño-percusión renal negativa. 
- Extremidades No edemas. Pulsos periféricos +, No signos de trombosis venosa profunda. 
- Neurol: pupilas isocóricas normorreactivas, Pares Cr. Normales, Tono, fuerza y sensibilidad conservados, ROT normales, no dismetrías ni alteraciones del equilibrio, no nistagmo ni romberg, no alteraciones del movimiento ni de la marcha ni signos meningeos.
+<a id="infecciosas"></a>
+## 🦠 1.4. Enfermedades Infecciosas
 
-JC: Hiperglucemia. Debut Diabético
+### 🦠 1.4.1. Balanopostitis Candidiásica
 
-PLAN: 
-*** Solicito P.Compl.: AS + AO 
- Indico TTo. Con: SSF +
+**PLAN:**
+- **KETOCONAZOL GEL**: Aplicar en la ducha durante 5 minutos y aclarar, 1 vez al día durante 7-10 días.
+- **CLOTRIMAZOL CREMA**: 1 aplicación cada 12 horas durante 7-10 días.
+- Si no mejora, control por **Dermatología**.
 
-TRATAMIENTO: 
-DIETA ANTIDIABÉTICA. 
-INGESTA DE ABUNDANTES LÍQUIDOS (2-3 LITROS DÍA) 
-METFORMINA 850 EFG TOMARÁ ½ COMP. EN CADA COMIDA. 
-CONTROL DE GLUCEMIAS ANTES DE CADA COMIDA 
-SI GLUCEMIA INFERIOR A 80 ADMINISTRAR AGUA CON AZUCAR Y A CONTINUACIÓN UNA COMIDA SEMISÓLIDA. 
-SI GLUCEMIA MAYOR DE 250, ADMINISTRAR INSULINA ACTRIPID (RÁPIDA) SEGÚN LA SIGUIENTE PAUTA: 
-160-190 2 UI 
-191-220 4 UI 
-221-250 6 UI 
-251-280 8 UI 
-281-310 10 UI 
-311-350 12 UI 
-MAYOR DE 350, AVISAR A O61 PARA QUE SE VALORE AL PACIENTE.
+### 🦠 1.4.2. Escabiosis
 
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS
+**MC:** Erupción cutánea generalizada.
 
-## INFECCIOSAS**
+**EA:**
+Erupción maculopapulosa pruriginosa de 5 días de evolución, de predominio nocturno. Posible antecedente de contacto (mudanza).
 
- 1. ### **BALANOPOSTITIS CANDIDIÁSICA**
+**EF:**
+- **Piel:** Erupción maculopapulosa en flexuras, tronco y abdomen.
 
-TTO. 
- KETOCONAZOL GEL 100ML, APLICAR EN LA DUCHA Y MANTENERLO 5 MINUTOS, LUEGO ACLARAR. REPETIR DURANTE 7-10 DÍAS
+**JC:** Posible escabiosis.
 
- FUNGAREST CREMA 1 APLICACIÓN CADA 12 HORAS DE 7 A 10 DÍAS
+**PLAN:**
+1.  **Tratamiento en Urgencias:**
+    - Se administra **POLARAMINE® IM**.
+2.  **Tratamiento al Alta:**
+    - **Medidas higiénicas:** Baño diario con **PERMETRINA 5%** durante 3-5 días, aplicando desde el cuello hasta los pies, y cambiando ropa de cama y de dormir a diario.
+    - **EBASTINA 20 mg**: 1 comprimido al día hasta 2 días después de desaparecer el prurito.
+    - **DEXCLORFENIRAMINA 2 mg** (Polaramine®) (si prurito intenso): 2 comprimidos cada 6-8 horas.
+3.  **Seguimiento:**
+    - Control por su MAP.
 
-SI NO MEJORA ACUDIR A CONSULTAS DE DERMATOLOGÍA. 
+### 🦠 1.4.3. Gripe / Catarro de Vías Altas (CVA)
 
-### ESCABIOSIS**
+**MC:** Fiebre, malestar general, tos.
 
-Varón / Mujer de años. Motivo de consulta: Erupción generalizada desde hace unos días tras realizar traslado o mudanza.
+**EA:**
+Cuadro de distermia/fiebre, artromialgias, cefalea, tos seca y congestión nasal.
 
-Antecedentes personales: 
-Reacciones Adversas a Medicamentos Conocidas: No 
-Patologías Previas: No refiere. 
-Cirugías previas: No refiere.
+**EF:**
+- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
+- **Orofaringe:** Xerosa e hiperémica.
+- **Auscultación Pulmonar:** Normal.
 
-Enfermedad actual: 
-Refiere aparición desde hace 5 días de erupción en forma de lesiones maculo-papulosas pruriginosas por todo el cuerpo, con mayor intensidad por la noche. 
+**JC:** Cuadro gripal / CVA.
 
-Exploración física: 
- Nivel de consciencia y Orientación adecuados. Buena hidratación y perfusión. Eupnea, no cianosis. 
- Piel Erupción maculo-papulosa por flexuras, tronco y Abdomenomen sin otras alteraciones.
+**PLAN:**
+- **Reposo domiciliario**, aislamiento relativo y alta ingesta de líquidos.
+- **Tratamiento sintomático:**
+    - **IBUPROFENO 600 mg** o **PARACETAMOL 1 g** para fiebre/dolor.
+    - **DEXTROMETORFANO JARABE** para la tos.
+    - **Antihistamínico + Descongestionante** (Rino-Ebastel®).
+    - **Antieméticos** (Domperidona) si vómitos y **dieta astringente** si diarrea.
+- **Seguimiento:**
+    - Control por su MAP. Acudir a Urgencias si empeoramiento.
 
-JC: Posible ESCABIOSIS.
+### 🦠 1.4.4. Onicomicosis
 
-PLAN: 
- Se adm. POLARAMINE im.
+**JC:** Onicomicosis.
 
-AL ALTA. 
- CADA NOCHE SE SUMERGIRÁN EN UN BAÑO DE PERMETRINA OTC SOLUCIÓN 2%, PONDRÁN TODA LA ROPA DE DORMIR LIMPIA Y LAS SÁBANAS LIMPIAS. 
- POR LA MAÑANA SE PUEDEN DUCHAR. 
- REPETIR ESTE PROCESO DE TRES A CINCO DÍAS CONSECUTIVOS. 
- EBASTINA 20MG (EBASTEL FORTE FLAS) 1 AL DÍA EN AYUNAS HASTA QUE LLEVE 2 DÍAS SIN PICORES.
+**PLAN:**
+- **ITRACONAZOL 100 mg**: 2 cápsulas cada 12 horas durante 7 días, repetir mensualmente por 3 meses.
+- **BIFONAZOL + UREA TÓPICA** (Mycospor Onicoset®): Aplicación nocturna.
 
- SI PICOR PUEDE AÑADIR POLARAMINE 2 mg, 2 COMP. CADA 6-8 HORAS.
+### 🦠 1.4.5. Parotiditis Infecciosa
 
-CONTROL POR SU MÉDICO DE FAMILIA
+**MC:** Tumefacción preauricular.
 
-### GRIPE - CVA**
+**EA:**
+Tumefacción preauricular derecha de inicio nocturno, asociada a un cuadro catarral previo de 10 días con fiebre y diarrea. Contexto epidemiológico (trabaja en guardería).
 
-Varón / Mujer de años. MC: FIEBRE + MEG + TOS
+**EF:**
+- **Cabeza y Cuello:** Tumefacción de parótida derecha. Otoscopia con hiperemia de CAE derecho.
 
-AP: 
- Reacciones Adversas a Medicamentos Conocidas: No 
- Patologías previas: No refiere. 
- Qx: No.
+**JC:** Parotiditis unilateral, probable origen vírico.
 
-EA: 
-Acude por cuadro de evolución con, distermia / fiebre de hasta º, artromialgias, cefalea, tos seca y congestión nasal con estornudos frecuentes. 
+**PLAN:**
+- **Tratamiento sintomático** similar al de un cuadro gripal.
+- **Aislamiento** y seguimiento por su MAP.
+- Se recoge muestra de saliva y sangre para estudio por Salud Pública.
 
-EF: 
- TA ,FC , SATO2 %, Tª º 
- Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Orofaringe: xerosa e hiperémica. 
- Auscultación Pulmonar: murmullo vesicular conservado
+### 🦠 1.4.6. Picadura de Insecto con Celulitis
 
-JD: CUADRO GRIPAL.
+**MC:** Reacción local a picadura.
 
-TTO. 
- REPOSO EN SU DOMICILIO MIENTRAS FIEBRE (EVITAR CONTACTO CON FAMILIARES NO HABITUALES DURANTE ESTOS DÍAS). INGESTA DE LÍQUIDOS ABUNDANTES.
+**EA:**
+Eritema y dolor en antebrazo derecho tras picadura de insecto el día previo. Afebril.
 
- IBUPROFENO 600MG 1 COMP. DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+**EF:**
+- **Extremidades:** Eritema y calor local en zona de picadura.
 
- SI NO CEDE LA FIEBRE PUEDE AÑADIR PARACETAMOL 1 GRAMO CADA 8 HORAS.
+**JC:** Picadura de insecto con celulitis secundaria.
 
- DEXTROMETORFAN (ROMILAR) JARABE, 1 CUCHARADA TRAS CADA COMIDA Y AL ACOSTAR 5-6 DÍAS
+**PLAN:**
+- **Frío local** y **BETAMETASONA/GENTAMICINA TÓPICA** (Diprogenta®).
+- **AMOXICILINA/CLAVULÁNICO 500/125 mg**: 1 comprimido cada 8 horas durante 8 días.
+- **Antihistamínicos** si prurito.
+- **Analgesia** (Ibuprofeno).
+- Control por su MAP.
 
- EBASTINA+PSEUDOEFEDRINA CÁPS. DURA 10/120 MG (RINO-EBASTEL) 1 CADA 12 HORAS 5 DÍAS
+### 🦠 1.4.7. Uretritis Aguda
 
- SI VÓMITOS DOMPERIDONA JARABE 1 CUCHARADA 20 MIN ANTES DE CADA COMIDA.
+**MC:** Dolor y secreción uretral.
 
- SI DIARREA REHIDRATACIÓN CON BEBIDAS ISOTÓNICAS Y DIETA BLANDA ASTRINGENTE.
+**EA:**
+Cuadro de 2 días de uretrorrea, disuria y malestar, afebril. Niega relaciones de riesgo.
 
-CONTROL EVOLUTIVO POR SU MÉDICO DE FAMILIA. 
-SI EMPEORA avisar a SERV. URGENCIAS 112 PARA VALORAR LA NECESIDAD DE ASISTENCIA HOSPITALARIA o NO.
+**EF:**
+- **Genital:** Uretra eritematosa con secreción purulenta.
 
-### ONICOMICOSIS**
+**JC:** Uretritis aguda.
 
-JD: 
- ONICOMICOSIS
+**PLAN:**
+1.  **Tratamiento y Pruebas en Urgencias:**
+    - Se administra **CEFTRIAXONA 250 mg IM**.
+    - Se toman muestras de exudado uretral para cultivo y PCR.
+2.  **Tratamiento al Alta:**
+    - **AZITROMICINA 1 g** (2 comp. de 500 mg) en dosis única.
+    - **Analgesia** (Ibuprofeno/Paracetamol).
+3.  **Seguimiento:**
+    - Control en consultas de **Infecciosas** con resultados.
 
-TTo.
+### 🦠 1.4.8. Varicela
 
- ITRACONAZOL 100mg EFG, capsulas: 2 capsulas cada 12 horas x 7 días de cada mes x 3 meses. 
- Mycospor onicoset: Noches
+**MC:** Erupción cutánea generalizada.
 
-Ver más en: [http://dermatofitosis.blogspot.com/](http://dermatofitosis.blogspot.com/)
+**EA:**
+Erupción papulo-vesiculosa pruriginosa de 5 días de evolución.
 
-### PAROTIDITIS INFECCIOSA**
+**EF:**
+- **Piel:** Lesiones en diferentes estadios evolutivos en tronco y flexuras.
 
-Varón / Mujer de años que acude por TUMEFACCIÓN PREAURICULAR D / I.
+**JC:** Varicela.
 
-AP: 
-Reacciones Adversas a Medicamentos Conocidas: No 
-Patologías Previas: No refiere. 
-Cirugías previas: No refiere.
+**PLAN:**
+- **Aislamiento** hasta 7 días tras el último brote.
+- **Medidas higiénicas:** Evitar rascado, no aplicar talco.
+- **Tratamiento sintomático:** Antihistamínicos (Polaramine®), antitérmicos (Paracetamol) y antitusígenos (Flutox®).
+- Control por su MAP.
 
-EA: 
- Desde anoche refiere aparición de tumefacción preauricular derecha con molestias en Oido Dcho, por lo que acude. No odontalgia. Refiere haber estado como resfriada desde hace 10 días, con tos seca, rinorrea y ligera odinofagia. Ha llegado a tener hasta 39º en alguno de los días previos. Desde hace unos días también asocia diarrea líquida sin productos patológicos. No otra sintomatolgía. Trabaja en guardería con niños.
+### 🦠 1.4.9. Herpes Zóster Costal
 
-EF: 
- TA FC Tª º 
- Nivel de consciencia y Orientación adecuados. Buen estado general. 
- Cabeza y Cuello:: Orofaringe: sin alteraciones llamativas. Otosc: Hiperemia Conducto Auditivo Derecho: Dcho sin supuración ni alteraciones timpánicas. 
- Auscultación Pulmonar: murmullo vesicular conservado 
- Auscultación Cardiaca: Rítmica sin soplos. 
- Abdomen: Ruidos hidro-aéreos presentes, blando y depresible, no masas ni megalias, no signos de irritación peritoneal, molestias a palpación profunda de hipogastrio. Puño-percusión renal negativa. 
- Extremidades NO edemas. P+.
+**MC:** Lesiones cutáneas en dorso.
 
-P.Compl: 
- AS: Sin alteraciones relevantes.
+**EA:**
+Dolor lumbar irradiado en hemicinturón izquierdo de 2-3 días, con sensación de quemazón.
 
-JD: 
- PAROTIDITIS UNILATERAL en el contexto de CVA. Posible Caso de Parotititis Vírica.
+**EF:**
+- **Piel:** Lesiones máculo-pápulo-vesiculosas en dermatoma D12-L1 izquierdo.
 
-PLAN: 
- REPOSO EN SU DOMICILIO MIENTRAS FIEBRE (EVITAR CONTACTO CON FAMILIARES NO HABITUALES DURANTE ESTOS DÍAS). 
- INGESTA DE LÍQUIDOS ABUNDANTES. 
- IBUPROFENO 600MG 1 COMP. DESPUÉS DE CADA COMIDA 4-5 DÍAS 
- SI NO CEDE LA FIEBRE PUEDE AÑADIR PARACETAMOL 1 GRAMO CADA 8 HORAS. 
- DEXTROMETORFAN (ROMILAR) JARABE, 1 CUCHARADA TRAS CADA COMIDA Y AL ACOSTAR 5-6 DÍAS 
- SI VÓMITOS DOMPERIDONA JARABE 1 CUCHARADA 20 MIN ANTES DE CADA COMIDA. 
- SI DIARREA REHIDRATACIÓN CON BEBIDAS ISOTÓNICAS Y DIETA BLANDA ASTRINGENTE.
+**JC:** Herpes zóster.
 
-CONTROL EVOLUTIVO POR SU MÉDICO DE FAMILIA. 
+**PLAN:**
+- **Cuidados locales:** Limpieza y fomentos con **SULFATO DE ZINC**.
+- **Tratamiento antiviral:**
+    - **ACICLOVIR 800 mg**: 1 comprimido 5 veces al día durante 7 días.
+    - **ACICLOVIR CREMA**.
+- **Tratamiento del dolor neuropático:**
+    - **GABAPENTINA 125 mg** (Nervinex®): 1 comprimido al día durante 7 días.
+- **Analgesia:** Paracetamol, Tramadol, Metamizol.
+- **Protector gástrico**.
+- Control por su MAP.
 
-SI EMPEORA avisar a SERV. URGENCIAS 112 PARA VALORAR LA NECESIDAD DE ASISTENCIA HOSPITALARIA o NO.
+### 🦠 1.4.10. Vulvovaginitis
 
-NOTA: Se ha recogido muestra de saliva y sangre que se ha enviado al Instituto de Salud Pública para estudio, quien notificará los resultados de forma oportuna.
+**PLAN:**
+- **Lavados vaginales** con **BENCIDAMINA** (Rosalgin®) 2 veces al día.
+- **CLOTRIMAZOL o FENTICONAZOL** (Lomexin®) en crema y óvulos.
+- **Analgesia** si precisa.
+- Control en **Ginecología**.
 
-### PICADURA DE INSECTO**
+<a id="neumologia"></a>
+## 🫁 1.5. Neumología
 
-### Varón Mujer de años.  Motivo de Consulta: ERUPCIÓN tras picadura.
+### 🫁 1.5.1. Bronquitis Aguda
 
-**Antecedentes Personales:** 
-**Reacciones Adversas a Medicamentos Conocidas: No** 
-**Patologías previas: no refiere.** 
-**Cirugías previas: No** 
-**Hábitos tóxicos: No** 
-**Tratamiento habitual: No.** 
-**FUR:** 
+**MC:** Tos y disnea.
 
-**Enfermedad Actual:** 
-### Ayer picadura de insecto en antebrazo D. Hoy aparece enrojecimiento y dolor alrededor de la picadura. No fiebre. NO otra sintomatología.
+**EA:**
+Aumento de tos con expectoración mucosa, dolor pleurítico y disnea de esfuerzo de 3 días de evolución.
 
-**Exploración Física:** 
-** Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. Afebril.** 
-** Extremidades Antebrazo Dcho.: Eritema con aumento de temperatura local alrededor de lesión por picadura de insecto.**
+**EF:**
+- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
+- **Auscultación Pulmonar:** Murmullo vesicular disminuido con sibilancias espiratorias.
 
-### Juicio Clínico: PICADURA DE INSECTO. CELULITIS SECUNDARIA.
+**JC:** Bronquitis aguda a descartar neumonía.
 
-**Plan:** 
-** FRIO LOCAL** 
-** DIPROGENTA PMDA. 1 aplicación cada 8 horas 3-4 días** 
-** AMOXICILINA-CLAVULÁNICO 500MG EFG, 1 COMP. VO CADA 8 HORAS 8 DÍAS.**
+**PLAN:**
+1.  **Pruebas y Tratamiento en Urgencias:**
+    - Se solicita Rx de tórax (sin infiltrados).
+    - Se administran nebulizaciones.
+2.  **Tratamiento al Alta:**
+    - **Antibiótico:** LEVOFLOXACINO 500 mg, 1 al día por 7 días.
+    - **Mucolítico:** CARBOCISTEÍNA (Fluidasa®).
+    - **Broncodilatadores:** TERBASMIN® a demanda y PULMICORT® pautado.
+    - **Analgesia/Antitérmicos**.
+3.  **Seguimiento:**
+    - Control por su MAP o Medicina Interna.
 
- SI PICORES. AÑADIR POLARAMINE 2MG 2 COMP CADA 8 HORAS. NO PUEDE CONDUCIR NI REALIZAR ACTIVIDADES PELIGROSAS TRAS TOMAR ESTE MEDICAMENTO.
+### 🫁 1.5.2. EPOC Reagudizado
 
- SI DOLOR IBUPROFENO 600MG EFG 1 COMP. CADA 6-8 HORAS
+**MC:** Aumento de disnea y fiebre.
 
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS.
+**AP:**
+- EPOC, HTA, DLP.
 
-### URETRITIS AGUDA**
+**EA:**
+Aumento de tos con expectoración purulenta, fiebre y disnea de esfuerzo/reposo de 3 días.
 
-**MC:**
-Dolor en pene y secreción
+**EF:**
+- **Auscultación Pulmonar:** Murmullo vesicular disminuido con sibilancias y crepitantes basales.
 
-EA: 
-Varón de años. Acude por cuadro de 2 días de evolución con uretrorrea, disuria y malestar sin fiebre. Niega relaciones de riesgo.
+**JC:** EPOC reagudizado leve.
 
-EF: 
- Nivel de consciencia y Orientación adecuados, Buen estado general, Eupnea, no cianosis. 
- Pene: Uretra peneana eritematosa con abundante secreción purulenta. No úlceras aparentes.
+**PLAN:**
+1.  **Pruebas en Urgencias:**
+    - AS y Rx de tórax (sin infiltrados agudos).
+2.  **Tratamiento al Alta:**
+    - **Antibiótico:** AZITROMICINA 500 mg, 1 al día por 3 días.
+    - **Mucolítico:** ACETILCISTEÍNA 200 mg.
+    - **Broncodilatador de mantenimiento:** SYMBICORT® pautado y a demanda.
+    - **Analgesia/Antitérmicos**.
+3.  **Seguimiento:**
+    - Control por su MAP.
 
-JC: URETRITIS AGUDA
+### 🫁 1.5.3. Neumonía Adquirida en la Comunidad (NAC)
 
-PLAN: 
- CEFTRIAXONA 250 mgr mi ahora.
+**MC:** Sospecha de neumonía.
 
- Se toman muestras para estudio de exudado uretral (2 con medio y 1 sin medio) con Cultivo Bacteriano, Cultivo de Gonococo, Cultivo de Mycoplasma/Ureaplasma, Examen en fresco (Trichomonas) y Det. Antígeno o PCR de Chlamydia Tr.
+**EA:**
+TOS, FIEBRE y DISNEA de varios días.
 
-Tto. 
- HOY TOMARÁ 2 COMP. DE AZITROMICINA 500MGR JUNTOS EN TOMA ÚNICA. 
+**EF:**
+- **Auscultación Pulmonar:** Murmullo vesicular disminuido con sibilancias y crepitantes en base.
 
- SI DOLOR PUEDE TOMAR IBUPROFENO 600MGR 1 COMP. TRAS DESAYUNO, COMIDA Y CENA. SI NO REMITE EL DOLOR PUEDE AÑADIR PARACETAMOL1 GR 1 COMP CADA 8H
+**JC:** Neumonía basal sin criterios de gravedad.
 
- CONTROL EN CONSULTAS DE INFECCIONAS (DR. MENEDEZ) EN 7 DÍAS CON RESULTADO DE ANÁLISIS DE EXUDADO QUE RECOGERÁ EN MOSTRADOR DE CONSULTAS EXTERNAS ANTES DE ACUDIR A CONSULTA. SI EMPEORA VOLVER A URGENCIAS.
+**PLAN:**
+1.  **Pruebas y Tratamiento en Urgencias:**
+    - Se solicita AS y Rx de tórax (confirma NAC).
+    - Se administra dosis de **AMOXICILINA/CLAVULÁNICO 2g IV** o **LEVOFLOXACINO IV**.
+2.  **Tratamiento al Alta:**
+    - **Antibioterapia oral (10 días):** AMOXICILINA 1g/8h + AZITROMICINA 500mg/24h (5 días), o LEVOFLOXACINO 500mg/24h.
+    - **Tratamiento sintomático** (mucolíticos, broncodilatadores, antitérmicos).
+3.  **Seguimiento:**
+    - Control por su MAP.
 
-### VARICELA**
+### 🫁 1.5.4. Laringo-traqueítis Aguda
 
-Varón / Mujer de años. Motivo de consulta: Erupción generalizada desde hace unos días.
+**MC:** Fiebre y tos.
 
-Antecedentes personales: 
-Reacciones Adversas a Medicamentos Conocidas: No 
-Patologías Previas: No refiere. 
-Cirugías previas: No refiere.
+**EA:**
+Fiebre alta (39.8ºC), tos intensa, disfonía y escalofríos.
 
-Enfermedad actual: 
-Refiere aparición desde hace 5 días de erupción en forma de lesiones papulo-vesiculosas pruriginosas por todo el cuerpo. 
+**EF:**
+- **Auscultación Pulmonar:** Murmullo vesicular disminuido globalmente.
 
-Exploración física: 
- Nivel de consciencia y Orientación adecuados. Buena hidratación y perfusión. Eupnea, no cianosis. 
- Piel Erupción papulo-vesiculosa por flexuras, tronco y Abdomenomen sin otras alteraciones. 
- Orofaringe: Sin alteraciones relevantes 
- Auscultación Pulmonar: murmullo vesicular conservado
+**JC:** Laringo-traqueítis aguda.
 
-JC: VARICELA.
+**PLAN:**
+1.  **Pruebas y Tratamiento en Urgencias:**
+    - Rx de tórax normal.
+    - Aerosolterapia con **BUDESONIDA, IPRATROPIO y SALBUTAMOL**.
+2.  **Tratamiento al Alta:**
+    - **Antibiótico:** AZITROMICINA o LEVOFLOXACINO (5 días).
+    - **Tratamiento sintomático:** Lavados nasales, antihistamínico/descongestionante (Rino-Ebastel®), antitusígeno (Actithiol®), broncodilatador de rescate y antitérmicos.
+3.  **Seguimiento:**
+    - Control por su MAP.
 
-TTO: 
- REPOSO Y OBSERVACIÓN EN DOMICILIO HASTA 7 DÍAS DESPUÉS DEL ÚLTIMO BROTE DE LESIONES CUTÁNEAS. 
- HIDRATACIÓN ABUNDANTE. 
- NO DEBE RASCARSE LA PIEL CON LAS UÑAS, NI APLICARSE POLVO DE TALCO, NI TOMAR ASPIRINA O SIMILAR.
+<a id="neurologia"></a>
+## 🧠 1.6. Neurología
 
- SI PICORES, POLARAMINE REPETABS 6MG, 1 COMP. VO. CADA 4-6 HORAS 
- SI FIEBRE PUEDE TOMAR PARACETAMOL 1 GRAMO EFG 1 COMP. VO. CADA 6 HORAS. 
- SI TOS O PICOR FARÍNGEO, FLUTOX JARABE, 1 CUCHARADA SOPERA VO. TRAS CADA COMIDA Y AL ACOSTAR.
+### 🧠 1.6.1. Cefalea Tensional / Contractura Cervical
 
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORAMIENTO VOLVER A URGENCIAS.
+**MC:** Cefalea.
 
-### HERPES-ZOSTER COSTAL**
+**EA:**
+Cefalea fronto-occipital progresiva, asociada a mareo e inestabilidad. Sin focalidad neurológica.
 
-Varón / Mujer de años MC: lesiones en dorso.
+**EF:**
+- **Exploración Cervical:** Dolor a la palpación de musculatura paravertebral.
+- **Exploración Neurológica:** Normal.
 
-AP: 
-Reacciones Adversas a Medicamentos Conocidas: No 
-Patologías Previas: No refiere. 
-Cirugías previas: No refiere. 
-TTo. Actual: No.
+**JC:** Cefalea tensional / Contractura cervical.
 
-EA: 
- Desde hace 2-3 días dolor lumbar continuo irradiado por lado izdo adelante que no se modifica con la posición y asocia sensación de quemazón local. No fiebre. No otra sintomatología.
+**PLAN:**
+- **Reposo** y **calor local**.
+- **Relajante muscular:** DIAZEPAM 5 mg al acostarse.
+- **Analgesia/AINEs:** IBUPROFENO y/o PARACETAMOL.
+- **Antieméticos/Antivertiginosos** si precisa (Domperidona/Sulpirida).
+- **Protector gástrico**.
+- **Seguimiento:** Control por MAP y fisioterapia.
 
-EF: 
- Nivel de consciencia y Orientación adecuados, Buen estado general, Eupneica. No cianosis. 
- Dorso: lesiones máculo-pápulo-vesiculosas en trayecto de metámera de D12-L1.
+### 🧠 1.6.2. Mareo / Síndrome Vertiginoso
 
-JC: HERPES ZOSTER.
+**MC:** Mareo / Inestabilidad.
 
-TTo. 
- LIMPIEZA LOCAL DE LESIONES CON JABÓN NEUTRO PREVIO A APLICACIÓN DE TRATAMIENTO.
+**EA:**
+Episodio de inestabilidad sin giro de objetos, con/sin cortejo vegetativo. Características compatibles con origen periférico.
 
- SULFATO DE ZN AL 4% CSP 250ML. APLICAR CADA 8 HORAS EMPAPANDO (NO FROTANDO) TODA LA ZONA AFECTA (NO GENITALES).
+**EF:**
+- **Exploración Neurológica:** Compatible con síndrome vertiginoso periférico (nistagmo horizontal, Romberg lateralizado, etc.).
 
- DESPUÉS, TAMBIÉN CADA 8 HORAS, APLICAR ACICLOVIR CREMA EFG
+**JC:** Síndrome vertiginoso periférico / VPPB.
 
- ACICLOVIR 800MG, 1 COMP. CADA 4 HORAS POR EL DÍA (5 VECES AL DÍA) 7 DÍAS
+**PLAN:**
+1.  **Pruebas y Tratamiento en Urgencias:**
+    - Se solicita AS y EKG.
+    - Se administra **SULPIRIDA IV**, **METOCLOPRAMIDA IV**, **DEXKETOPROFENO IV** y **DIAZEPAM SL**.
+2.  **Tratamiento al Alta:**
+    - **Reposo** y calor cervical.
+    - **SULPIRIDA 50 mg** pautado, seguido de **BETAHISTINA 8 mg**.
+    - **DIAZEPAM 5 mg** como relajante muscular.
+    - **AINEs** y **protector gástrico**.
+3.  **Seguimiento:**
+    - Control por MAP y fisioterapia.
 
- NERVINEX 125MG, 1 COMP. AL DÍA 7 DÍAS
+### 🧠 1.6.3. Parálisis Facial Periférica
 
- SI DOLOR PARACETAMOL 1GRAMO EFG 1 COMP. CADA 8 HORAS
+**MC:** Parestesias en hemicara.
 
- SI NO REMITE AÑADIR TRAMADOL 50MG 1 CAP CADA 8 HORAS (TOMAR 30 MIN ANTES DE CADA CP 1 CUCHARADA SOPERA DE DOMPERIDONA JARABE LOS PRIMEROS DÍAS)
+**EA:**
+Parestesias en hemicara y hemilengua derechas de 2 horas, precedido de catarro y herpes labial.
 
- SI DOLOR INTENSO, TOMAR 1 AMPOLLA DE METAMIZOL BEBIDA REPETIBLE MÁXIMO CADA 8-12 HORAS
+**EF:**
+- **Exploración Neurológica:** Paresia facial periférica derecha. Otoscopia con vesículas en CAE (posible Ramsay-Hunt).
 
- OMEPRAZOL 20MG EFG 1 COMP. AL DÍA SI MOLESTIAS GÁSTRICAS.
+**JC:** Parálisis facial periférica (posible Síndrome de Ramsay-Hunt).
 
-CONTROL POR SU MÉDICO. SI EMPEORA VOLVER A URGENCIAS
+**PLAN:**
+1.  **Tratamiento y Pruebas en Urgencias:**
+    - Se solicita AS y AO.
+    - Se administra bolo de **METILPREDNISOLONA 125 mg IV**.
+2.  **Tratamiento al Alta:**
+    - **Protección ocular:** Oclusión nocturna, lágrimas artificiales.
+    - **Corticoides orales:** Pauta descendente de **PREDNISONA** o **DEFLAZACORT**.
+    - **Complejo vitamínico:** B1-B6-B12 (Hidroxil®) y Gabapentina.
+    - **Analgesia** y **protector gástrico**.
+3.  **Seguimiento:**
+    - Control por su MAP y **Neurología**.
 
-### VULVO-VAGINITIS**
+<a id="oftalmologia"></a>
+## 👁️ 1.7. Oftalmología
 
-TTO.
+### 👁️ 1.7.1. Absceso Corneal por Lentes de Contacto
 
- LAVADO VULVO-VAGINAL DOS VECES AL DÍA CON ROSALGIN SOBRES. DURANTE 7 DÍAS
+**MC:** Molestias oculares.
 
- TRAS EL LAVADO APLICAR CREMA DE CLOTRIMAZOL / LOMEXIN VAGINAL CADA 12 HORAS DURANTE 7 DÍAS
+**EA:**
+Irritación, secreción y lesión blanquecina en córnea de 24h de evolución en portador de lentes de contacto.
 
- ESTA NOCHE APLICARÁ DENTRO DE LA VAGINA 1 ÓVULO DE CLOTRIMAZOL 500MG ANTES DE APLICAR LA CREMA. / LOMEXIN 200MGR 1 ÓVULO 3 NOCHES SEGUIDAS. Alternativa: DALACIN 100mgr ÓVULOS VAGINALES: un óvulo por vía vaginal a la hora de acostarse durante 3 días consecutivos.
+**EF:**
+- **Ojo Derecho:** Inyección ciliar, mancha blanquecina corneal. Tinción con fluoresceína negativa.
 
- GINDOXI (Aloe Vera) ESPUMA VAGINAL A DEMANDA.
+**JC:** Absceso corneal.
 
- SI DOLOR O MOLESTIAS PUEDE TOMAR PARACETAMOL 1GR O IBUPROFENO 600MG CADA 6-8 HORAS
+**PLAN:**
+- **Suspender uso de lentes de contacto**.
+- **Lavados oculares** con suero fisiológico.
+- **Colirio antibiótico reforzado:** OFLOXACINO (Exocin®) cada hora.
+- **Pomada antibiótica nocturna:** OFLOXACINO (Oftacilox®).
+- **Ciclopléjico** y **AINE tópico** si dolor.
+- Control preferente en **Oftalmología**.
 
-CONTROL EN CONSULTAS DE GINECOLOGÍA EN 7 DÍAS. SI EMPEORA VOLVER A URGENCIAS
+### 👁️ 1.7.2. Blefaro-Conjuntivitis Aguda
 
-## NEUMOLOGÍA***
+**MC:** Molestias oculares.
 
- 1. ### **BRONQUITIS AGUDA**
+**EA:**
+Sensación de cuerpo extraño, secreción, edema y eritema palpebral.
 
-### Varón / Mujer de  años. MC: TOS y DISNEA.
+**EF:**
+- **Ojo:** Inyección conjuntival con edema y eritema palpebral.
 
-**AP:** 
-** NO Reacciones Adversas a Medicamentos Conocidas** 
-** Patologías previas: No** 
-** Qx Previas: No.** 
-** TTo. Actual: No.**
+**JC:** Blefaro-conjuntivitis aguda.
 
-### EA: Desde hace 3 días aumento de TOS intensa con escasa expectoración mucosa, DOLOR PLEURÍTICO en costado derecho, escalofríos y sensación de DISNEA de medio esfuerzo. Su MAP ha observado crepitantes en tercio inf. dcho. con sibilancias espiratorias, por lo que lo remite.
+**PLAN:**
+- **Lavados oculares**.
+- **Colirio antibiótico + corticoide:** TOBRAMICINA/DEXAMETASONA (Tobradex®).
+- **Pomada antibiótica + corticoide nocturna** (Terracortril®).
+- **Analgesia** oral si precisa.
+- Control en **Oftalmología**.
 
-**EF:** 
-** TA FC , SATO2 %, Tª º** 
-** Nivel de consciencia y Orientación adecuados. Buena hidratación y perfusión. Eupnea. No cianosis.** 
-** Cabeza y Cuello:. No bocio ni adenopatías. Pulsos carotídeos rítmicos sin soplos. No ingurgitación venosa yugular.** 
-** Auscultación Pulmonar: murmullo vesicular disminuido con sibilancias espiratorias en ambos campos. No percibo crepitación.** 
-** Auscultación Cardiaca: Rítmica tonos apagados no percibo soplos**
+### 👁️ 1.7.3. Conjuntivitis (Irritativa, Vírica)
 
-### JC: Bronquitis Aguda. A descartar neumonía.
+**JC:** Conjuntivitis irritativa (cuerpo extraño extraído) / Conjuntivitis aguda vírica.
 
-**PLAN:** 
-** Solicito P. Compl.: Rx Tórax.** 
-** Indico TTo. con NEB.**
+**PLAN:**
+- **Medidas higiénicas** estrictas (en víricas).
+- **Lavados oculares**.
+- **Tratamiento tópico:**
+    - **Irritativa:** Pauta corta e intensiva de TOBRAMICINA/DEXAMETASONA.
+    - **Vírica:** TOBRAMICINA/DEXAMETASONA seguido de AINE tópico (DICLOFENACO).
+- **Analgesia** oral.
+- Control en **Oftalmología**.
 
-**P. Compl.:** 
-** Rx Tórax.: NO aprecio infiltrados agudos.**
+### 👁️ 1.7.4. Erosión o Quemadura Corneal
 
-### JC: Bronquitis Aguda.
+**PLAN:**
+- **Protección ocular** (evitar luz, aire).
+- **Analgesia** oral (Nolotil®, Paracetamol).
+- **Tratamiento tópico:** Colirio ciclopléjico + Colirio antibiótico (TOBRAMICINA) + Pomada epitelizante.
+- **Oclusión** del ojo afectado.
+- Control preferente en **Oftalmología** en 24-48h.
 
-**TTo.** 
-** REPOSO RELATIVO MIENTRAS PRESENTE FIEBRE. INGESTA DE AGUA CON FRECUENCIA.** 
-** LEVOFLOXACINO 500MG EFG 1 COMP. AL DÍA DURANTE 7 DÍAS.** 
-** FLUIDASA JARABE 1/2 CUCHARADA TRAS CADA COMIDA 5-6 DÍAS** 
-** TERBASMIN TH 2 INHALACIONES TRAS CADA COMIDA Y TRAS CADA GOLPE DE TOS O SENSACIÓN DE FALTA DE AIRE.** 
-** PULMICORT TH 400, 2 INHALACIONES CADA 12 HORAS TRAS EL TERBASMIN DE LA MAÑANA Y LA NOCHE, DURANTE 8-10 DÍAS Y LUEGO RETIRAR PROGRESIVAMENTE. DESPUES DE CADA TOMA REALIZAR ENJUAGUE DE BOCA Y GARGANTA CON AGUA Y BICARBONATO.**
+### 👁️ 1.7.5. Orzuelo
 
- SI FIEBRE O DOLOR PUEDE TOMAR PARACETAMOL 1 GRAMO O IBUPROFENO 600MG CADA 8 HORAS.
+**MC:** Lesión palpebral dolorosa.
 
-CONTROL POR SU MÉDICO O EN CONSULTAS DE MEDICINA INTERNA. SI EMPEORA VOLVER A URGENCIAS.
+**JC:** Orzuelo.
 
-### EPOC REAGUDIZADO**
+**PLAN:**
+- **Antibiótico oral:** AMOXICILINA/CLAVULÁNICO 500/125 mg.
+- **Tratamiento tópico:** Colirio y pomada de TOBRAMICINA/DEXAMETASONA.
+- **Analgesia** oral.
+- Control en **Oftalmología** en 48-72h.
 
-Varón / Mujer de años. MC: Aumento de disnea + fiebre.
+### 👁️ 1.7.6. Hiposfagma (Hemorragia Subconjuntival)
 
-AP: 
- NO Reacciones Adversas a Medicamentos Conocidas 
- HTA, DL 
- EPOC. 
- Qx Previas: No.
+**MC:** Derrame ocular.
 
-TTo. Actual:
+**EA:**
+Aparición brusca de hemorragia subconjuntival sin traumatismo ni clínica asociada.
 
-EA: Desde hace 3 días aumento de TOS intensa con aumento de EXPECTORACIÓN mucosa – purulenta, FIEBRE y DISNEA que se ha hecho de medio esfuerzo / reposo.
+**EF:**
+- **Ojo:** Hiposfagma en conjuntiva bulbar. TA normal.
 
-EF: 
- TA FC , SATO2 %. 
- Nivel de consciencia y Orientación adecuados. Buena hidratación y perfusión. Eupnea. No cianosis. 
- Cabeza y Cuello:. No bocio ni adenopatías. Pulsos Carotídeos rítmicos sin soplos. No ingurgitación venosa yugular. 
- Auscultación Pulmonar: MV disminuido con sibilancias inspiratorias en base izda y crepitantes bibasales más intensos en base derecha. 
- Auscultación Cardiaca: Rítmica tonos apagados no percibo soplos 
- Extremidades No edemas. Signos cutáneos tróficos de IVC.
+**JC:** Hiposfagma.
 
-P. Compl.: 
- AS: Sin alteraciones significativas. Se adjunta. 
- Rx Tórax: no aprecio Infiltrados agudos.
+**PLAN:**
+- **AINE tópico:** DICLOFENACO colirio.
+- **Analgesia** oral si precisa.
+- Control en **Oftalmología** en 1 semana.
 
-JC: EPOC REAGUDIZADO LEVE.
+### 👁️ 1.7.7. Queratitis Herpética
 
-TTo. 
- REPOSO Y OBSERVACIÓN EN DOMICILIO 
- AZITROMICINA 500MG EFG 1 COMP. AL DÍA 3 DÍAS 
- ACETILCISTEINA 200MG EFG 1 COMP. TRAS DESAYUNO, COMIDA Y CENA 10 DÍAS 
- SYMBICORT TH 2 INHALACIONES TRAS DESAYUNO, COMIDA Y CENA 5-6 DÍAS Y UNA TOMA MÁS SI PERCIBE SENSACIÓN DE DISNEA. 
- SI FIEBRE O DOLOR, PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS 
- RESTO DE TRATAMIENTOS COMO LOS VENÍA REALIZANDO.
+**PLAN:**
+- **Protección ocular**.
+- **Tratamiento tópico:**
+    - Ciclopléjico + AINE tópico.
+    - **ACICLOVIR pomada oftálmica** cada 4 horas.
+    - Pomada epitelizante (Vita-Pos®) nocturna.
+- **Analgesia** oral.
+- Control en **Oftalmología**.
 
- SI EMPEORAMIENTO VOLVER A URGENCIAS. CONTROL POR SU MÉDICO
+### 👁️ 1.7.8. Úlcera Corneal
 
-### SOSPECHA NEUMONÍA MAP**
+**MC:** Sensación de cuerpo extraño.
 
-Varón / Mujer de años. MC: Remitido por MAP por sospecha NEUMONÍA.
+**EA:**
+Molestias y epífora tras posible entrada de cuerpo extraño (madera).
 
-AP: 
- NO Reacciones Adversas a Medicamentos Conocidas 
- No patologías previas. 
- Qx Previas: No.
+**EF:**
+- **Ojo:** Tinción con fluoresceína positiva en córnea.
 
-TTo. Actual: No
+**JC:** Úlcera corneal.
 
-EA: Desde hace  días aumento de **TOS** intensa con escasa expectoración mucosa, **FIEBRE** de hasta 3 º, escalofríos y sensación de **DISNEA** de medio esfuerzo. Su MAP ha ha observado alts. en AP de campos D / I. con sibilancias es / inspiratorias, por lo que lo remite. 
+**PLAN:**
+- **Protección ocular**.
+- **Tratamiento tópico:** Ciclopléjico, AINE y **pomada antibiótica** (ERITROMICINA).
+- **Oclusión** ocular.
+- **Analgesia** oral.
+- Control en **Oftalmología** en 48h.
 
-EF: 
- TA , FC  , SATO2 %. Tª º 
- Nivel de consciencia y Orientación adecuados. Buena hidratación y perfusión. Eupnea. No cianosis. 
- Cabeza y Cuello:. No bocio ni adenopatías. Pulsos Carotídeos rítmicos sin soplos. No ingurgitación venosa yugular. Orof: xerosa y ligeramente hiperémica. 
- Auscultación Pulmonar: MV disminuido con sibilancias teleinspiratorias en base D / I . y crepitantes en base I. 
- Auscultación Cardiaca: Rítmica tonos apagados no percibo soplos 
- Extremidades No edemas. No signos de trombosis venosa profunda
+<a id="orl"></a>
+## 👂 1.8. Otorrinolaringología
 
-JC: Infección Respiratoria. Bronquiolitis. Posible NEUMONÍA BASAL I.
+### 👂 1.8.1. Absceso Periamigdalino
 
-PLAN: 
- Solicito P. Compl.: AS + Rx Tórax.
+**EA:**
+Fiebre, odinofagia intensa, disfagia, trismus y voz gangosa.
 
-JC: NEUMONÍA BASAL D / I / LÓBULO MEDIO, ADQUIRIDA EN LA COMUNIDAD SIN CRITERIOS DE GRAVEDAD ACTUAL.
+**EF:**
+- **Orofaringe:** Abombamiento de pilar amigdalino, con desplazamiento de úvula.
 
-PLAN: 
- Se administra 1 dosis de AUGMENTINE 2gr. IV.
+**JC:** Posible absceso periamigdalino.
 
-AL ALTA, TTO. AMBULATORIO: 
- REPOSO Y OBSERVACIÓN EN DOMICILIO MIENTRAS PERSISTA LA FIEBRE 
- INGESTA DE ABUNDANTE LÍQUIDO. 
-**** **AMOXICILINA 500 mg 2 CP. JUNTAS** CADA 8 HORAS POR VÍA ORAL DURANTE 10 DÍAS Y 
-**** **AZITROMICINA 500MG EFG** 1 COMP. AL DÍA  POR VÍA ORAL DURANTE 5 DÍAS 
- **FLUIDASA JARABE**, 1 CUCHARADA TRAS CADA COMIDA 4-5 DÍAS. 
- SI FIEBRE O DOLOR PUEDE TOMAR IBUPROFENO 600MG EFG 1 COMP. CADA 6 HORAS Y SI NO REMITE AÑADIRÁ PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS.
+**PLAN:**
+- Derivación urgente a **ORL de guardia** hospitalaria para valoración y posible drenaje.
 
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS.
+### 👂 1.8.2. Amigdalitis Aguda Pultácea
 
-JC: NEUMONÍA BASAL D / I / LÓBULO MEDIO, ADQUIRIDA EN LA COMUNIDAD SIN CRITERIOS DE GRAVEDAD ACTUAL.
+**EA:**
+Fiebre y odinofagia con disfagia.
 
-PLAN: 
- Se administra 1 dosis de
+**EF:**
+- **Orofaringe:** Amígdalas hiperémicas y edematosas con exudado pultáceo.
 
-TTo. 
- REPOSO RELATIVO.
+**JC:** Amigdalitis aguda.
 
- INGESTA DE AGUA CON FRECUENCIA.
+**PLAN:**
+- **Test rápido de estreptococo** (si disponible).
+- **Reposo, hidratación** y dieta blanda.
+- **Enjuagues** con antiséptico.
+- **Antibiótico:** AMOXICILINA/CLAVULÁNICO 875/125 mg durante 8 días.
+- **AINEs/analgésicos**.
+- Control por su MAP.
 
-** LEVOFLOXACINO 500MG EFG** 1 COMP. AL DÍA DURANTE 10 DÍAS.
+### 👂 1.8.3. Cólico Salivar / Sialoadenitis
 
-**** **AUGMENTINE PLUS 1000**, 2 COMP. CADA 12 horas DURANTE 10 DÍAS.
+**EA:**
+Dolor y tumefacción submandibular que aumenta con la ingesta.
 
- FLUIDASA JARABE 1 CUCHARADA TRAS CADA COMIDA 5-6 DÍAS
+**EF:**
+- **Cabeza y Cuello:** Glándula submandibular aumentada y dolorosa.
 
- TERBASMIN TH 2 INHALACIONES TRAS CADA COMIDA Y TRAS CADA GOLPE DE TOS O SENSACIÓN DE FALTA DE AIRE.
+**JC:** Posible sialoadenitis/cólico salivar.
 
- PULMICORT TH 400, 2 INHALACIONES CADA 12 HORAS TRAS EL TERBASMIN DE LA MAÑANA Y LA NOCHE, DURANTE 8-10 DÍAS Y LUEGO RETIRAR PROGRESIVAMENTE. DESPUES DE CADA TOMA REALIZAR ENJUAGUE DE BOCA Y GARGANTA CON AGUA Y BICARBONATO.
+**PLAN:**
+- **Sialogogos** (líquidos, ácidos) y **masaje** glandular.
+- **Frío local**.
+- **Antibiótico:** AMOXICILINA/CLAVULÁNICO 1g/12h.
+- **AINEs**.
+- Control en **ORL** en 48h.
 
- SI FIEBRE O DOLOR PUEDE TOMAR PARACETAMOL 1 GRAMO O IBUPROFENO 600MG CADA 8 HORAS.
+### 👂 1.8.4. Faringitis (Aguda, Candidiásica, Seca)
 
- **OMEPRAZOL 20MG EFG** 1 COMP. AL DÍA.
+**JC:** Faringitis aguda / Candidiasis orofaríngea / Faringitis seca irritativa.
 
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS.
+**PLAN:**
+- **Aguda:** Tratamiento sintomático (AINEs, antisépticos, antitusígenos). Considerar antibiótico (Azitromicina) si sospecha bacteriana.
+- **Candidiásica:** Enjuagues con **BICARBONATO** y luego **NISTATINA** oral. **ITRACONAZOL** oral si severo. Suspender antibiótico previo si es la causa.
+- **Seca:** Medidas de hidratación, lavados nasales, emolientes faríngeos (Anginovag®), vitamina A.
+- Control por MAP o ORL.
 
-### LARINGO-TRAQUEITIS**
+### 👂 1.8.5. Fractura de Huesos Propios Nasales
 
-Varón / mujer de años. MC: FIEBRE y TOS.
+**EA:**
+Herida facial y epistaxis tras traumatismo.
 
-AP:: 
-Reacciones Adversas a Medicamentos Conocidas: No 
-Patologías previas: no refiere. 
-Cirugías previas: No 
-Hábitos tóxicos: No 
-Tratamiento habitual: No. 
-FUR: 
+**EF:**
+- **Cabeza:** Hematoma, herida contusa. Posible deformidad o crepitación nasal.
 
-EA: Desde ayer FIEBRE de hasta 39.8º con TOS intensa con escasa expectoración mucosa, DISFONÍA, escalofríos y tiritonas. 
+**JC:** Fractura no desplazada de huesos propios.
 
-EF: 
- TA FC, SATO2 %. Tª 
- Nivel de consciencia y Orientación adecuados. Buena hidratación y perfusión. Eupnea. No cianosis. 
- Cabeza y Cuello:. No bocio ni adenopatías. Pulsos Carotídeos rítmicos sin soplos. No ingurgitación venosa yugular. Orof.: xerosa e hiperémica 
- Auscultación Pulmonar: Murmullo vesicular disminuido de forma global. 
- Auscultación Cardiaca: Rítmica tonos apagados no percibo soplos
+**PLAN:**
+- **Taponamiento nasal** si epistaxis (retirar en 48h).
+- **Sutura** de heridas.
+- **Reposo, frío local** y **analgesia**.
+- Control en **ORL** en 48-72h para reevaluar deformidad.
 
-PLAN: 
- Rx Tórax PA y LAT: No aprecio infiltrados ni LOES o derrame pleural. 
- AEROSOLTERAPIA: BUDESONIDA 0.5 1 amp. Nebul + B. IPRATROPIO 500 1 amp nebul. + SALBUTANOL 0.5 cc nebil.
+### 👂 1.8.6. Otitis (Externa, Media Aguda)
 
-EVOL: 
-Mejoría relativa tras tratamiento administrado.
+**JC:** Otitis externa / Otitis media aguda (OMA).
 
-JC: LARINGO-TRAQUEITIS AGUDA
+**PLAN:**
+- **Externa:**
+    - Evitar humedad. No introducir bastoncillos.
+    - **Gotas óticas** con Ciprofloxacino y corticoide (Cetraxal Plus®).
+    - **Antibiótico oral** (Azitromicina) si celulitis asociada.
+    - **Analgesia**.
+- **Media Aguda:**
+    - **Antibiótico oral:** AMOXICILINA/CLAVULÁNICO 875/125 mg, 12 días.
+    - **Gotas óticas** si supuración.
+    - **Tratamiento coadyuvante:** Descongestionantes, corticoides nasales.
+- Control en **ORL**.
 
-TTo. 
- REPOSO RELATIVO MIENTRAS PRESENTE FIEBRE. INGESTA DE AGUA CON FRECUENCIA. 
- LAVADO DE FOSAS NASALES CON SUERO SALINO O SIMILAR (RHINOMER, RHINODUCHE, ETC.) 3-4 VECESA AL DÍA. 
- AZITROMICINA 500MG EFG / 
-LEVOFLOXACINO 500MG EFG 1 COMP. AL DÍA DURANTE 5 DÍAS. 
- RINO-EBASTEL 1 COMP. CADA 12 HORAS 5 DÍAS. 
- ACTHITIOL / FLUIDASA JARABE 1 CUCHARADA TRAS CADA COMIDA 5-6 DÍAS.
+### 👂 1.8.7. Sinusitis Aguda
 
- TERBASMIN/SALBUTAMOL INH, 2 INHALACIONES TRAS CADA COMIDA Y TRAS CADA GOLPE DE TOS O SENSACIÓN DE FALTA DE AIRE UNOS DÍAS (4-5).
+**EA:**
+Cefalea frontal y dolor periorbitario tras cuadro catarral.
 
- SI FIEBRE O DOLOR PUEDE TOMAR IBUPROFENO 600MG TRAS CADA COMIDA Y SI NO REMITE AÑADIR PARACETAMOL 1 GRAMO CADA 8 HORAS.
+**EF:**
+- **Cabeza:** Dolor a la palpación de puntos sinusales.
 
-CONTROL POR SU MÉDICO. SI EMPEORA VOLVER A URGENCIAS.
+**JC:** Sinusitis aguda.
 
-## NEUROLOGÍA***
+**PLAN:**
+1.  **Pruebas:** Rx de senos paranasales (si duda diagnóstica).
+2.  **Tratamiento:**
+    - **Lavados nasales**.
+    - **Corticoides nasales** (Budesonida).
+    - **Descongestionante/Antihistamínico** (Rino-Ebastel®).
+    - **Antibiótico:** AZITROMICINA.
+    - **Analgesia**.
+3.  **Seguimiento:** Control en **ORL**.
 
- 1. ### **CEFALEA TENSIONAL**
+### 👂 1.8.8. Tapon de Cerumen
 
-Varón / Mujer de años. MC: CEFALEA.
+**EA:**
+Hipoacusia de instauración progresiva.
 
-AP: 
-Reacciones Adversas a Medicamentos Conocidas: No 
-Patologías previas: no refiere. 
-Cirugías previas: No 
-Hábitos tóxicos: No 
-Tratamiento habitual: No. 
-FUR: 
+**EF:**
+- **Otoscopia:** Tapón de cerumen que ocluye el CAE.
 
-EA: 
-Refiere cuadro de horas / días de evolución con CEFALEA FRONTO-OCCIPITAL de carácter progresivo con sensación de mareo-inestabilidad asociado y nauseas. No refiere focalidad neurológica ni fiebre ni acúfenos o hipoacusia. Refiere episodios similares en otras ocasiones con ritmo de progresión diurno.
+**JC:** Tapón de cerumen.
 
-EF: 
- TA FC Sat % , 
- Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Cabeza y Cuello:. No bocio ni adenopatías. Pulsos Carotídeos rítmicos sin soplos. Dolor a palpación de musculatura paravertebral cervical. 
- Neurol: pupilas isocóricas normorreactivas, Pares Cr. Normales, Tono, fuerza y sensibilidad conservados, ROT normales, no dismetrías ni alteraciones del equilibrio, no nistagmo ni romberg, no alteraciones del movimiento ni de la marcha ni signos meningeos.
+**PLAN:**
+- **Gotas cerumenolíticas** (ej. Anticerumen Liade®).
+- Cita preferente en **ORL** para extracción.
 
-JD: 
- CEFALEA TENSIONAL. CONTRACTURA CERVICAL.
+<a id="psiquiatria"></a>
+## 🧘 1.9. Psiquiatría
 
-TTo. AL ALTA 
- REPOSO RELATIVO. CALOR LOCAL CERVICAL INTERMITENTE. 
- DIAZEPAN 5MG, 1 COMP AL ACOSTAR DURANTE 8 DÍAS 
- SI DOLOR, TOMARÁ IBUROFENO 600MG, 1 COMP. V.ORAL DESPUÉS DE CADA COMIDA. 
- SI NO CEDE EL DOLOR PUEDE TOMAR PARACETAMOL 1GRAMO, 1 COMP. CADA 8 HORAS 
- SI NAUSEAS PUEDE TOMAR DOMPERIDONA JARABE 1 CUCHARADA 20 MIN ANTES DE CADA COMIDA. 
- SI MAREO, DOGMATIL 50, 1 COMP. CADA 8 HORAS. 
- SI MOLESTIAS GÁSTRICAS OMEPRAZOL 20MG EFG 1 COMP. CADA DÍA
+### 🧘 1.9.1. Crisis de Ansiedad
 
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS. AL REMITIR MOLESTIAS, REALIZAR EJERCICIOS DE FISIOTERAPIA PARA TONIFICACIÓN MUSCULAR Y RELAJACIÓN A DIARIO.
+**EA:**
+Cuadro de inicio brusco con nerviosismo, palpitaciones, disnea y opresión precordial.
 
-### MAREO**
+**EF:**
+- Exploración física y constantes normales. Taquicardia sinusal.
 
-Varón / Mujer de años que acude por "MAREO" con sensación de movimiento (VÉRTIGO), desequilibrio-INESTABILIDAD, sensación de desmayo inminente (PRE-SÍNCOPE), síntomas mal definidos (PSQ) + CERVICALGIA.
+**JC:** Crisis de ansiedad.
 
-AP: 
-Reacciones Adversas a Medicamentos Conocidas: No 
-Patologías previas: no refiere. 
-Cirugías previas: No 
-Hábitos tóxicos: No 
-Tratamiento habitual: No. 
-FUR: 
+**PLAN:**
+1.  **Pruebas y Tratamiento en Urgencias:**
+    - EKG para descartar patología cardíaca (normal).
+    - **LORAZEPAM 1 mg sublingual**.
+2.  **Tratamiento al Alta:**
+    - **Reposo** y técnicas de control de la respiración.
+    - **LORAZEPAM 1 mg sublingual** a demanda.
+3.  **Seguimiento:**
+    - Control por su MAP.
 
-EA: 
-Refiere cuadro de 
--Aparición brusca, Al las 17h aprox., de MAREO-INESTABILIDAD sin giro de objetos que le ha provocado la pérdida del equilibrio sin pérdida de consciencia. No acúfenos ni hipoacusia ni otra sintomatología / síntomas mal definidos (PSQ) / CERVICALGIA. 
--Curso en forma de crisis con periodos asintomáticos / Constante 
--Duración: Segundos-semanas / 1 mes 
--Síntomas neuro-vegetativos asociados: nauseas, vómitos, sudoración / ninguno. 
--Hipoacusia o Acúfenos: si / no. 
--Signos de focalidad neurológica: ninguno / presentes.
+<a id="reumatologia"></a>
+## 🦴 1.11. Reumatología
 
-EF: 
- TA , FC , Sat 97%, Glu , Tª º. 
- Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Cabeza y Cuello:. No bocio ni adenopatías. Pulsos Carotídeos rítmicos sin soplos. Otoscopia: Normal. Contractura y dureza a palpación de musc. Paravertebral 
- Auscultación Pulmonar: murmullo vesicular conservado 
- Auscultación Cardíaca: Rítmica sin soplos 
- Neurol: pupilas isocóricas normorreactivas, Pares Cr. Normales, Tono, fuerza y sensibilidad conservados, Reflejos Osteo-Tendinosos normales, no dismetrías ni alteraciones del equilibrio, no nistagmo ni romberg, no alteraciones del movimiento ni de la marcha ni signos meningeos. 
--Nistagmo: si/no 
- - Horizontal o torsional, no cambiante, unidireccional y armónico con respecto a la expl. vestibulo-espinal. 
- - Irregular(vertical), cambiente, de mirtada lateral, no armónico con la exploración vestibulo-espinal. 
--Romberg: (+) hacia el lado de lesión vestibular / variable 
--Indic. de Barany: (+) hacia el lado de lesión vestibular / variable 
--Unterberger: (+) hacia el lado de lesión vestibular / variable 
--Valsalva: no modifica la sensación vertiginosa / aparece sensación vertiginosa. 
--P.Cerebelosas: No alteradas / alteradas
+### 🦴 1.11.1. Podagra (Ataque de Gota)
 
-JC: Sdr. Vertiginoso
+**MC:** Dolor en pie.
 
-PLAN: 
- Solicito P.Compl.. AS, + EKG 
- Indico TTo. con DOGMATIL + PRIMERAM + DEXKETOPROFENO iv + DIAZEPAN 2,5 mg SL
+**AP:**
+- Hiperuricemia conocida, antecedentes familiares de gota.
 
-P.Compl. 
- AS: 
- EKG: Rítmo sinusal a 60lpm sin alteraciones de repol.
+**EA:**
+Dolor e inflamación en 1ª articulación metatarsofalángica (MTF), sin traumatismo.
 
-JD: 
- Sdr. Vertiginoso Periférico / Vértigo Posicional Paroxístico.
+**EF:**
+- **Pie:** Signos de flogosis (dolor, rubor, calor, tumor) en 1ª MTF.
 
-TTo. 
- REPOSO RELATIVO MIENTRAS PRESENTE MAREO. CALOR CERVICAL LOCAL INTERMITENTE.
+**JC:** Monoartritis, posible podagra.
 
- DIAZEPAN 5MG EFG 1 COMP. AL ACOSTAR 8 DÍAS Y 1/2 EN DESAYUNO Y COMIDA MIENTRAS GUARDE REPOSO EN CASA, EVITANDO REALIZAR ACTIVIDADES PELIGROSAS O CONDUCIR MIENTRAS TOME ESTE MEDICAMENTO POR EL DÍA.
+**PLAN:**
+1.  **Pruebas y Tratamiento en Urgencias:**
+    - Se solicita AS (con ácido úrico) y Rx de pie.
+    - Se administra **AINEs** y **PARACETAMOL**.
+2.  **Tratamiento al Alta:**
+    - **Reposo**, elevación y **frío local**.
+    - **COLCHICINA** a dosis pautada.
+    - **AINEs** (Dexketoprofeno) y **protector gástrico**.
+    - **Analgesia** de rescate (Paracetamol).
+3.  **Seguimiento:**
+    - Control en **Reumatología**.
 
- SULPIRIDA 50MG, 1 COMP. CADA 8 HORAS HASTA QUE LLEVE 2 DÍAS SIN MAREO, LUEGO CONTINUAR CON SERC 8 MG 1 CADA 8 HORAS 1 MES.
+<a id="urologia"></a>
+## 🚽 1.12. Urología
 
- DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+### 🚽 1.12.1. Cólico Reno-ureteral (CRU)
 
- SI MOLESTIAS GÁSTRICAS, OMEPRAZOL 20MG EFG 1 COMP.  AL DÍA.
+**MC:** Dolor en fosa renal.
 
- SI DOLOR PUEDE TOMAR PARACETAMOL 1GRAMO, 1 COMP. CADA 8 HORAS
+**EA:**
+Dolor cólico en fosa renal, con/sin irradiación, con/sin síndrome miccional.
 
- SI NAUSEAS PUEDE TOMAR DOMPERIDONA JARABE 1 CUCHARADA 20 MIN ANTES DE CADA COMIDA.
+**EF:**
+- **Abdomen:** Puño-percusión renal positiva.
 
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS.
+**JC:** Cólico reno-ureteral.
 
-SE RECOMIENDA REALIZAR FISIOTERAPIA PARA FORTALECER MUSCULATURA CERVICO-DORSAL Y EVITAR RECAIDAS POR SU TIPO DE TRABAJO.
+**PLAN:**
+1.  **Pruebas y Tratamiento en Urgencias:**
+    - Protocolo CRU: AS, AO y Rx de abdomen.
+    - **Analgesia IV** de primer escalón (DEXKETOPROFENO + PARACETAMOL).
+2.  **Tratamiento al Alta:**
+    - **No forzar ingesta de líquidos** mientras dure el dolor. **Calor local**.
+    - **TAMSULOSINA 0,4 mg** al acostarse (ayuda a la expulsión).
+    - **AINEs** y **analgésicos** pautados y a demanda.
+    - **Protector gástrico**.
+3.  **Seguimiento:**
+    - Control en **Urología**.
 
-### PARÁLISIS FACIAL PERIFÉRICA**
+### 🚽 1.12.2. Epididimitis Aguda
 
-Varón / Mujer de años. MC: Parestesia en hemicara D I.
+**MC:** Dolor testicular.
 
-AP: 
--No Reacciones Adversas a Medicamentos Conocidas 
--No HTA, no DM, no DL 
--No hábitos tóxicos 
--Cx: no 
--Tto. Habitual : ACO, 
+**EA:**
+Dolor en polo superior de teste derecho de varios días. Afebril, sin disuria.
 
-EA. 
-Desde hace 2 horas percibe parestesias en hemicara y hemilengua derecha, sin disgeusia ni dolor ni fiebre ni alteraciones auditivas. Desde hace 2 días catarro nasal con aparición de herpes labial superior derecho. No refiere otra sintomatología. 
+**EF:**
+- **Genital:** Epidídimo derecho doloroso a la palpación.
 
-EF: 
-TA 144/86 FC -- Tª 
-Nivel de consciencia y Orientación adecuados. Buen estado general, Eupneica. No cianosis. 
-Cabeza y Cuello:: Otosc: OD: Eritema en pared posterior de Conducto Auditivo Derecho: derecho con alguna vesícula, tímpano integro y normal. OI: sin alteraciones. No bocio. Pulsos carotídeos rítmicos sin soplos. 
-AP: murmullo vesicular conservado. Auscultación Cardiaca: Rítmica sin soplos. 
-Neurol.:  pupilas isocóricas normorreactivas, Pares Cr. Normales, Tono y fuerza conservados, sensibilidad de hemicara y hemilengua derechas disminuida. ROT normales, no dismetrías ni alteraciones del equilibrio, no nistagmo ni romberg, no alteraciones del movimiento ni de la marcha ni signos meningeos.
+**JC:** Posible epididimitis aguda.
 
-JC: PARÁLISIS FACIAL PERIFÉRICA. Posible SDR. RAMSAY-HUNT. Herpes labial.
+**PLAN:**
+- **Antibiótico (2-3 semanas):** CIPROFLOXACINO 500 mg/12h.
+- **Reposo relativo**, suspensorio escrotal.
+- **AINEs** y **protector gástrico**.
+- Control en **Urología** con urocultivo.
 
-PLAN: 
- Solicito Pruebas Complementarias. 
- Indico TTO.: Bolo de METILPREDNISOLONA 125 mg  iv.
+### 🚽 1.12.3. Hematuria
 
-Disminución del parpadeo en ojo derecho con pérdida de sensibilidad en hemicara derecha y desviación de comisura hacia la izquierda. 
-Pares craneales normales. Pupilas isocóricas y normorreactivas. Motilidad ocular extrínseca conservada. No nistagmus. No dismetrías, no disdiadococinesias. REM conservados. Marcha sin alteraciones.
+**JC:** Hematuria a estudio (posible CRU expulsivo, ITU, etc.).
 
-P.Compl.: 
- AS 
- AO
+**PLAN:**
+- **Pruebas en Urgencias:** AS, AO, Rx abdomen.
+- **Tratamiento sintomático** (analgesia, antiespasmódicos).
+- **Seguimiento** según hallazgos.
 
-JD: PARÁLISIS FACIAL PERIFÉRICA. Posible SDR. RAMSAY-HUNT. Herpes labial.
+### 🚽 1.12.4. Infección del Tracto Urinario (ITU)
 
-TTo. 
- Ocluir el ojo por la noche junto con la aplicación de pomada Óculos Epitalizante. 
- Utilizar lágrimas artificiales y gafas oscuras durante el día. 
- CORTICOIDES: 
+**MC:** Disuria.
 
-* PREDNISONA (ALONGA ® comp. 5, 10 y 50 mgr.) a dosis de 1 mgr/kg/día por vía oral o dosis equivalente de otro corticoide DEFLAZACORT (ZAMENE ® comp. 6 y 30MG) a dosis de 1.3 mgr/kg/día por vía oral. 
-* En dosis única matutina durante 5 días (10 si gravedad) y pauta descendente de retirada en 5-10 días. 
+**EA:**
+Disuria y polaquiuria sin fiebre.
 
-, -- COMP. AL DÍA DURANTE 5-10 DÍAS, LUEGO REDUCIRÁ ½ COMP. CADA DÍA HASTA SUSPENDER (en 5-10 días). 
- NERVINEX 125mg, un comprimido una vez al día durante 7 días 
- DEXKETOPROFENO 25MG, 1 COMP. V.ORAL cada 8 horas DOLOR. 
- OMEPRAZOL 20 MG / RANITIDINA 300MG EFG, 1 CP / 24 H. 
- HIDROXIL B12-6-1 1 COMP. AL DÍA 1 MES.
+**EF:**
+- Abdomen sin hallazgos. Puño-percusión negativa.
 
-CONTROL POR SU MÉDICO y EN CONSULTAS DE NEUROLOGÍA. SI EMPEORA VOLVER A URGENCIAS.
+**JC:** ITU. Se recoge urocultivo.
 
-DACORTÍN 30MG: 2 comprimidos en el desayuno durante 5 días, posteriormente continuará la siguiente pauta: 
-•	1 comprimido y medio durante 3 días. 
-•	1 comprimido durante 3 días. 
-•	2/3 de comprimido durante 3 días. 
-•	1/3 de comprimido durante 3 días y suspender.
+**PLAN:**
+- **Alta ingesta de líquidos**.
+- **Antibiótico (5 días):** AMOXICILINA/CLAVULÁNICO 500 mg.
+- **Probióticos vaginales** (Muvagyn®) en mujeres.
+- **Analgesia**.
+- **ITU febril (posible Pielonefritis):**
+    - Dosis de **CEFTRIAXONA 2g IV** en urgencias.
+    - Tratamiento oral al alta con **CEFIXIMA 400 mg/24h**.
+- **ITU en Gestante:** Tratamiento según antibiograma, PARACETAMOL para dolor.
+- Control por su MAP.
 
-## OFTALMOLOGÍA***
+### 🚽 1.12.5. Pielonefritis Aguda
 
- 1. ### **AYUDAS EN LA WEB**
+**MC:** Dolor en fosa renal y fiebre.
 
-OJO ROJO: http://www.zambon.es/areasterapeuticas/02dolor/WMU_site/OF1C2000.HTM
+**EA:**
+Dolor en fosa renal, fiebre alta y síndrome miccional.
 
-### ABSCESO CORNEAL POR USO DE LENTILLAS**
+**EF:**
+- Puño-percusión renal positiva.
 
-MC: Molestias oculares
+**JC:** Pielonefritis aguda no complicada.
 
-AP:
+**PLAN:**
+1.  **Tratamiento y Pruebas en Urgencias:**
+    - AS, AO y urocultivo.
+    - Dosis de **CEFTRIAXONA 2g IV**.
+2.  **Tratamiento al Alta (10 días):**
+    - **CEFIXIMA 400 mg/24h**.
+    - **Antitérmicos/AINEs**.
+3.  **Seguimiento:**
+    - Control por su MAP.
 
-EA: 
-Varón de 35 años. Acude por cuadro de 24h de evolución con molestias en OD con irritación secreción y aparición de lesión sin alteración de la AV. No fibre. Portador de lentillas habitualmente. No las ha puesto desde que notó las molestias .
+<a id="vascular"></a>
+## 🩸 1.13. Vascular
 
-EF: 
- Consciente y orientado, buen estado general, eupneico, no cianosis. 
- Cabeza: Ojos: OI normal. OD: Inyección ciliar con Mancha blanquecina en tercio superior de línea media de la córnea. Fluoresceina negativa.
+### 🩸 1.13.1. Tromboflebitis Superficial / Sospecha de TVP
 
-JC: 
-ABSCESO CORNEAL POR USO DE LENTILLAS
+**MC:** Sospecha de TVP.
 
-Tto. 
-No usar lentillas hasta revisión en consultas. Lavado ocular con suero salino antes de aplicar los colirios.
+**EA:**
+Zona eritematosa y dura en pierna.
 
-Exocin 1/6h 
+**EF:**
+- **Extremidades:** Cordón indurado y eritematoso-doloroso en trayecto venoso superficial. No edema ni calor distal. Homan negativo.
 
-Oftacilox pmda Oft. por las noches 
+**JC:** Tromboflebitis superficial.
 
-Si dolor, Colirio Ciclopléjico y Diclofenaco Col. Of. 1-2 gotas cada 8h.
-
-CONTROL EN CONSULTAS DE OFTALMOLOGÍA EL PRÓXIMO MIÉRCOLES O JUEVES. SI EMPEORA VOLVER A URGENCIAS.
-
-### BLEFARO-CONJUNTIVITIS AGUDA**
-
-Motivo de consulta: Molestias en Ojo D / I.
-
-Antecedentes personales: 
-RAM: No 
-Patologías previas: No. 
-Cirugías previas: No. 
-Tratamiento habitual: No.
-
-Enfermedad actual: 
-Varón / Mujer de años. Acude por cuadro de unos días de evolución con molestias tipo sensación de “arenilla” o cuerpo extraño y secreción en ojo derecho / izquierdo. Refiere aumento de tamaño y molestias en párpado y epífora frecuente. No disminución de agudeza visual.
-
-Exploración física: 
- Nivel de consciencia y Orientación adecuados. Buen estado general. Eupnea, no cianosis. 
- Cabeza y Cuello:. Ojos: reflejos fotomotores y Motilidad conservada. Inyección conjuntival bulbar en ojo derecho / izquierdo con / sin edema y eritema en párpado superior, sin que se palpen nódulos. El otro ojo no presenta alteraciones relevantes.
-
-JC: Blefaro-Conjuntivitis aguda OI
-
-Tto. 
-- LAVADO OCULAR CONSUERO FISIOLÓGICO PREVIO A COLIRIO. 
-- TOBRADEX COL. OFT. 2 GOTAS EN EL OJO CADA 8 HORAS HASTA 7 DÍAS. 
-- TERRACORTIL PMDA ÓFT. 1 APLICACIÓN CADA 8 HORAS 7 DÍAS. 
-- SI DOLOR PUEDE TOMAR IBUPROFENO 600 MG EFG O PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS.
-
-CONTROL EN CONSULTAS DE OFTALMOLOGÍA EL PRÓXIMO LUNES. SI EMPEORA ACUDIRÁ A URGENCIAS.
-
-### CONJUNTIVITIS IRRITATIVA – CUERPO EXTRAÑO**
-
-Varón / Mujer de años. Motivo de consulta: Sensación de cuerpo extraño en Ojo D
-
-Antecedentes personales: 
-RAM: No 
-Patologías previas: No 
-Cirugías previas: No. 
-Tratamiento habitual: No
-
-Enfermedad actual: 
-Ayer ha estado cortando madera y le impresiona de que le ha entrado algo en el ojo porque nota molestias en OD con epífora frecuente. No dism, de AV.
-
-Exploración física: 
- Nivel de consciencia y Orientación adecuados. Buen estado general. Eupnea, no cianosis. 
- Cabeza y Cuello:. Ojos: RFM y Motilidad conservada. Inyección conjuntival bulbar en OI, Fluoresceina negativo en córnea. Se objetiva en dorso de párpado derecho una mínima astilla de madera que se limpia y mejora la sintomatología.
-
-JC: Conjuntivitis Irritativa. Cuerpo Extraño en conjuntiva tarsal Dcha. extraído.
-
-Tto. 
- LAVADO OCULAR CONSUERO FISIOLÓGICO PREVIO A COLIRIO.
-
- TOBRADEX COL. OFT 2 GOTAS EN EL OJO CADA 2 HORAS HOY HASTA ACOSTARSE. MAÑANA 2 CADA 8 HORAS HASTA 4-5 DÍAS.
-
- SI DOLOR PUEDE TOMAR PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS.
-
-CONTROL MAÑANA A PARTIR DE LAS 10h EN CONSULTA DE OFTALMOLOGÍA ENTRANDO POR URGENCIAS. SI EMPEORA ACUDIRÁ A URGENCIAS.
-
-### CONJUNTIVITIS VIRICA**
-
-Varón / Mujer de años. Motivo de consulta: Molestias oculares en Ojo D / I
-
-Antecedentes personales: 
-RAM: No 
-Patologías previas: No 
-Cirugías previas: No. 
-Tratamiento habitual: No
-
-Enfermedad actual: 
-Varón / Mujer de años. Acude por cuadro de evolución, con molestias en OD I, secreción mucosa y con epífora frecuente. No dism, de AV.
-
-Exploración física: 
- Nivel de consciencia y Orientación adecuados. Buen estado general. Eupnea, no cianosis. 
- Cabeza y Cuello:. Ojos: OI: sin alteraciones relevantes. OD: inyección conjuntival y edema blando de párpado, con reacción folicular en conjuntiva tarsal inferior. No signos de alarma.
-
-JC: Conjuntivitis Aguda posiblemente vírica.
-
-Tto. 
- Medidas higiénicas estrictas, lavarse la manos, no besar, no compartir toallas, ni almohadas….
-
- LAVADO OCULAR CONSUERO FISIOLÓGICO PREVIO A COLIRIO
-
- TOBRADEX COL. OFT 2 GOTAS EN EL OJO CADA 8 HORAS HASTA 7 DÍAS, 
-
- LUEGO SEGUIR CON DICLOFENACO LEPORI COLIRIO OFT, 1-2 GOTAS CADA 8 HORAS HASTA MEJORÍA.
-
- SI DOLOR PUEDE TOMAR PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS
-
-CONTROL EN CONSULTAS DE OFT. En 2-3 Días. SI EMPEORA ACUDIRÁ A URGENCIAS
-
-### EROSIÓN o QUEMADURA CORNEAL**
-
-Tto. 
-Evitar explosición al aire y al sol.
-
-Nolotil o Gelocatil/ 8 h
-
-Colirio Ciclopléjico 1% + TOBREX col. 2 gotas + Pomada Epitelizante cada 8 horas y Oclusión del ojo afecto
-
-CONTROL EN 24-48 HORAS EN CONSULTA DE OFTALMOLOGÍA. CON CITA PREFERENTE
-
-### ORZUELO**
-
-Varón / Mujer de años. Acude por cuadro de 2 días d evolución con bultoma doloroso en párpado inferior derecho que hoy asocia dolor en zona nasal izda. No fiebre. No ha tomado ningún tratamiento.
-
-EF 
- Nivel de consciencia y Orientación adecuados. Buen estado general. Eupnea, no cianosis. 
- Cabeza y Cuello:. Ojos: OI con nódulo inflamatorio en borde interno de párpado.
-
-JC: 
-ORZUELO O D / I
-
-TTo. 
-- AUGMENTINE 500mgr 1 comp cada 8 horas 4-6 días.
-
-- TOBRADEX COL. OFT. 2 GOTAS EN EL OJO CADA 8 HORAS HASTA 7 DÍAS
-
-- TERRACORTIL PMDA ÓFT. 1 APLICACIÓN CADA 8 HORAS 7 DÍAS 
- 
-- SI DOLOR PUEDE TOMAR IBUPROFENO 600 MG EFG O PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS
-
-CONTROL EN CONSULTAS DE OFTALMOLOGÍA EN 48-72H. SI EMPEORA ACUDIRÁ A URGENCIAS
-
-### HIPOSFAGMA**
-
-Varón / Mujer de años. Motivo de consulta: Derrame hemático en Ojo D / I
-
-Antecedentes personales: 
-RAM: No 
-Patologías previas: No 
-Cirugías previas: No. 
-Tratamiento habitual: No
-
-Enfermedad actual: 
-Refiere aparición brusca de derrame hemático en OD. No traumatismo previo. No dism, de AV. No secreción.
-
-Exploración física: 
- Nivel de consciencia y Orientación adecuados. Buen estado general. Eupnea, no cianosis. TA 
- Cabeza y Cuello:. Ojos: RFM y Motilidad conservada. Hiposfagma en conjuntiva bulbar temporal de OD.
-
-JC: HIPOSFAGMA OD. 
-
-TTo. 
- DICLOFENACO LEPORI COL. 2 GOTAS EN EL OJO CADA  8 HORAS HASTA 4-5 DÍAS 
- SI DOLOR PUEDE TOMAR PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS
-
-CONTROL EN CONSULTAS DE OFTALMOLOGÏA EN 7 DÍAS. SI EMPEORA ACUDIRÁ A URGENCIAS 
-
-### QUERATITIS HERPÉTICA**
-
- 
-
-Tto. 
- PROTECCIÓN SOLAR DEL OJO. EVITAR EXPOSICIÓN A LA LUZ y AIRE. 
- Colirio Ciclopléjico 1% + Diclofenaco colirio oft 1-2 gotas cada 8 horas. 
- Zovirax pmada oftálmica cada 4h por el día durante 5 dias. 
- Vita-Pos pomada oftálmica, aplicar tras lo previo solo al acostar. 
- Si dolor puede tomar Paracetamol o Nolotil 1cp cada 8h.
-
-Control en Consultas de Oftalmología la próxima semana. Si empeora volver a Urgencias.
-
-### ULCERA CORNEAL**
-
-Varón / Mujer de años. Motivo de consulta: Sensación de cuerpo extraño en Ojo D / I
-
-Antecedentes personales: 
-RAM: No 
-Patologías previas: No 
-Cirugías previas: No. 
-Tratamiento habitual: No
-
-Enfermedad actual: 
-Ayer ha estado cortando madera de olivo y le impresiona de que le ha entrado algo en el ojo porque nota molestias en OD con epífora frecuente. No dism, de AV.
-
-Exploración física: 
- Nivel de consciencia y Orientación adecuados. Buen estado general. Eupnea, no cianosis. 
- Cabeza y Cuello:. Ojos: RFM y Motilidad conservada. Inyección conjuntival bulbar en O D/I, Fluoresceina positivo en zona superior de córnea. 
-
-JC: Conjuntivitis Irritativa. Úlcera Corneal O D/I .
-
-Tto. 
- PROTECCIÓN SOLAR DEL OJO. EVITAR EXPOSICIÓN A LA LUZ y AIRE. 
- Colirio Ciclopléjico 1% + Diclofenaco colirio oft 1-2 gotas cada 8 horas
-
- POMADA ÓCULOS DE ERITROMICINA 1 aplicación por las noches en el ojo, ocluyéndolo después. Si molestias intensas por el día aplicar también después de los colirios y ocluir el ojo.
-
- SI DOLOR PUEDE TOMAR IBUPROFENO 600 MG EFG o PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS
-
-CONTROL POR SU MÉDICO Y EN CONSULTAS DE OFTALMOLOGÍA en 48 HORAS. SI EMPEORA VOLVER A URGENCIAS.
-
-## ORL***
-
- 1. ### **ABSCESO PERIAMIGDALINO**
-
-**Varón / Mujer de años que acude por fiebre de hasta º y dolor faríngeo con disfagia alta desde anoche, alteración característica del lenguaje, imposibilidad para abrir la boca y dolor cervical.** 
-
-**AP:** 
-** No Reacciones Adversas a Medicamentos Conocidas** 
-** No Patología previa.**
-
-**EF:** 
-** TA FC Tª º** 
-** Nivel de consciencia y Orientación adecuados, bien hidratado y prefundido. Eupneico. No cianosis. Quejicoso.** 
-** Cabeza y Cuello:: Dolor a palpación de región submaxilar dcha. con empastamient local. Trismus. Orofaringe: visualizada parcialmente xerosa e hiperémica con aumento de amígdala derecha que ocupa orofaringe y presencia de placas pultáceas.**
-
-### JC: Posible ABSCESO PERIAMIGDALINO.
-
-### PLAN: SE DERIVA A URGENCIAS DEL HOSP. GREGORIO MARAÑÓN PARA VALORACIÓN POR ORL DE GUARDIA
-
-### AMIGDALITIS AGUDA PULTÁCEA**
-
-Varón / Mujer de años que acude por fiebre de hasta º y dolor faríngeo con disfagia alta desde anoche. 
-
-AP: 
- No Reacciones Adversas a Medicamentos Conocidas 
- No Patología previa
-
-EF: 
- Tª 
- Estado General: Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Orofaringe: xerosa e hiperémica con aumento de amígdalas bilateral y presencia de placas pultáceas.
-
-P.Compl. 
- AS: 
- Test de Mononucleosis Negativo
-
-JD: AMIGDALITIS AGUDA
-
-TTo. 
- REPOSO MIENTRAS PRESENTE FIEBRE. INGESTA DE ABUNDANTE LÍQUIDO. DIETA SUAVE. 
- ENJUAGUE Y COLUTORIO BUCAL CON ANTISÉPTICO DESPUÉS DE CADA COMIDA. 
- AMOXICILINA-CLAVULÁNICO 875MG 24 comp, 1 COMP. CADA 8 HORAS DURANTE 8 DÍAS. 
- SI FIEBRE O DOLOR, IBUPROFENO 600MG EFG 1 COMP. CADA 6-8 HORAS. 
- SI NO REMITE AÑADIR PARACETAMOL1 GRAMO EFG 1 COMP CADA 8 HORAS.
-
-CONTROL POR SU MÉDICO. SI EMPEORA VOLVER A URGENCIAS.
-
-### CÓLICO SALIVAR**
-
-### Varón / Mujer de años. Motivo de consulta: TUMEFACCIÓN SUBMANDIBULAR I / D de varias semanas de evol.
-
-AP: 
- Alergias: NO refiere. 
- No refiere patologías relevantes. 
- Fumador No / Sí, 20c/día.
-
-Enfermedad actual: 
-Desde hace unos días dolor y aumento de volumen submandibular I / D tras deglución sin fiebre ni otalgia ni otras molestias. No congestión nasal.
-
-Exploración física: 
- Estado General: Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Orofaringe: Sin hallzgos 
- Cabeza y Cuello:: Gl. submandibular I / D ligéramente aumentada y tumefacta sin fluctuación ni signos de flogosis local.
-
-Juicio Clínico: POSIBLE ADENITIS-COLICO SALIVAR SUBMANDIBULAR I / D.
-
-PLAN 
- INGESTA DE LÍQUIDOS CON FRECUENCIA. EVITAR INGESTA DE COMIDAS ÁCIDAS o PROTEICAS o SECAS
-
- FRIO LOCAL INTERMITENTE
-
- AMOXICILINA-CLAVULÁNICO 1000mg 1 comp cada 12 horas 8 DÍAS
-
- DEXKETOPROFENO 25mg 1 COMP. TRAS CADA COMIDA 4-5 DÍAS.
-
- SI DOLOR, PUEDE AÑADIR PARACETAMOL1 GR 1 COMP CADA 8 HORAS O SI PRESENTA DOLOR INTENSO, TOMAR 1 AMP. BEBIDA DE METAMIZOL.
-
-CONTROL EN CONSULTAS DE ORL EN 48H. SI EMPEORA VOLVER A URGENCIAS.
-
-### EPISTAXIS**
-
- 5. ### **FARINGITIS AGUDA**
-
-**AP:** 
- ** Alergia NO.** 
- ** No refiere patologías relevantes.**
-
-Motivo de consulta: DOLOR FARÍNGEO de varios días de evol.
-
-Enfermedad actual: 
-Varón / Mujer de años. Desde hace unos días dolor faríngeo que aumenta con la deglución sin fiebre ni otalgia ni otras molestias. No congestión nasal.
-
-Varón / Mujer de años. Desde hace unos días dolor faríngeo, tos seca intensa y dolor cetrotorácico con fiebre y congestión nasal.
-
-Exploración física: 
- Estado General: Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Orofaringe: xerosa e hiperémica. No hipertrofia de amígdalas ni placas pultáceas. 
- Ausc. Pulmonar: murmullo vesicular conservado.
-
-Juicio Clínico: FARINGITIS AGUDA. INFECCIÓN RESPIRATORIA ALTA (FARINGOTRAQUEITIS AGUDA)
-
-Plan: 
- REPOSO MIENTRAS PRESENTE FIEBRE. INGESTA DE LÍQUIDOS CON FRECUENCIA. LAVADO DE FOSAS NASALES CON SUERO SALINO O SIMILAR 3-4 VECES AL DÍA. 
- ENJUAGUE Y COLUTORIO BUCAL CON ANTISÉPTICO DESPUÉS DE CADA COMIDA. 
- AZITROMICINA 500MG EFG 1 COMP. AL DÍA 3 DÍAS. 
- CLOPERASTINA / FLUIDASA JARABE, 1 CUCHARADA DESPUÉS DE CADA COMIDA. 5 DÍAS. 
- AUXINA A MASIVA / RINO-EBASTEL 1 COMP. CADA 12 HORAS 5 DÍAS. 
- SI DOLOR O FIEBRE IBUPROFENO 600MG EFG 1 COMP. TRAS CADA COMIDA 4-5 DÍAS. SI NO REMITE AÑADIR PARACETAMOL 1GR 1 COMP CADA 8H. O ALTERNANDO AMBOS CADA 4H. 
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORAMIENTO VOLVER A URGENCIAS.
-
-### DENTISPRAY Sol. dental 50 mg/ml
-
-### FARINGITIS CANDIDIÁSICA**
-
-### Varón / Mujer de años. Motivo de consulta: DOLOR FARÍNGEO de varios días de evol.
-
-AP: 
- Alergia NO. 
- No refiere patologías relevantes.
-
-EA: 
-DOLOR FARÍNGEO de 2-3 días de evol. por el que su MAP le ha indicado AUGMENTINE y tras ello le ha aumentado el dolor buco-faríngeo con "agrietamiento" de lengua y escozor en lengua laterales de boca y faringe. No fiebre. No tos. No disnea.
-
-Exploración física: 
- Estado General: Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Orofaringe: xerosa e hiperémica de aspecto en empedrado. No hipertrofia de amígdalas ni placas pultáceas. Lengua ligeramente eritematosa con bordes geográficos y aftas.
-
-Juicio Clínico: Faringitis en Evolución. Posible CANDIDIASIS OROFARÍNGEA secundaria a AB.
-
-Plan: 
- PRIMERO HARÁ UN ENJUAGUE BUCAL Y GÁRGARAS CON AGUA Y BICARBONATO, SIN TRAGAR EL LÍQUIDO, DESPUÉS DE CADA COMIDA DURANTE 1 -2 SEMANAS
-
- LUEGO HARÁ UN ENJUAGUE BUCAL ,GÁRGARAS Y TRAGARÁ EL LÍQUIDO DESPUÉS DE CADA COMIDA CON MYCOSTATIN SUSP. 7 DÍAS.
-
- LUEGO APLICAR EL EL AFTA Topigel 200mg/g gel bucal HASTA CADA 8 HORAS. (Posibles alternativas: DENTISPRAY Sol. dental 50 mg/ml, HURRICAINE Gel bucal 200 mg/g, HURRICAINE SPRAY Sol. 20%, NANI-PREDENTAL Gel 5 g/100 g)
-
- ITRACONAZOL 10MGR, 1 COMP/24 h, 6 días.
-
- SI DOLOR ENANTYUM 25MG EFG 1 COMP. TRAS CADA COMIDA 4-5 DÍAS. SI NO REMITE, AÑADIR 1 AMP. BEBIDA DE METAMIZOL REPETIBLE HASTA CADA 8 HORAS
-
-CONTROL POR SU MÉDICO. SI NO MEJORA REMITASE A CONSULTAS DE ORL O SI EMPEORAMIENTO VOLVER A URGENCIAS.
-
-### FARINGITIS SECA**
-
-Mujer / Varón de años. Motivo de consulta: DOLOR FARÍNGEO de varios días de evol.
-
-Antecedentes personales: 
-No Reacciones Adversas a Medicamentos Conocidas 
-No refiere patologías. 
-Cirugías previas: No 
-Tratamiento habitual: No
-
-Enfermedad actual: 
-Desde hace unos días dolor faríngeo que aumenta con la deglución sin fiebre ni otalgia ni otras molestias. No congestión nasal.
-
-Exploración física: 
- Estado General: Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Orofaringe: xerosa y discretamente hiperémica y nodular.
-
-Juicio Clínico: FARINGITIS SECA IRRITATIVA.
-
-Plan: 
- LAVADO DE FOSAS NASALES POR LA MAÑANA Y POR LA NOCHE. 
- INGESTA DE LÍQUIDOS CON FRECUENCIA. 
- ANGINOVAG SPRAY 3 aplicaciones al día 
- IBUPROFENO 600MG EFG 1 COMP. TRAS CADA COMIDA 4-5 DÍAS. 
- FLUTOX JARABE 1 CUCHARADA DESPUÉS DE CADA COMIDA Y AL ACOSTAR. 5 DÍAS 
- AUXINA A MASIVA 1 COMP. CADA 12 HHORAS 10 DÍAS
-
-CONTROL POR SU MÉDICO DE FAMILIA. SI NO MEJORA REMITASE A CONSULTAS DE ORL O SI EMPEORAMIENTO VOLVER A URGENCIAS.
-
-### FRACTURA DE HUESO NASAL**
-
-MC: Dolor facial tras golpe
-
-EA: 
-Varón / Mujer de años. Acude por herida facial y epistaxis tras golpe accidental . No pérdida de consciencia ni sintomatología neurológica actual. No sangrado activo actual.
-
-EF 
- Constantes clínicas: TA ,FC , SATO2 %, Tª º 
- Estado General: Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Cabeza: Herida contusa en mejilla izda. a nivel infraorbitario con hematoma en surco naso-orbitario izdo. Taponamiento nasal en FND sin sangrado activo. No deformidad ni crepitación en pirá,mide nasal ni crepitación a nivel malar izdo. o periorbitaria.
-
-JC: 
-Fractura no desplazada de hueso propio nasal. 
-Herida contusa facial, suturada.
-
-Tto. 
- REPOSO RELATIVO Y OBSERVACIÓN AMBULATORIA. 
- MANTENER TAPONAMIENTO NASAL 48H. EVITAR SONARSE LA NARIZ O ESTORNUDAR. CAMBIAR BIGOTERA NASAL TANTAS VECES COMO SEA PRECISO POR MANCHADO. 
- CURAS DIARIAS DE HERIDA CON ANTISÉPTICO LOCAL (BETADINE O CLORHEXIDINA) 
- FRÍO LOCAL INTERMITENTE. 
- COLOCAR PROTECTOR NASAL COMERCIAL SI RIESGO DE GOLPE NASAL. 
- ENANTYUM 25MGR 1 COMP TRAS DESAYUNO, COMIDA Y CENA 2-3 DÍAS. SI DOLOR PUEDE AÑADIR PARACETAMOL1 GR CADA 8H. 
- SI MOLESTIAS GÁSTRICAS AÑADIR OMEPRAZOL 20MGR 1 CP AL DÍA EN AYUNAS.
-
- CONTROL EN CONSULTAS DE ORL EN 48-72H. SI EMPEORA VOLVER A URGENCIAS.
-
-### GRIPE - SDR. GRIPAL**
-
-Varón / Mujer de años que acude por sensación febril no termometrada, artromialgias, cefalea, tos seca y congestión nasal. 
-
-AP: 
- No Reacciones Adversas a Medicamentos Conocidas 
- NO Refiere patologías previas. 
- Qx: Pólipos nasales
-
-EF: 
- Nivel de consciencia y Orientación adecuados, buen estado general. Eupnea. 
- Orofaringe: xerosa e hiperémica. 
- Auscultación Pulmonar: murmullo vesicular conservado
-
-JD: CUADRO GRIPAL.
-
-TTO. 
- REPOSO EN SU DOMICILIO SIN SALIR Y EVITANDO EL CONTACTO CON FAMILIARES NO HABITUALES DURANTE 7 DÍAS. 
- LAVADO DE FOSAS NASALES CON SUERO SALINO O SIMILAR 3-4 VECES AL DÍA 
- IBUPROFENO 600MG 1 CADA 8 HORAS 4-5 DÍAS 
- SI NO CEDE LA FIEBRE PUEDE AÑADIR PARACETAMOL 1 GRAMO CADA 8 HORAS. 
- ROMILAR JARABE 1 CUCHARADA TRAS CADA COMIDA Y AL ACOSTAR 5-6 DÍAS 
- RINO-EBASTEL 1 CADA 12 HORAS 5 DÍAS 
- SI VÓMITOS DOMPERIDONA JARABE 1 CUCHARADA 20 MIN ANTES DE CADA COMIDA. 
- SI DIARREA REHIDRATACIÓN CON BEBIDAS ISOTÓNICAS Y DIETA BLANDA ASTRINGENTE.
-
-CONTROL EVOLUTIVO POR SU MÉDICO DE FAMILIA. SI EMPEORA avisar a SERV. URGENCIAS 112\. 
-
-### OTITIS EXTERNA**
-
-### Varón / Mujer de años que acude por OTALGIA intensa desde . NO refiere fiebre, NO supuración por OI / OD ni hipoacusia.
-
-**AP:** 
-** No patologías previas.** 
-** No refiere alergias a fármacos conocidas.**
-
-**EF:** 
-** Nivel de consciencia y Orientación adecuados. Buena hidratación y perfunsión.** 
-** Otosc: Conducto Auditivo: D /  I eritematoso con Trabo+ .**
-
-**JD:** 
-** Otitis Externa OI / OD**
-
-**TTo.** 
-** REPOSO MIENTRAS PRESENTE FIEBRE.**
-
-** INGESTA DE ABUNDANTE Y FRECUENTE LÍQUIDO**
-
-** NO MOJAR NI INTRODUCIR BASTONES O ALGODÓN EN EL OIDO**
-
- CETRAXAL PLUS SOL. ÓTICA, 4 GOTAS CADA 8 HORAS 8 DÍAS
-
- AZITROMICINA 500MG EFG 1 COMP. AL DÍA 3 DÍAS
-
- SI DOLOR, IBUPROFENO 600MG 1 TRAS CADA COMIDA
-
- SI NO CEDE LA FIEBRE PUEDE AÑADIR PARACETAMOL 650MG 1 CADA 4 HORAS
-
-CONTROL EN CONSULTAS DE ORL EN 48H. SI EMPEORA VOLVER A URGENCIAS.
-
-### OTITIS MEDIA AGUDA**
-
-Varón / Mujer de años que acude por OTIALGIA intensa desde . Refiere fiebre, supuración por OI OD e hipoacusia.
-
-AP: 
- No patologías previas. 
- No refiere alergias a fármacos conocidas.
-
-EF: 
- Nivel de consciencia y Orientación adecuados. Buena hidratación y perfusión. 
- Orofaringe: xerosa. 
- Auscultación Pulmonar: murmullo vesicular conservado 
- Otosc: Perforación tímpano OD OI con supuración por Conducto Auditivo Derecho: D I .
-
-JD: 
- Otitis Media Aguda Supurativa
-
-TTo. 
- REPOSO MIENTRAS PRESENTE FIEBRE.
-
- INGESTA DE ABUNDANTE Y FRECUENTE LÍQUIDO. NO MOJAR NI INTRODUCIR BASTONES O ALGODÓN EN EL OIDO.
-
- AMOXICILINA-CLAVULÁNICO 875 MG EFG 1 COMP CADA 8 HORAS 12 DÍAS
-
- SI SUPURA AÑADIR COLIRCUSI GENTADEXA 4 GOTAS CADA 8 HORAS HASTA REVISIÓN.
-
- LAVADO DE FOSAS NASALES CON STERIMAR, RHINOMER FUERZA 2 O RINODUCHE. 2-3 VECES AL DÍA
-
- BUDESONIDA SPRAY NASAL 1 APLICACIÓN EN CADA FOSA NASAL CADA 12 HORAS 7 DÍAS
-
- RINO-EBASTEL 1 CAP. CADA 12 HORAS 5 DÍAS
-
- SI FIEBRE O DOLOR IBUPROFENO 600MG 1 TRAS CADA COMIDA Y SI NO REMITE PUEDE AÑADIRSE PARACETAMOL 1 GRAMO, 1 COMP. VO CADA 8 HORAS (ALTERNO CADA 4 CON IBUPROFENO)
-
- SI MAREO, DOGMATIL 50MG 1 COMP. CADA 8 HORAS HASTA QUE LLEVE 1 DÍA SIN MAREO.
-
-SI EMPEORA VOLVER A URGENCIAS. 
-CONTROL EN CONSULTAS DE ORL CON CITA PREFERENTE EN 1 SEMANA.
-
-### PAROTIDITIS UNILATERAL**
-
-### Mujer de 80 años que acude por DOLOR FACIAL y TUMEFACCIÓN.
-
-AP: 
-Reacciones Adversas a Medicamentos Conocidas: No 
-Patologías Previas: Osteoporosis. 
-Cirugías previas: No refiere. 
-TTo.: Duotran, Efferealgan 1 gr, Evista, Esertia, Celebrex 200 0-1-0, Omeprazol, Calcio
-
-EA: 
- Desde hace 5-6 días ha presentado tumefacción y dolor a nivel facial derecho. Ha visitado un ser. de Urgencias de AP donde le indicarojn que se trataba de un flemón y le prescribieron AB (AMOXI-CLAV 875). Ha visitado a un odontólogo que ha descartado problemas dentarios. Persiste tumefacción e intenso dolor, sin fiebre termometrada. Refiere escalofríos vespertinos en el último mes. No otra sintomatología.
-
-EF: 
- Nivel de consciencia y Orientación adecuados. Buen estado general. Eupneica, No cianosis. 
- Tumefacción, ligero eritema y aumento de volumen de glándula parotídea derecha con dolor a palpación. No fluctuación 
- Orofaringe: sin alteraciones reseñables.
-
-JD: PAROTIDITIS UNILATERAL.
-
-TTo. 
- FRIO LOCAL INTERMITENTE
-
- AZITROMICINA 500MG EFG 1 COMP. AL DÍA 3DÍAS
-
- SI DOLOR DEXKETOPROFENO 25MG / IBUPROFENO 600MG EFG, 1 COMP. V.ORAL CADA 8 HORAS 4-5 DÍAS
-
- SI NO REMITE EL DOLOR PUEDE AÑADIR PARACETAMOL 1 GRAMO EFG 1 COMP O 1 AMP. DE METAMIZOL BEBIDA CADA 8 HORAS.
-
-CONTROL POR SU MÉDICO Y EN CONSULTAS DE ORL . SI EMPEORA ACUDIR A SERV. DE URGENCIA 
-
-Interconsulta ORL.
-
-### RINITIS AGUDA – CVA**
-
- 14. ### **SINUSITIS AGUDA**
-
-Varón / Mujer de años. MC: CEFALEA. 
- Orofaringe: 
-AP: 
-No Reacciones Adversas a Medicamentos Conocidas. 
-Sinusitis de repetición. 
-No otros de interés.
-
-EA: 
- Desde hace unos días refiere catarro nasal, desde hace 2 días comienza con cefalea frontal y dolor periorbitario derecho, con distermia no termometrada y malestar, por lo que acude. 
-
-EF: 
-TA  FC  Tª 
-Nivel de consciencia y Orientación adecuados. Buen estado general. Eupneica. no cianosis. 
-Cabeza y Cuello:: Orofaringe: xerosa. Otosc: OD: Tímpano derecho deslustrado. Conducto Auditivo Derecho: normal. OI: Sin alteraciones significativas. Dolor a palpación de puntos maxilar y frontal derechos. 
-Resto de la exploración sin hallazgos relevantes.
-
-JC: SINUSITIS AGUDA.
-
-PLAN: 
- Solicito p.Compl.: RX DE SENOS PARANASALES. 
- Indico TTo. analgésico: METAMIZOL 1 amp. vo.
-
-P.COMPL: 
- Rx Senos Paranasales:
-
-JD: SINUSITIS AGUDA.
-
-TTo.: 
- LAVADO DE FOSAS NASALES CON SUERO SALINO O SIMILAR (RHINOMER, RHINODUCHE, ETC.) 3-4 VECES AL DÍA. 
- BUDESONIDA SPRAY NASAL 100mcgr. 1 INSTILACIÓN EN CADA FOSA NASAL CADA 12 HORAS 7 DÍAS. 
- RINO-EBASTEL 1 COMP. CADA 12 HORAS 5 DÍAS. 
- AZITROMICINA 500MG EFG 1 COMP. AL DÍA 6 DÍAS. 
- SI DOLOR DEXKETOPROFENO 25MG / IBUPROFENO 600MG EFG, 1 COMP. V.ORAL CADA 8 HORAS 4-5 DÍAS. 
- SI NO REMITE EL DOLOR PUEDE AÑADIR PARACETAMOL 1 GRAMO EFG 1 COMP O 1 AMP. DE METAMIZOL BEBIDA CADA 8 HORAS.
-
-CONTROL EN CONSULTAS DE ORL LA PRÓXIMA SEMANA. SI EMPEORA VOLVER URGENCIAS.
-
-### TAPONES**
-
-Varón / Mujer de años que acude por hipoacusia desde hace días. No otalgia ni fiebre ni supuración.
-
-AP: 
- No patologías previas. 
- No refiere alergias a fármacos conocidas.
-
-EF: 
- Nivel de consciencia y Orientación adecuados. Buen estado General. Eupnea. No cianosis. 
- Otosc: Conducto Auditivo Derecho: D /  I con tapón de cerumen que impide valoración de tímpano .
-
-JD: 
- TAPÓN DE CERUMEN
-
-TTo 
- NO METER BASTONES EN OIDOS
-
- ANTICERUMEN LIADE SOL. ÓTICA: 4 GOTAS CADA 8 HORAS
-
- SI DOLOR PUEDE TOMAR IBUPROFENO 600MG EFG O PARACETAMOL 1 GR 1 COMP CADA 6-8 HORAS.
-
- ACUDIRÁ MAÑANA A CONSULTAS DE ORL PARA LIMPIEZA, EXTRACCIÓN DE TAPÓN DE CERUMEN, CON CITA PREFERENTE
-
-## PSIQUIATRÍA***
-
- 1. ### **CRISIS DE ANSIEDAD**
-
-Varón / Mujer de años. Motivo de consulta: Nerviosismo.
-
-Antecedentes personales: 
-Reacciones Adversas a Medicamentos Conocidas: No. 
-Patologías previas: no refiere. 
-Cirugías previas: No. 
-Hábitos tóxicos: No. 
-Tratamiento habitual: No.
-
-Enfermedad actual: 
-Refiere cuadro de comienzo repentino con nerviosismo, palpitaciones, sensación de mareo-presíncope sin pérdida de consciencia, falta de aire y opresión precordial. Tras respirar controladamente ha comenzado a sentirse mejor y ahora está todavía nerviosa pero mejor.
-
-Exploración física: 
- TA  FC , SATO2 100 % 
- Nivel de consciencia y Orientación adecuados. Buena hidratación, perfusión y nutrición. Eupnea en reposo, no cianosis. 
- Cabeza y Cuello:. No bocio ni adenopatías. Pulsos Carotídeos rítmicos sin soplos. No ingurgitación venosa yugular. 
- Auscultación Pulmonar: murmullo vesicular conservado 
- Auscultación Cardiaca: Rítmica sin soplos
-
-JC: CRISIS DE ANSIEDAD
-
-PLAN: 
- Solicito EKG: Ritmo sinusal normal. 
- Indico Tratamiento con LORAZEPAN 1 MG SL.
-
-AL ALTA. 
- REPOSO Y OBSERVACIÓN AMBULATORIA 
- SI NERVIOSISMO INTENSO, CONTROLAR RESPIRACIÓN Y TOMAR 1 COMP. DE LORAZEPAN 1 MG EFG SUBLINGUAL, REPETIBLE CADA 6-8 HORAS
-
- CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS.
-
-## REUMATOLOGÍA***
-
- 1. ### **PODAGRA**
-
-Varón / Mujer de años. MC: DOLOR EN PIE
-
-AP: 
--Sin interés. Hiperuricemia. 
--NAMC 
--AF. Padre y Abuelo con Hiperuricemia-GOTA
-
-EA: 
-Paciente que acude por dolor en 1er dedo pie D / I  sin traumatismo sobre el mismo de varios días de evol. No impotencia funcional. Ha tomado anoche Colchicina con ligero alivio.
-
-EF: 
- Consciente y orientado, buen estado general, eupneico, no cianosis. 
-Pie Izdo.: 
--Inflamación y dolor sobre MTF 1er dedo con flogosis local. 
--No Dolor al forzar varo y valgo sin bostezo articular. 
--No dolor sobre articulación IF 
--No deformidad. No signos de luxación. 
-
-JC: Monoartritis MTF 1er dedo del pie Izdo., posible Podagra.
-
-PLAN: 
- Solicito P.Compl: A. Sangre + Rx Pie Dcho. AP y OBL: 
- Indico TTo. con DEXKETOPROFENO + PARACETAMOL.
-
-TTO. 
- REPOSO RELATIVO. PIE ELEVADO. FRIO LOCAL INTERMITENTE.
-
- COLCHIMAX 1 CP CADA 8 HORAS HASTA MEJORÍA
-
- DEXKETOPROFENO 25MG (ENANTYUM) 1 COMP TRAS DESAYUNO, COMIDA Y CENA 5-7 DÍAS
-
- OMEPRAZOL 20MG EFG 1 COMP AL DÍA SI MOLESTIAS GÁSTRICAS.
-
- SI DOLOR PUEDE AÑADIR PARACETAMOL1 GR 1 COMP CADA 8 HORAS
-
- CONTROL EN CONSULTAS DE REUMATOLOGÍA LA PRÓXIMA SEMANA. SI EMPEORA VOLVER A URGENCIAS.
-
-## UROLÓGICO***
-
- 1. ### **CRU**
-
-Mujer / Varón de años. MC: DOLOR EN FOSA RENAL D I
-
-AP: 
- Nefrolitiasis Izda. LEOC hace 1 año. 
- No Reacciones Adversas a Medicamentos Conocidas 
- No refiere otras patologías.
-
-MC: 
-Varón Mujer de años. Acude por cuadro de unas h. de evol. de DOLOR en FOSA RENAL IZDA. TIPO CÓLICO que no se modifica con la postura, 
- con / sin irradiación hacia adelante hasta hipocondrio homolateral, con / sin DISURIA-POLAQUIURIA, con / sin escalofríos, con / sin fiebre, con / sin nauseas o vómitos. No otra sintomatología. 
-
-EF: 
- TA FC Sat % Tª 
- Nivel de consciencia y Orientación adecuados, Buen estado general, Eupnea, No cianosis. 
- Auscultación Pulmonar: murmullo vesicular conservado 
- Auscultación Cardiaca: Rítmico sin soplos 
- Abdomen: Ruidos hidro-aéreos presentes, blando y depresible, no masas ni megalias, no puntos de dolor ni signos de irritación peritoneal. Puño-percusión renal + Dcha./Izda. 
- Extremidades NO edemas. Pulsos Periféricos presentes.
-
-JC: Cólico RENO-URETERAL Dcho./ Izdo.
-
-PLAN: 
- Solicito P.Compl. según Protocolo CRU: AS+ AO + Rx Abdomen 
- Indico TTo. ANALGÉSICO de 1er escalón según Pº CRU: DEXKETOPROFENO + PARACETAMOL iv.
-
---------------------------------------- 
-P.Compl. 
- AS: 
- AO: 
- Rx Abdomen:
-
-Evol. 
- Se administra DEXKETOPROFENO + PARACETAMOL + METOCLOPRAMIDA iv.
-
-JD: 
- Cólico RENO-URETERAL Dcho. / Izdo.
-
-TTo. 
- NO FORZAR INGESTA DE LÍQUIDO MIENTRAS PRESENTE DOLOR. CALOR LOCAL INTERMITENTE 
- TAMSULOSINA 0,4MG 1 COMP. AL ACOSTAR 
- SI DOLOR DEXKETOPROFENO 25MG, 1 COMP. V.ORAL 1 TRAS CADA COMIDA O CADA 8 HORAS HASTA MEJORÍA DEL DOLOR 
- SI NO REMITE EL DOLOR, AÑADIR PARACETAMOL 1 GRAMO EFG 1 ENTRE COMIDAS O CADA 8 HORAS 
- SI DOLOR INTENSO PUEDE TOMAR 1 AMP. BEBIDA DE METAMIZOL, REPETIBLE CADA 8 HORAS. 
- SI NO CEDE ACUDIRÁ A UN SERVICIO DE URGENCIAS. 
- OMEPRAZOL 20MG EFG 1 COMP. AL DÍA si molestias gástricas.
-
-CONTROL EN CONSULTA DE UROLOGÍA LA PRÓXIMA SEMANA. SI EMPEORA VOLVER A URGENCIAS.
-
-### EPIDIDIMITIS AGUDA**
-
-### Varón de años. Motivo de consulta: dolor en testículo Dcho.
-
-**AP:** 
-**No Reacciones Adversas a Medicamentos Conocidas** 
-**No patologías previas** 
-**Cirugías previas: No.** 
-### Tratamiento habitual: Ninguno.
-
-**Enf. Actual:** 
-### Desde hace unos días dolor en teste dcho. a nivel de polo superior sin fiebre ni disuria.
-
-**Exploración física:** 
-** Nivel de consciencia y Orientación adecuados, Buen estado general, Eupneica, no cianosis.** 
-** Teste: Testículos de consistencia normal, ligeramente aumentado el derecho, sin alteraciones de su superficie ni dolorosos, se palpa epidídimo dcho doloroso.** 
-
-**Pruebas complementarias:** 
-** AS:** 
-** AO: Se adjunta:** 
-
-### JC: Posible EPIDIDIMITIS AGUDA.
-
-**PLAN:** 
-### Se administra GENTA 240 / CEFTRIAXONA 2gr Iv x 2-3 días (Si afectación general – fiebre )
-
-**AL ALTA.** 
-** REPOSO RELATIVO Y OBSERVACIÓN AMBULATORIA. UTILIZAR SLIP AJUSTADO.** 
-** CIPROFLOXACINO 500MG EFG 1 COMP. CADA 12 HORAS DURANTE 2-3 SEMANAS.** 
-** SI DOLOR IBUPROFENO 600MG 1 COMP. CADA 6-8 HORAS Y SI NO REMITE EL DOLOR PUEDE AÑADIR PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS.** 
-** SI MOLESTIAS GÁSTRICAS OMEPRAZOL 20MG EFG 1 COMP. AL DÍA.**
-
-CONTROL EN CONSULTAS DE UROLOGÍA LA PRÓXIMA SEMANA CON RESULTADO DE UROCULTIVO QUE RECOGERÁ A PARTIR DE 5 DÍAS EN EL MOSTRADOR DE CONSULTAS EXTERNAS DE ESTE HOSPITAL. SI EMPEORA VOLVER A URGENCIAS.
-
-### HEMATURIA**
-
-### Varón / Mujer de años. Motivo de consulta: HEMATURIA .
-
-**AP:** 
-**No Reacciones Adversas a Medicamentos Conocidas** 
-**No HTA. No DM. No DL.** 
-**Nefrolitiasis hace años.** 
-**No otras patologías previas.** 
-**Cirugías previas: Hernia Inguinal Izda. Placa en metaC de mano izda por Fx.** 
-### Tratamiento habitual: No.
-
-**Enf. Actual:** 
-### Acude por cuadro de HEMATURIA desde  sin fiebre, con dolor a nivel de uretra y disuria. No otra sintomatología.
-
-**Exploración física:** 
-** TA FC Tª  º** 
-** Nivel de consciencia y Orientación adecuados, BHNyP, Eupnea, no cianosis.** 
-** Abdomen: Ruidos hidro-aéreos presentes, blando y depresible, no palpo masas ni megalias, no puntos dolorosos, no signos de irritación peritoneal. Puño-percusión renal negativa.**
-
-### JC: HEMATURIA por posible CRU expulsivo - Espasmo Uretral 2ario.  A descartar ITU.
-
-**PLAN:** 
-** Solicito Pruebas complementarias:** 
-** Indico TTo. con ESCOPOLAMINA + DEXKETOPROFENO iv**
-
-### ITU**
-
-Varón / Mujer de años. Motivo de consulta: Disuria
-
-AP: 
-No Reacciones Adversas a Medicamentos Conocidas 
-No patologías previas 
-Cirugías previas: No. 
-Tratamiento habitual: Ninguno.
-
-Enf. Actual: 
-Mujer de años. Acude por cuadro de disuria-polaquiuria desde anoche sin fiebre y con ligero dolor en abdomen y zona lumbar baja.
-
-Exploración física: 
- TA FC Sat % Tª º 
- Nivel de consciencia y Orientación adecuados, Buen estado general, Eupnea, no cianosis. 
- Abdomen: Ruidos hidro-aéreos presentes, blando y depresible, no palpo masas ni megalias, no puntos dolorosos, no signos de irritación peritoneal. Puño-percusión renal negativa.
-
-Pruebas complementarias: 
- AO: NITRITOS + y BACTERIURIA. Se adjunta
-
-JC: Infección del Tracto Urinario. SE RECOGE UROCULTIVO
-
-TTO. 
- INGESTA DE ABUNDANTES LÍQUIDOS.
-
- MUVAGYN PROBIÓTICO 1 ÓVULO AL ACOSTAR DE 7 A 10 DÍAS O GYNOPHILUS 1 CADA 12 HORAS 7 DÍAS
-
- AMOXICILINA-CLAVULÁNICO 500MG EFG 1 COMP. CADA 8 HORAS 5 DÍAS
-
- SI DOLOR PUEDE TOMAR IBUPROFENO 600MG O PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS.
-
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER URGENCIAS.
-
-### ITU-PNF AGUDA TTO**
-
-### JC: Infección del Tracto Urinario FEBRIL. posible PNF Aguda incipiente
-
-**PLAN:** 
-** Se administra CEFTRIAXONA 2gr iv**
-
-**AL ALTA** 
-**TTO.** 
-** INGESTA DE ABUNDANTES LÍQUIDOS.** 
- CEFIXIMA(DENVAR®) 400 MG, 1 CP AL DÍA DURANTE 5 DÍAS. 
- SI DOLOR PUEDE TOMAR IBUPROFENO 600MG O PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS.
-
-CONTROL POR SU MÉDICO o EN CONSULTAS DE MEDICINA INTERNA EN 6-7 DÍAS CON RESULTADO DE UROCULTIVO QUE RECOGERÁ MOSTRADOR DE CONSULTAS EXTERNAS DE ESTE HOSPITAL ANTES DE ACUDIR A CONSULTA. SI EMPEORA VOLVER A URGENCIAS.
-
-### ITU-GESTANTE**
-
-Mujer de años, gestante de semanas. Motivo de consulta: disuria-polaquiuria desde anoche sin fiebre.
-
-AP: 
-No Reacciones Adversas a Medicamentos Conocidas 
-No patologías previas 
-Cirugías previas: No. 
-Tratamiento habitual: Ninguno.
-
-Enf. Actual:
-
-Exploración física: 
- TA FC Sat % Tª º 
- Nivel de consciencia y Orientación adecuados, Buen estado general, Eupneica, no cianosis. 
- Abdomen: Ruidos hidro-aéreos presentes, blando y depresible, no palpo masas ni megalias, no puntos dolorosos, no signos de irritación peritoneal. Puño-percusión renal negativa.
-
-Pruebas complementarias: 
- AO: NITRITOS + y BACTERIURIA. Se adjunta
-
-JC: ITU
-
-TTO. 
- INGESTA DE ABUNDANTES LÍQUIDOS. 
- ANTIBIÓTICO: 
- SI DOLOR PUEDE PARACETAMOL 1 GRAMO EFG 1 COMP. CADA 8 HORAS.
-
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS.
-
-### PIELONEFRITIS AGUDA**
-
-Varón / Mujer de años. MC: DOLOR EN FOSA RENAL D / I CON FIEBRE
-
-AP:. 
- No Reacciones Adversas a Medicamentos Conocidas. 
- No refiere patologías. 
- Qx: NO 
- TTO. Habitual: NO
-
-MC: 
- Cuadro de DÍAS de evol. de DOLOR en FOSA RENAL DCHA./ IZDA. CONTINUO, que no se modifica con la postura, con irradiación hacia adelante hasta hipocondrio homolateral, con DISURIA-POLAQUIURIA, con escalofríos, con FIEBRE DE HASTA 38,8º DESDE HOY, sin nauseas o vómitos. No otra sintomatología. 
-
-EF: 
- TA  FC Sat % Tª º 
- Nivel de consciencia y Orientación adecuados, Buen estado general, Eupnea, No cianosis. 
- Auscultación Pulmonar: murmullo vesicular conservado 
- Auscultación Cardiaca: Rítmico sin soplos 
- Abdomen: Ruidos hidro-aéreos presentes, blando y depresible, no masas ni megalias, no puntos de dolor ni signos de irritación peritoneal. Puño-percusión renal + Dcha./Izda. 
- Extremidades NO edemas. Pulsos Periféricos presentes.
-
-JC: PNF Aguda Dcha.
-
-PLAN: 
- Solicito P.Compl.: AS+ AO + UROCULTIVO 
- Indico TTo. ANALGÉSICO  (DEXKETOPROFENO + PARACETAMOL iv.)
-
-JC: PIELONEFRITIS AGUDA NO COMPLICADA SIN CRITERIOS DE INGRESO.
-
-PLAN: 
- Se administra CEFTRIAXONA 2 gr iv.
-
-AL ALTA 
- REPOSO Y OBSERVACIÓN EN DOMICILIO. 
- INGESTA DE ABUNDANTES LÍQUIDOS. 
- CEFIXIMA 400MG EFG 1 COMP. CADA 24 H 10 DÍAS.
-
- SI FIEBRE O DOLOR IBUPROFENO 600MG EFG Y PARACETAMOL 1 GRAMO, 1 COMP. DE UNO DE ELLOS CADA 8 HORAS O ALTERNOS CADA 4 HORAS.
-
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORA VOLVER A URGENCIAS.
-
-La dosis máxima no CEFIXIMA: NO deberá exceder de 12 mg/Kg/día. 
-
-En caso de insuficiencia renal:
-
- con un aclaramiento de creatinina 20 ml/minuto, no es preciso modificar la dosis; 
-
- si el aclaramiento es inferior, se deberá reducir la dosis a la mitad. 
-
- En pacientes hemodializados, la posología de cefixima no deberá exceder tampoco los 200 mg/día.
-
-## VASCULAR***
-
- 1. ### **TROMBOFLEBITIS – SOSPECHA trombosis venosa profunda**
-
-Varón / Mujer de años MC: Sospecha trombosis venosa profunda.
-
-AP: 
-No Reacciones Adversas a Medicamentos Conocidas 
-No patologías previas 
-Cirugías previas: No. 
-Tratamiento habitual: Ninguno.
-
-EA: 
-Remitida por su MAP para descartar trombosis venosa profunda por objetivar zona eritematosa y dura en pierna D / I de la paciente.
-
-EF: 
-TA FC % SatO2 % 
-Nivel de consciencia y Orientación adecuados, Buen estado general, Eupnea, no cianosis. 
-AP: murmullo vesicular conservado 
- Auscultación Cardiaca: Rítmica, no percibo soplos. 
-EE: Cordón indurado y eritematoso-doloroso en cara interna de pierna. No edema de pie-tobillo y calor distal ni eritema distal. Signo de HOMAN NEGATIVO.
-
-P.Compl. 
-Dímero D (turbidimétrico): 
-ECO-DOPPLER MID: NO SE OBJETIVAN SIGNO DE trombosis venosa profunda EN MID.
-
-JC: TROMBOFLEBITIS SUPERFICIAL
-
-TTo. 
- Evitar el reposo o la inmovilización prolongada 
- Elevar la extremidad afecta varias veces al día durante nos minutos 
- Aplicar Frio local 
- Medias Elásticas de Compresión 
- IBUPROFENO 600MG 1 comp. tras cada comida 3-4 días 
- DAFLON 500MG 1 COMP. CADA 12 HORAS DURANTE EL VERANO. 
- SI DOLOR PUEDE AÑADIR PARACETAMOL 1 GRAMO CADA 8 HORAS
-
-CONTROL POR SU MÉDICO DE FAMILIA. SI EMPEORAMIENTO VOLVER A URGENCIAS.
+**PLAN:**
+1.  **Pruebas en Urgencias:**
+    - **Dímero-D**.
+    - **Eco-Doppler** de MMII (descarta TVP).
+2.  **Tratamiento al Alta:**
+    - Evitar inmovilización, elevar la extremidad.
+    - **Frío local** y **medias de compresión**.
+    - **AINEs** (Ibuprofeno).
+    - **Flebotónicos** (Daflon®).
+3.  **Seguimiento:**
+    - Control por su MAP.
 
 2. # **PLANTILLAS CONS-URG-TRAUMA**
 
