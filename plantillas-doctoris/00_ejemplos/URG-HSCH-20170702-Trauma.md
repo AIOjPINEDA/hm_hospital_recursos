@@ -9,41 +9,17 @@
 
 ## 📋 ÍNDICE RÁPIDO
 
-### 🏥 SECCIÓN 1: MEDICINA POR ESPECIALIDADES
-
-- **[1.1](#alergologia)** 🤧 Alergología e Inmunología
-- **[1.2](#cardiologia)** ❤️ Cardiología
-
-- **[1.4](#infecciosas)** 🦠 Enfermedades Infecciosas
-- **[1.5](#neumologia)** 🫁 Neumología
-- **[1.6](#neurologia)** 🧠 Neurología
-- **[1.7](#oftalmologia)** 👁️ Oftalmología
-- **[1.8](#orl)** 👂 Otorrinolaringología
-- **[1.9](#psiquiatria)** 🧘 Psiquiatría
-- **[1.10](#endocrinologia)** 💊 Endocrinología
-- **[1.11](#reumatologia)** 🦴 Reumatología
-- **[1.12](#urologia)** 🚽 Urología
-- **[1.13](#vascular)** 🩸 Vascular
-- **[1.14](#digestivo)** 🍽️ Digestivo
-- **[1.15](#dermatologia)** 🩹 Dermatología
-
 ### 🦴 SECCIÓN 2: TRAUMATOLOGÍA POR REGIONES
-- [Traumatología por regiones (archivo independiente)](plantillas-doctoris/00_ejemplos/URG-HSCH-20170702-Trauma.md)
 
-### 📝 SECCIÓN 3: RECOMENDACIONES AL ALTA
+- **[2.1](#trauma-21)** 🏛️ Columna Vertebral (Cervical, Dorsal, Lumbar)
+- **[2.2](#trauma-22)** 💪 Miembro Superior Proximal (Hombro, Clavícula)
+- **[2.3](#trauma-23)** 🦾 Miembro Superior Medio (Codo, Antebrazo)
+- **[2.4](#trauma-24)** ✋ Miembro Superior Distal (Muñeca, Mano)
+- **[2.5](#trauma-25)** 🦵 Miembro Inferior Proximal (Cadera, Fémur)
+- **[2.6](#trauma-26)** 🦿 Miembro Inferior Medio (Rodilla, Tibia)
+- **[2.7](#trauma-27)** 🦶 Miembro Inferior Distal (Tobillo, Pie)
+- **[2.8](#trauma-28)** 🏥 Procedimientos Generales y Heridas
 
-- **[3.1](#rec-31)** 📋 Proctología
-- **[3.2](#rec-32)** 🛠️ Procedimientos Menores
-- **[3.3](#rec-33)** 📋 Plantillas Genéricas
-
-### 📊 SECCIÓN 4: REFERENCIAS Y PROTOCOLOS
-
-- **[4.1](#ref-41)** 💊 Tablas de Equivalencias Farmacológicas
-- **[4.2](#ref-42)** 📈 Pautas de Dosificación
-- **[4.3](#ref-43)** 🔬 Valores de Laboratorio
-- **[4.4](#ref-44)** 📷 Protocolos de Imagen
-
----
 
 ## 🔍 CÓMO USAR ESTE MANUAL
 
@@ -119,2248 +95,1637 @@ PLAN/TTO: Plan Terapéutico
     - Acudir a Urgencias si presenta empeoramiento o signos de alarma.
 
 <a id="alergologia"></a>
-## 🤧 1.1. Alergología e Inmunología
-
-### 🤧 1.1.1. Angioedema
-
-**MC:** Edema en labio superior en varón/mujer de [edad] años.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-- Cirugías previas: No refiere.
-- Hábitos tóxicos: No refiere.
-- Tratamiento habitual: No refiere.
-- FUR: [Fecha]
-
-**EA:**
-El paciente acude por edema de labio superior de inicio súbito en las últimas 24 horas, sin dificultad respiratoria ni disfagia. Refiere exposición a amoníaco como posible desencadenante. No presenta otra sintomatología asociada.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%.
-- **Cabeza y Cuello:** No se observan hallazgos patológicos. No hay edema de úvula. Se evidencia angioedema en partes blandas de la región labial superior, sin afectación palpebral.
-- **Auscultación Cardíaca:** Tonos rítmicos a 70 lpm, sin soplos.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado (MVC).
-
-**JC:** Angioedema.
-
-**PLAN:**
-1.  **Tratamiento en Urgencias:**
-    - Se administra **URBASON® 60 mg IV**.
-
-2.  **Tratamiento al Alta:**
-    - **Evitar exposición a amoníacos** y otros posibles desencadenantes.
-    - **EBASTINA 20 mg** (Ebastel Forte Flas®), 1 comprimido por la mañana durante 7-10 días.
-    - **DEFLAZACORT 30 mg** (Zamene®), 2 comprimidos juntos al día durante 3 días, y luego suspender.
-
-3.  **Seguimiento:**
-    - Control por su Médico de Atención Primaria (MAP).
-    - Acudir a Urgencias si presenta empeoramiento o nuevos síntomas.
-    - En caso de un nuevo brote, se recomienda registrar los alimentos ingeridos en las 48 horas previas.
-
-### 🤧 1.1.2. Anisakiasis
-
-**MC:** Reacción alérgica tras ingesta de boquerones en vinagre en varón/mujer de [edad] años.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-- Cirugías previas: No refiere.
-- Hábitos tóxicos: No refiere.
-- Tratamiento habitual: No refiere.
-
-**EA:**
-El paciente presenta un cuadro de disnea tras la ingesta de boquerones en vinagre. Fue asistido por el SUAP de Rivas, donde le administraron ACTOCORTINA®, URBASON® y POLARAMINE®. A su llegada a Urgencias, refiere encontrarse prácticamente asintomático.
-
-**EF:**
-- **Constantes:** TA 170/80 mmHg, FC 100 lpm, SatO₂ 95%.
-- **Cabeza y Cuello:** Sin hallazgos patológicos, no se evidencia edema de úvula.
-- **Auscultación Cardíaca:** Tonos rítmicos a 90 lpm, sin soplos.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado (MVC).
-
-**JC:** Reacción alérgica, posible anisakiasis.
-
-**PLAN:**
-1.  **Recomendaciones Dietéticas:**
-    - **Evitar la ingesta de pescado crudo** de forma estricta.
-
-2.  **Tratamiento Farmacológico:**
-    - **DEFLAZACORT 30 mg** (Zamene®): 1 comprimido al día durante 4 días, con pauta descendente de ¼ de comprimido cada 4 días hasta su suspensión.
-    - **EBASTINA 20 mg**: 1 comprimido por la mañana durante 7-10 días.
-    - **POLARAMINE® 2 mg** (si prurito o nueva erupción): 2 comprimidos cada 6-8 horas. **Advertencia:** puede producir somnolencia, evitar conducir o realizar actividades peligrosas.
-    - **RANITIDINA 300 mg**: 1 comprimido al día mientras dure el tratamiento con corticoides.
-
-3.  **Seguimiento:**
-    - Control por su Médico de Atención Primaria.
-    - Acudir a Urgencias en caso de empeoramiento o aparición de nuevos síntomas.
-    - En caso de un nuevo brote, registrar los alimentos ingeridos en las 48 horas previas.
-    - Se solicita interconsulta con el servicio de **Alergología**.
-
-### 🤧 1.1.3. Asma Leve Reagudizado
-
-**JC:** Asma reagudizado, broncoespasmo.
-
-**PLAN:**
-1.  **Corticoides Sistémicos:**
-    - **DEFLAZACORT 30 mg** (Zamene®): 1 comprimido al día durante 4 días, con pauta descendente de ¼ de comprimido cada 4 días hasta suspender.
-
-2.  **Tratamiento Tópico y de Rescate:**
-    - **Lavados nasales** con agua de mar (Sterimar®, Rinomer®, etc.).
-    - **Antihistamínicos** (si prurito ocular, lagrimeo o estornudos): **EBASTEL® FORTE** 1 comprimido cada 24 horas.
-    - **Colirio Antihistamínico** (si molestias oculares): **ZADITEN® COLIRIO MONODOSIS**, 1 gota en cada ojo cada 12 horas.
-    - **Corticoides Nasales** (si congestión nasal): **AVAMYS®**, 2 aplicaciones en cada fosa nasal cada 24 horas.
-
-3.  **Broncodilatadores:**
-    - **De rescate** (si sibilancias, tos o disnea): **TERBASMIN TURBUHALER®**, 2 inhalaciones en cada comida y tras cada episodio de tos o disnea, hasta un máximo de una dosis cada 2 horas.
-    - **De mantenimiento** (si precisa Terbasmin a diario): **SYMBICORT TH FORTE®**, 2 inhalaciones cada 12 horas (después del Terbasmin de la mañana y de la noche) durante 8-10 días.
-        - *Realizar enjuague bucal con agua y bicarbonato tras cada toma.*
-        - Si mejora tras 8-10 días, reducir a 1-2 inhalaciones nocturnas.
-        - Si no mejora, puede añadir 2 inhalaciones al mediodía.
-
-### 🤧 1.1.4. Rino-conjuntivitis Alérgica (Polinosis)
-
-**MC:** Síntomas alérgicos en varón/mujer de [edad] años.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-
-**EA:**
-El paciente refiere picor ocular, rinorrea acuosa, estornudos frecuentes y picor faríngeo, sin fiebre ni otra sintomatología. Indica que es un cuadro recurrente anual en la misma época y no ha sido estudiado por su MAP.
-
-**EF:**
-- **Constantes:** SatO₂ 98%.
-- **General:** Consciente y orientado, buen estado general, eupneico, sin cianosis.
-- **Ojos:** No se aprecia inyección conjuntival significativa.
-- **Orofaringe:** Xerosa.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado (MVC).
-
-**JC:** Polinosis sintomática.
-
-**PLAN:**
-1.  **Tratamiento Farmacológico:**
-    - **Lavados nasales** con RHINODUCHE®, 3 veces al día.
-    - **NASONEX® SPRAY NASAL**: 1 aplicación en cada fosa nasal cada 12 horas durante 3 días, luego cada 24 horas durante 7 días. Posteriormente, sustituir por **AFLUON® SPRAY** de forma continuada durante la temporada de polen.
-    - **NARINE L REPETABS®**: 1 comprimido cada 12 horas durante 3 días, y luego continuar con **EBASTINA 20 mg** (Ebastel Forte Flas®).
-    - **BILINA® COLIRIO OFTÁLMICO**: 1 gota en cada ojo cada 8, 12 o 24 horas, según molestias.
-    - **TERBASMIN TURBUHALER®** (si tos intensa, disnea o sibilancias): 2 inhalaciones, hasta cada 4 horas.
-
-2.  **Seguimiento:**
-    - Control por su Médico de Atención Primaria.
-    - Acudir a Urgencias si presenta empeoramiento.
-
-### 🤧 1.1.5. Rinitis Alérgica en el Embarazo
-
-| Estrategia de Tratamiento de la Rinitis Alérgica en la Embarazada | Recomendación |
-| :--- | :--- |
-| **Primera Línea:** | |
-| | 1. Evitar alérgenos. |
-| | 2. Cromoglicato intranasal. |
-| | 3. Inmunoterapia (si ya estaba en curso). |
-| | 4. Antihistamínicos de primera generación (ej. Clorfenamina). |
-| | 5. Esteroides intranasales a dosis bajas (ej. Budesonida, Beclometasona). |
-| **Segunda Línea:** | |
-| | 1. Descongestionantes (ej. Oximetazolina), uso limitado. |
-| | 2. Antihistamínicos de segunda generación (ej. Loratadina, Cetirizina), preferiblemente tras el primer trimestre. |
-| | 3. Otros corticoides inhalados (ej. Fluticasona, Mometasona), si ya estaban en uso, a la dosis mínima eficaz. |
-| **Consideración Final:** | Evaluar siempre el balance riesgo-beneficio antes de iniciar cualquier tratamiento. |
-
-### 🤧 1.1.6. Urticaria – Dermatitis Solar en Escote
-
-**MC:** Erupción cutánea de 2-3 días de evolución en varón/mujer de [edad] años.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-- Cirugías previas: No refiere.
-
-**EA:**
-El paciente refiere la aparición de ronchas pruriginosas en la zona del escote, región cervical, pabellones auriculares y párpados desde hace 2-3 días. Ha sido tratado con POLARAMINE® 2 mg (1 comprimido cada 8 horas) sin mejoría. No presenta disnea ni disfagia.
-
-**EF:**
-- **Constantes:** TA [valor], FC 101 lpm, SatO₂ [valor] %.
-- **General:** Consciente y orientado, buen estado general, eupneico, sin cianosis.
-- **Orofaringe:** No se evidencia edema de úvula.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado (MVC).
-- **Piel:** Erupción eritemato-edematosa en la región cérvico-torácica, dorso del cuello, pabellones auriculares y párpados.
-
-**JC:** Dermatitis-Urticaria Solar.
-
-**PLAN:**
-1.  **Tratamiento en Urgencias:**
-    - Se administra **POLARAMINE® IM** y **URBASON® 40 mg IM**.
-
-2.  **Tratamiento al Alta:**
-    - **Hidratación abundante** de la piel y **evitar la exposición solar**.
-    - **EBASTINA 20 mg** (Ebastel Forte Flas®): 1 comprimido por la mañana durante 7 días.
-    - **ADVENTAN® EMULSIÓN**: 1 aplicación en las zonas de eritema cada 12 horas.
-    - **POLARAMINE® REPETABS 6 mg** (si prurito intenso): 1 comprimido cada 6-8 horas. **Advertencia:** puede producir somnolencia, evitar conducir o realizar actividades peligrosas.
-
-3.  **Seguimiento:**
-    - Control en consultas de **Dermatología** la próxima semana.
-    - Acudir a Urgencias si presenta empeoramiento.
-
-### 🤧 1.1.7. Urticaria
-
-**MC:** Erupción cutánea de 2-3 días de evolución en varón/mujer de [edad] años.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-- Cirugías previas: No refiere.
-
-**EA:**
-El paciente presenta desde hace 2-3 días una erupción en forma de ronchas pruriginosas por todo el cuerpo. Ha sido tratado con ATARAX® (1 comprimido cada 12 horas) sin mejoría. No refiere disfagia ni disnea.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ 100%.
-- **General:** Consciente y orientado, buen estado general, eupneico, sin cianosis.
-- **Orofaringe:** No se evidencia edema de úvula.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado (MVC).
-- **Piel:** Erupción habonosa en flexuras de extremidades superiores, en toda la superficie de las inferiores, región cérvico-torácica y tercio inferior del abdomen.
-
-**JC:** Reacción urticariforme.
-
-**PLAN:**
-1.  **Tratamiento en Urgencias:**
-    - Se administra **POLARAMINE® IM** y **URBASON® 40 mg IM**.
-
-2.  **Tratamiento al Alta:**
-    - **Hidratación abundante** de la piel.
-    - **EBASTINA 20 mg** (Ebastel Forte Flas®): 1 comprimido por la mañana durante 7-10 días.
-    - **PREDNISONA 30 mg**: 2 comprimidos juntos por la mañana durante 3 días, y luego reducir la dosis en ½ comprimido cada 2 días hasta suspender.
-    - **POLARAMINE® 2 mg** (si prurito intenso): 2 comprimidos cada 6-8 horas. **Advertencia:** puede producir somnolencia, evitar conducir o realizar actividades peligrosas.
-    - **RANITIDINA 300 mg**: 1 comprimido al día mientras dure el tratamiento con corticoides.
-
-3.  **Seguimiento:**
-    - Control en consultas de **Alergología** en 1 semana.
-    - Acudir a Urgencias si presenta empeoramiento o nuevos síntomas.
-    - En caso de un nuevo brote, registrar los alimentos ingeridos en las 48 horas previas.
-
-<a id="cardiologia"></a>
-## ❤️ 1.2. Cardiología
-
-### ❤️ 1.2.1. Crisis Hipertensiva
-
-**MC:** Cifras elevadas de tensión arterial en varón/mujer de [edad] años.
-
-**AP:**
-- RAMC: No conocidas.
-- HTA: Sí.
-- Tratamiento habitual: [Especificar tratamiento].
-
-**EA:**
-Paciente derivado de su MAP por cifras de TA de 240/150 mmHg, asociado a cefalea bitemporal. Tras la administración de Captopril 25 mg y Diazepam 5 mg por vía oral, la TA descendió a 190/120 mmHg, con mejoría parcial de la cefalea. No presenta otra sintomatología.
-
-**EF:**
-- **Constantes:** TA 185/113 mmHg, FC 85 lpm, FR 24 rpm, SatO₂ 100%.
-- **General:** Consciente y orientado, buen estado general, eupneico, sin cianosis.
-- **Auscultación Cardíaca:** Rítmica, sin soplos.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado, sin ruidos añadidos.
-- **Abdomen:** Normal.
-- **Neurológico:** Pupilas isocóricas y normorreactivas, pares craneales normales. Fuerza, sensibilidad y reflejos conservados. No presenta focalidad neurológica, marcha estable, coordinación normal ni signos meníngeos (Romberg y Barany negativos).
-- **Extremidades:** Sin edemas, pulsos presentes, sin signos de TVP ni IVC.
-
-**JC:** Crisis Hipertensiva.
-
-**PLAN:**
-1.  **Pruebas Complementarias:**
-    - Se solicita Analítica de Sangre (AS), Analítica de Orina (AO) y Electrocardiograma (EKG).
-
-2.  **Tratamiento en Urgencias:**
-    - Se administra **Captopril 25 mg oral**, **Nolotil® IV** y **Furosemida IV**.
-
-3.  **Seguimiento:**
-    - Control de TA cada 30-45 minutos.
-
-### ❤️ 1.2.2. Dolor Torácico Atípico
-
-**MC:** Dolor torácico.
-
-**AP:**
-- **FRCV:** HTA, DLP, exfumador y obeso (IMC 32). Antecedentes familiares de MS a los 53 años (hermano).
-- **Cardiológicos:** Sin interés.
-- **Comorbilidad:** Cirugía de próstata, hernia inguinal derecha y cirugía bilateral de rodillas (sin prótesis).
-- **Medicación habitual:** No refiere.
-
-**EA:**
-Varón/mujer de [edad] años que acude por dolor torácico de características mecánicas, de inicio continuo desde el día anterior. Se localiza en la región precordial, sin irradiación, y aumenta con la inspiración profunda y la tos. Afebril y sin cortejo vegetativo.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
-- **General:** Consciente y orientado, eupneico, sin cianosis.
-- **Tórax:** Dolor a la palpación en el [número] arco costal derecho/izquierdo a nivel de la línea axilar anterior. Dolor a la compresión torácica anteroposterior.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado (MVC), sin alteraciones.
-- **Auscultación Cardíaca:** Rítmica, sin soplos.
-
-**JC:** Dolor torácico atípico, de probable origen osteo-condral costal.
-
-**PLAN:**
-1.  **Pruebas Complementarias:**
-    - Se solicita AS, EKG y Rx de tórax.
-    - **EKG:** Ritmo sinusal normal.
-    - **Rx Tórax:** Índice cardiotorácico conservado, mínima elongación aórtica. No se identifican nódulos ni infiltrados pulmonares. Cambios degenerativos en columna dorsal.
-    - **AS:** Normal.
-
-2.  **Tratamiento al Alta:**
-    - **Reposo relativo**, hidratación abundante y fisioterapia respiratoria (hinchar globos, toser, etc.).
-    - **Calor local** intermitente.
-    - **DIAZEPAM 5 mg**: 1 comprimido al acostarse durante 5-7 días.
-    - **DEXKETOPROFENO 25 mg**: 1 comprimido después de las comidas (desayuno, comida y cena) durante 4-5 días.
-    - **PARACETAMOL 1 g** (si dolor): 1 comprimido después de cada comida.
-    - **METAMIZOL ampollas bebibles** (si dolor intenso): 1 ampolla, máximo cada 8 horas.
-    - **OMEPRAZOL 20 mg**: 1 comprimido en ayunas si presenta molestias gástricas.
-
-3.  **Seguimiento:**
-    - Control por su Médico de Atención Primaria.
-    - Acudir a Urgencias si presenta empeoramiento, fiebre, dificultad respiratoria o secreciones purulentas.
-
-### ❤️ 1.2.3. Dolor Torácico Sospechoso de SCA
-
-**MC:** Dolor torácico.
-
-**AP:**
-- **FRCV:** HTA, DM, DLP, fumador, historia familiar de cardiopatía isquémica.
-- **Cardiológicos:** [Especificar].
-- **Comorbilidad:** Obesidad (IMC [valor]).
-- **Medicación habitual:** [Especificar].
-
-**EA:**
-Paciente varón/mujer de [edad] años que acude por dolor torácico opresivo, de inicio [brusco/gradual], con una duración mayor de 30 minutos. Se localiza en la región retroesternal y se irradia a [cuello/mandíbula/hombro/brazo(s)]. Asociado a cortejo vegetativo (disnea, sudoración, náuseas/vómitos). Refiere [número] episodios de angina en las últimas 24 horas. Uso reciente de AAS en los últimos 7 días.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
-- **General:** Consciente y orientado, eupneico, sin cianosis.
-- **Cabeza y Cuello:** No se observan adenopatías ni bocio. Pulsos carotídeos rítmicos, sin soplos. No hay ingurgitación yugular.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado (MVC), sin alteraciones.
-- **Auscultación Cardíaca:** Rítmica, sin soplos.
-- **Extremidades:** Sin edemas, pulsos periféricos presentes, sin signos de TVP.
-
-**JC:** Dolor torácico sospechoso de Síndrome Coronario Agudo (SCA).
-
-**PLAN:**
-1.  **Pruebas Complementarias:**
-    - Se solicita EKG, AS (con enzimas cardíacas) y Rx de tórax.
-
-2.  **Tratamiento Inicial:**
-    - **Antiagregación:** AAS (300 mg) + Clopidogrel (300 mg) o Ticagrelor (carga de 180 mg, mantenimiento de 90 mg cada 12 horas).
-    - **Nitritos:** [Especificar dosis].
-    - **Betabloqueantes:** [Especificar si aplica].
-    - **Anticoagulación:** Enoxaparina (si no se realiza ACTP).
-
-<a id="dermatologia"></a>
-## 🩹 1.15. Dermatología
-
-### 🩹 1.15.1. Dermatitis Atópica
-
-**MC:** Erupción cutánea en varón/mujer de [edad] años.
-
-**AP:**
-- RAMC: No conocidas.
-- Alergias: Pólenes de olivo y gramíneas.
-- Patologías previas: Dermatitis atópica (DA).
-- Cirugías previas: No refiere.
-
-**EA:**
-El paciente presenta desde hace días un brote de DA en cuello, fosas antecubitales, antebrazos y cara. Ha estado en tratamiento con antihistamínicos H1 sin mejoría. No presenta clínica respiratoria ni otra sintomatología asociada. Cita pendiente en Dermatología.
-
-**EF:**
-- **Constantes:** TA 134/74 mmHg, FC 100 lpm, SatO₂ 97%.
-- **Piel:** Lesiones eritemato-edematosas, liquenificadas y de rascado en cuello, brazos y fosas antecubitales.
-
-**JC:** Brote de Dermatitis Atópica.
-
-**PLAN:**
-1.  **Tratamiento en Urgencias:**
-    - Se administra **Polaramine® IM** y **Urbasón® 60 mg IM**.
-
-2.  **Recomendaciones Generales:**
-    - Evitar ropas ajustadas y fibras sintéticas.
-    - Evitar cambios bruscos de temperatura, humedad, baños frecuentes y ejercicio intenso.
-    - Controlar el estrés emocional y la ansiedad.
-    - Mantener las uñas cortas y limpias.
-    - Evitar alimentos picantes y muy especiados.
-    - Se recomiendan los baños de sol y de mar.
-
-3.  **Tratamiento al Alta:**
-    - **Baños semanales** con **AVENAMIT® coloidal** (½ sobre por baño) durante 15-20 minutos, aplicando un aceite dermatológico (ej. URIAGE®) antes de salir del agua. Secar sin frotar y aplicar crema emoliente (ej. URIAGE®, EUCERIN®, LACTICARE®, Leti AT4®).
-    - **DEFLAZACORT 30 mg** (Zamene®): 2 comprimidos juntos al día durante 3 días, con pauta descendente de ¼ de comprimido cada 2 días hasta suspender.
-    - **EBASTINA 20 mg** (Ebastel Forte Flas®): 1 comprimido al día.
-    - **ELIDEL® CREMA**: Aplicar cada 12 horas durante 10 días.
-    - **EMOLYTAR®**: 1 tapón y medio en la bañera, 3 veces por semana durante 3-4 semanas.
-    - **Cremas Hidratantes:** Xeramance®, Stelatopia®, Dexeryl®.
-
-4.  **Seguimiento:**
-    - Acudir a su cita programada en Dermatología.
-    - Control por su MAP. Acudir a Urgencias si presenta empeoramiento.
-
-### 🩹 1.15.2. Acné Inflamatorio
-
-**MC:** Erupción facial en varón/mujer de [edad] años.
-
-**AP:**
-- RAMC: No conocidas.
-- Cirugías previas: No refiere.
-- Tratamiento habitual: No refiere.
-- Ginecológicos: No hay cambios menstruales, no hirsutismo.
-
-**EA:**
-Desde hace 2 semanas, el paciente presenta lesiones quístico-nodulares en el tercio inferior de la cara y en el cuello, que dejan cicatriz residual. No ha recibido tratamiento previo.
-
-**JC:** Acné inflamatorio.
-
-**PLAN:**
-1.  **Tratamiento Farmacológico:**
-    - **DOXICLAT® 100 mg**: 2 comprimidos al día durante 1 semana, y luego 1 comprimido al día durante 2 meses.
-    - **PEROXIBEN® 10%**: [Especificar pauta].
-
-<a id="digestivo"></a>
-## 🍽️ 1.14. Digestivo
-
-### 🍽️ 1.14.1. Cólico Biliar
-
-**MC:** Dolor abdominal.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-- Cirugías previas: No refiere.
-- Hábitos tóxicos: No refiere.
-- Tratamiento habitual: No refiere.
-
-**EA:**
-Inicio de dolor abdominal epigástrico irradiado a hipocondrio derecho y espalda, asociado a malestar, escalofríos y vómitos intensos. El dolor no se modifica con la posición. Sin diarrea, disuria ni fiebre.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
-- **General:** Consciente y orientado, buen estado general, eupneico.
-- **Abdomen:** Ruidos hidroaéreos presentes, globuloso, blando y depresible. Dolor a la palpación en epigastrio e hipocondrio derecho, con Murphy positivo. Sin signos de irritación peritoneal. Puño-percusión renal derecha dudosa.
-
-**JC:** Cólico biliar a descartar colecistitis aguda.
-
-**PLAN:**
-1.  **Pruebas Complementarias:**
-    - Se solicita AS, AO y Rx de abdomen.
-2.  **Tratamiento en Urgencias:**
-    - Se administra **ESCOPOLAMINA**, **PARACETAMOL IV**, **METAMIZOL IV**, **METOCLOPRAMIDA IV** y **OMEPRAZOL IV**.
-    - Tras la analgesia, se consigue remisión del dolor.
-3.  **Tratamiento al Alta:**
-    - **Reposo** y observación domiciliaria.
-    - **Dieta suave**, evitando grasas y ácidos.
-    - **OMEPRAZOL 20 mg**: 1 comprimido al día.
-    - **BUSCAPINA COMPOSITUM** (si dolor): 2 comprimidos juntos, repetible cada 8 horas.
-    - **DOMPERIDONA JARABE** (si náuseas): 1 cucharada 20 min antes de cada comida.
-4.  **Seguimiento:**
-    - Control en consultas de **Cirugía** con ecografía, y por su MAP.
-    - Acudir a Urgencias si presenta fiebre o no remisión del dolor.
-
-### 🍽️ 1.14.2. Dolor en Fosa Ilíaca Derecha (FID)
-
-**MC:** Dolor en FID.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-- Cirugías previas: No refiere.
-
-**EA:**
-Dolor de 8 horas de evolución en FID e hipogastrio, continuo, que aumenta con la deambulación y movimientos del miembro inferior derecho. Ligeras náuseas iniciales, sin vómitos. No diarrea. Afebril.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, Tª [valor] ºC.
-- **General:** Consciente y orientado, buen estado general.
-- **Abdomen:** Ruidos hidroaéreos presentes, blando y depresible. Dolor a la palpación de FID e hipogastrio, sin signos de irritación peritoneal. Murphy negativo. Puño-percusión renal negativa.
-
-**JC:** Dolor en FID: ITU vs. Ovulación vs. Apendicitis.
-
-**PLAN:**
-- Se solicita AS y AO.
-
-### 🍽️ 1.14.3. Epigastralgia (Dispepsia)
-
-**MC:** Epigastralgia.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-- Cirugías previas: No refiere.
-
-**EA:**
-Cuadro de 2 días de epigastralgia continua que aumenta tras la ingesta. Pirosis. Sin irradiación, náuseas, vómitos, fiebre ni disuria.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%.
-- **General:** Consciente y orientado, buen estado general.
-- **Abdomen:** Ruidos hidroaéreos presentes, blando y depresible. Dolor a la palpación de epigastrio, sin signos de irritación peritoneal. Murphy negativo. Puño-percusión renal negativa.
-
-**JC:** Dispepsia no ulcerosa / Posible gastritis aguda.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Se solicita AS, AO y Rx de abdomen.
-    - Se administra **OMEPRAZOL IV**, **PARACETAMOL IV** y **METAMIZOL IV**, con mejoría.
-2.  **Tratamiento al Alta:**
-    - **Reposo relativo** y dieta suave (evitar picantes, ácidos, alcohol, café).
-    - **DOMPERIDONA 10 mg**: 1 comprimido 20 min antes de cada comida durante 7 días.
-    - **ALMAGATO 1,5 g**: 1 sobre 30 min después de cada comida durante 7 días.
-    - **OMEPRAZOL 20 mg**: 1 comprimido cada 12 horas durante 7 días.
-    - **Analgesia (si dolor):** PARACETAMOL 1 g o METAMIZOL 575 mg, alternando cada 3-4 horas.
-3.  **Seguimiento:**
-    - Control en consultas de **Digestivo**. Acudir a Urgencias si empeora.
-
-### 🍽️ 1.14.4. Gastroenteritis Aguda (GEA)
-
-**MC:** Diarrea y vómitos.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-- Cirugías previas: No refiere.
-
-**EA:**
-Cuadro de 12 horas de diarrea no patológica, vómitos e intolerancia oral. Debilidad general. Afebril. Encuesta epidemiológica negativa.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, Tª [valor] ºC.
-- **General:** Consciente y orientado, buen estado general, sin signos de deshidratación.
-- **Abdomen:** Ruidos hidroaéreos aumentados, blando, no doloroso, sin signos de irritación peritoneal.
-
-**JC:** Gastroenteritis aguda.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Se solicita AS, AO y Rx de abdomen.
-    - Se administra **METOCLOPRAMIDA IV**, **PARACETAMOL IV**, **OMEPRAZOL IV** y suero salino.
-    - Mejoría tras tratamiento y se comprueba tolerancia oral.
-2.  **Tratamiento al Alta:**
-    - **Reposo** si fiebre o diarrea.
-    - **Dieta blanda astringente** y rehidratación oral.
-    - **DOMPERIDONA JARABE**: 1 cucharada 20 min antes de comidas (2-3 días).
-    - **RACECODOTRILO 100 mg** (Tiorfan®): 1 cápsula antes de las comidas principales hasta 2 deposiciones normales (máx. 7 días).
-    - **CIPROFLOXACINO 500 mg**: 1 comprimido cada 12 horas durante 5 días.
-    - **Probióticos** (Casenfilus® o Prodefen®): 1 sobre al día.
-    - **OMEPRAZOL 20 mg**: 1 comprimido al día durante 7 días.
-3.  **Seguimiento:**
-    - Control por su MAP. Acudir a Urgencias si empeora.
-
-### 🍽️ 1.14.5. Síndrome de Intestino Irritable (SII) / Hipermotilidad
-
-**JC:** Síndrome de hipermotilidad intestinal / Síndrome de Intestino Irritable.
-
-**PLAN:**
-1.  **Tratamiento Farmacológico:**
-    - **MEBEVERINA 135 mg** (Duspatalin®): 1 comprimido 20 min antes de comidas (2-3 semanas).
-    - **CLEBOPRIDA/SIMETICONA** (Flatoril®): 1 comprimido antes de comidas (8 días).
-    - **OMEPRAZOL 20 mg**: 1 comprimido al día (7 días).
-    - **Antibióticos (si procede):** CIPROFLOXACINO 500 mg, 1 comprimido cada 12 horas (5 días).
-    - **Probióticos:** Lactobacillus acidophilus (Casenfilus®).
-2.  **Recomendaciones:**
-    - **Dieta blanda astringente** y rehidratación oral.
-    - **Analgesia (si dolor):** OTILONIO BROMURO 40 mg (Spasmoctyl®) o PARACETAMOL 650 mg.
-3.  **Seguimiento:**
-    - Control por su MAP. Acudir a Urgencias si empeora.
-
-### 🍽️ 1.14.6. Impactación Esofágica por Cuerpo Extraño
-
-**MC:** Disfagia tras ingesta de carne.
-
-**EA:**
-Atragantamiento tras ingesta de carne, con disfagia para sólidos y líquidos, y sialorrea continua.
-
-**EF:**
-- **General:** Consciente y orientado, buen estado general.
-- **Abdomen:** Normal.
-
-**JC:** Impactación esofágica resuelta con tratamiento médico / endoscópico.
-
-**PLAN:**
-1.  **Tratamiento en Urgencias:**
-    - Se administra **GLUCAGÓN IV**, **OMEPRAZOL IV** y **PARACETAMOL IV**.
-    - Al no resolverse, se consulta con **Gastroenterología** para endoscopia urgente.
-2.  **Tratamiento al Alta:**
-    - **Dieta líquida** inicial, progresando a túrmix y luego blanda con masticación adecuada.
-    - **OMEPRAZOL 20 mg**: 1 comprimido cada 12 horas hasta cita de control.
-    - **PARACETAMOL 500 mg bucodispersable** (si dolor): 2 comprimidos juntos cada 8 horas.
-3.  **Seguimiento:**
-    - Control preferente en consultas de **Digestivo**.
-
-### 🍽️ 1.14.7. Odontalgia / Flemón Dental
-
-**MC:** Odontalgia de 2 días de evolución, afebril.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: No refiere.
-
-**EF:**
-- **Orofaringe:** Molar con corona destruida, caries y eritema gingival.
-
-**JC:** Odontalgia, posible flemón.
-
-**PLAN:**
-1.  **Tratamiento en Urgencias:**
-    - Se administra analgesia IV (DEXKETOPROFENO + TRAMADOL) o IM (DEXKETOPROFENO).
-2.  **Tratamiento al Alta:**
-    - **Frío local** intermitente y dieta blanda.
-    - **AMOXICILINA/CLAVULÁNICO 875/125 mg**: 1 comprimido cada 8 horas durante 8 días.
-    - **IBUPROFENO 600 mg** o **DEXKETOPROFENO 25 mg**: 1 comprimido cada 8 horas con comidas.
-    - **Analgesia de rescate:** PARACETAMOL 1 g o METAMIZOL ampollas bebibles.
-3.  **Seguimiento:**
-    - Control por su **Odontólogo** en 4-5 días y/o **Maxilofacial** en 7 días.
-
-### 🍽️ 1.14.8. Odontalgia en Gestante
-
-**MC:** Odontalgia en gestante de 36 semanas.
-
-**EF:**
-- **Orofaringe:** Molar inferior derecho parcialmente destruido.
-
-**JC:** Odontalgia por caries en gestante.
-
-**PLAN:**
-1.  **Tratamiento en Urgencias:**
-    - Se administra **PARACETAMOL 1 g IV** y **TRAMADOL 50 mg IV**.
-2.  **Tratamiento al Alta:**
-    - **Enjuagues con antisépticos** bucales.
-    - **AMOXICILINA 750 mg**: 1 comprimido cada 8 horas durante 8 días.
-    - **PARACETAMOL 1 g** cada 8 horas para el dolor.
-    - **Uso ocasional (máx. 2 días):** IBUPROFENO 600 mg, METAMIZOL 575 mg o TRAMADOL 50 mg.
-3.  **Seguimiento:**
-    - Control por su MAP.
-
-### 🍽️ 1.14.9. Proctalgia (Crisis Hemorroidal)
-
-**MC:** Proctalgia de 2 semanas de evolución.
-
-**EF:**
-- **Tacto Rectal:** Hemorroides con trombo en nódulo lateral izquierdo, no sangrante.
-
-**JC:** Crisis hemorroidal con trombo organizado.
-
-**PLAN:**
-1.  **Medidas Locales:**
-    - **Baños de asiento** con agua tibia y sal.
-    - Aplicación de **pomada antihemorroidal** (Ruscus Llorens®) y frío local.
-2.  **Tratamiento Farmacológico:**
-    - **DIOSMINA/HESPERIDINA** (Daflon 500®): 2 comprimidos cada 8 horas.
-    - **Regulación intestinal:** Dieta rica en fibra, líquidos, y laxantes si es necesario (Hodernal®).
-    - **Analgesia:** METAMIZOL 575 mg y/o PARACETAMOL 1 g.
-3.  **Seguimiento:**
-    - Cita preferente en **Cirugía General** en 2-3 días. Acudir a Urgencias si empeora.
-
-<a id="endocrinologia"></a>
-## 💊 1.10. Endocrinología
-
-### 💊 1.10.1. Debut Diabético
-
-**MC:** Hiperglucemia.
-
-**AP:**
-- RAMC: No conocidas.
-- Patologías previas: [Especificar].
-- Cirugías previas: [Especificar].
-- Tratamiento habitual: [Especificar].
-
-**EA:**
-Paciente remitido desde residencia por hiperglucemia (no diabético conocido). Refiere poliuria, polidipsia y astenia de varios días de evolución. Afebril y sin otra sintomatología.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
-- **General:** Consciente y orientado, buen estado de hidratación y nutrición. Eupneico.
-- **Exploración sistémica:** Normal, sin hallazgos patológicos relevantes.
-
-**JC:** Hiperglucemia. Debut diabético.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Se solicita AS y AO.
-    - Se inicia sueroterapia con SSF.
-2.  **Tratamiento al Alta:**
-    - **Dieta antidiabética** y alta ingesta de líquidos (2-3 litros/día).
-    - **METFORMINA 850 mg**: ½ comprimido con cada comida.
-    - **Control glucémico** preprandial.
-    - **Pauta de insulina rápida (Actrapid®) de rescate:**
-        - Glucemia 160-190: 2 UI
-        - Glucemia 191-220: 4 UI
-        - Glucemia 221-250: 6 UI
-        - Glucemia 251-280: 8 UI
-        - Glucemia 281-310: 10 UI
-        - Glucemia 311-350: 12 UI
-        - Glucemia > 350: Avisar a servicios de emergencia.
-    - **Educación sobre hipoglucemia:** Si glucemia < 80 mg/dL, administrar agua con azúcar seguida de comida.
-3.  **Seguimiento:**
-    - Control por su MAP. Acudir a Urgencias si empeora.
-
-<a id="infecciosas"></a>
-## 🦠 1.4. Enfermedades Infecciosas
-
-### 🦠 1.4.1. Balanopostitis Candidiásica
-
-**PLAN:**
-- **KETOCONAZOL GEL**: Aplicar en la ducha durante 5 minutos y aclarar, 1 vez al día durante 7-10 días.
-- **CLOTRIMAZOL CREMA**: 1 aplicación cada 12 horas durante 7-10 días.
-- Si no mejora, control por **Dermatología**.
-
-### 🦠 1.4.2. Escabiosis
-
-**MC:** Erupción cutánea generalizada.
-
-**EA:**
-Erupción maculopapulosa pruriginosa de 5 días de evolución, de predominio nocturno. Posible antecedente de contacto (mudanza).
-
-**EF:**
-- **Piel:** Erupción maculopapulosa en flexuras, tronco y abdomen.
-
-**JC:** Posible escabiosis.
-
-**PLAN:**
-1.  **Tratamiento en Urgencias:**
-    - Se administra **POLARAMINE® IM**.
-2.  **Tratamiento al Alta:**
-    - **Medidas higiénicas:** Baño diario con **PERMETRINA 5%** durante 3-5 días, aplicando desde el cuello hasta los pies, y cambiando ropa de cama y de dormir a diario.
-    - **EBASTINA 20 mg**: 1 comprimido al día hasta 2 días después de desaparecer el prurito.
-    - **DEXCLORFENIRAMINA 2 mg** (Polaramine®) (si prurito intenso): 2 comprimidos cada 6-8 horas.
-3.  **Seguimiento:**
-    - Control por su MAP.
-
-### 🦠 1.4.3. Gripe / Catarro de Vías Altas (CVA)
-
-**MC:** Fiebre, malestar general, tos.
-
-**EA:**
-Cuadro de distermia/fiebre, artromialgias, cefalea, tos seca y congestión nasal.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
-- **Orofaringe:** Xerosa e hiperémica.
-- **Auscultación Pulmonar:** Normal.
-
-**JC:** Cuadro gripal / CVA.
-
-**PLAN:**
-- **Reposo domiciliario**, aislamiento relativo y alta ingesta de líquidos.
-- **Tratamiento sintomático:**
-    - **IBUPROFENO 600 mg** o **PARACETAMOL 1 g** para fiebre/dolor.
-    - **DEXTROMETORFANO JARABE** para la tos.
-    - **Antihistamínico + Descongestionante** (Rino-Ebastel®).
-    - **Antieméticos** (Domperidona) si vómitos y **dieta astringente** si diarrea.
-- **Seguimiento:**
-    - Control por su MAP. Acudir a Urgencias si empeoramiento.
-
-### 🦠 1.4.4. Onicomicosis
-
-**JC:** Onicomicosis.
-
-**PLAN:**
-- **ITRACONAZOL 100 mg**: 2 cápsulas cada 12 horas durante 7 días, repetir mensualmente por 3 meses.
-- **BIFONAZOL + UREA TÓPICA** (Mycospor Onicoset®): Aplicación nocturna.
-
-### 🦠 1.4.5. Parotiditis Infecciosa
-
-**MC:** Tumefacción preauricular.
-
-**EA:**
-Tumefacción preauricular derecha de inicio nocturno, asociada a un cuadro catarral previo de 10 días con fiebre y diarrea. Contexto epidemiológico (trabaja en guardería).
-
-**EF:**
-- **Cabeza y Cuello:** Tumefacción de parótida derecha. Otoscopia con hiperemia de CAE derecho.
-
-**JC:** Parotiditis unilateral, probable origen vírico.
-
-**PLAN:**
-- **Tratamiento sintomático** similar al de un cuadro gripal.
-- **Aislamiento** y seguimiento por su MAP.
-- Se recoge muestra de saliva y sangre para estudio por Salud Pública.
-
-### 🦠 1.4.6. Picadura de Insecto con Celulitis
-
-**MC:** Reacción local a picadura.
-
-**EA:**
-Eritema y dolor en antebrazo derecho tras picadura de insecto el día previo. Afebril.
-
-**EF:**
-- **Extremidades:** Eritema y calor local en zona de picadura.
-
-**JC:** Picadura de insecto con celulitis secundaria.
-
-**PLAN:**
-- **Frío local** y **BETAMETASONA/GENTAMICINA TÓPICA** (Diprogenta®).
-- **AMOXICILINA/CLAVULÁNICO 500/125 mg**: 1 comprimido cada 8 horas durante 8 días.
-- **Antihistamínicos** si prurito.
-- **Analgesia** (Ibuprofeno).
-- Control por su MAP.
-
-### 🦠 1.4.7. Uretritis Aguda
-
-**MC:** Dolor y secreción uretral.
-
-**EA:**
-Cuadro de 2 días de uretrorrea, disuria y malestar, afebril. Niega relaciones de riesgo.
-
-**EF:**
-- **Genital:** Uretra eritematosa con secreción purulenta.
-
-**JC:** Uretritis aguda.
-
-**PLAN:**
-1.  **Tratamiento y Pruebas en Urgencias:**
-    - Se administra **CEFTRIAXONA 250 mg IM**.
-    - Se toman muestras de exudado uretral para cultivo y PCR.
-2.  **Tratamiento al Alta:**
-    - **AZITROMICINA 1 g** (2 comp. de 500 mg) en dosis única.
-    - **Analgesia** (Ibuprofeno/Paracetamol).
-3.  **Seguimiento:**
-    - Control en consultas de **Infecciosas** con resultados.
-
-### 🦠 1.4.8. Varicela
-
-**MC:** Erupción cutánea generalizada.
-
-**EA:**
-Erupción papulo-vesiculosa pruriginosa de 5 días de evolución.
-
-**EF:**
-- **Piel:** Lesiones en diferentes estadios evolutivos en tronco y flexuras.
-
-**JC:** Varicela.
-
-**PLAN:**
-- **Aislamiento** hasta 7 días tras el último brote.
-- **Medidas higiénicas:** Evitar rascado, no aplicar talco.
-- **Tratamiento sintomático:** Antihistamínicos (Polaramine®), antitérmicos (Paracetamol) y antitusígenos (Flutox®).
-- Control por su MAP.
-
-### 🦠 1.4.9. Herpes Zóster Costal
-
-**MC:** Lesiones cutáneas en dorso.
-
-**EA:**
-Dolor lumbar irradiado en hemicinturón izquierdo de 2-3 días, con sensación de quemazón.
-
-**EF:**
-- **Piel:** Lesiones máculo-pápulo-vesiculosas en dermatoma D12-L1 izquierdo.
-
-**JC:** Herpes zóster.
-
-**PLAN:**
-- **Cuidados locales:** Limpieza y fomentos con **SULFATO DE ZINC**.
-- **Tratamiento antiviral:**
-    - **ACICLOVIR 800 mg**: 1 comprimido 5 veces al día durante 7 días.
-    - **ACICLOVIR CREMA**.
-- **Tratamiento del dolor neuropático:**
-    - **GABAPENTINA 125 mg** (Nervinex®): 1 comprimido al día durante 7 días.
-- **Analgesia:** Paracetamol, Tramadol, Metamizol.
-- **Protector gástrico**.
-- Control por su MAP.
-
-### 🦠 1.4.10. Vulvovaginitis
-
-**PLAN:**
-- **Lavados vaginales** con **BENCIDAMINA** (Rosalgin®) 2 veces al día.
-- **CLOTRIMAZOL o FENTICONAZOL** (Lomexin®) en crema y óvulos.
-- **Analgesia** si precisa.
-- Control en **Ginecología**.
-
-<a id="neumologia"></a>
-## 🫁 1.5. Neumología
-
-### 🫁 1.5.1. Bronquitis Aguda
-
-**MC:** Tos y disnea.
-
-**EA:**
-Aumento de tos con expectoración mucosa, dolor pleurítico y disnea de esfuerzo de 3 días de evolución.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor] lpm, SatO₂ [valor]%, Tª [valor] ºC.
-- **Auscultación Pulmonar:** Murmullo vesicular disminuido con sibilancias espiratorias.
-
-**JC:** Bronquitis aguda a descartar neumonía.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Se solicita Rx de tórax (sin infiltrados).
-    - Se administran nebulizaciones.
-2.  **Tratamiento al Alta:**
-    - **Antibiótico:** LEVOFLOXACINO 500 mg, 1 al día por 7 días.
-    - **Mucolítico:** CARBOCISTEÍNA (Fluidasa®).
-    - **Broncodilatadores:** TERBASMIN® a demanda y PULMICORT® pautado.
-    - **Analgesia/Antitérmicos**.
-3.  **Seguimiento:**
-    - Control por su MAP o Medicina Interna.
-
-### 🫁 1.5.2. EPOC Reagudizado
-
-**MC:** Aumento de disnea y fiebre.
-
-**AP:**
-- EPOC, HTA, DLP.
-
-**EA:**
-Aumento de tos con expectoración purulenta, fiebre y disnea de esfuerzo/reposo de 3 días.
-
-**EF:**
-- **Auscultación Pulmonar:** Murmullo vesicular disminuido con sibilancias y crepitantes basales.
-
-**JC:** EPOC reagudizado leve.
-
-**PLAN:**
-1.  **Pruebas en Urgencias:**
-    - AS y Rx de tórax (sin infiltrados agudos).
-2.  **Tratamiento al Alta:**
-    - **Antibiótico:** AZITROMICINA 500 mg, 1 al día por 3 días.
-    - **Mucolítico:** ACETILCISTEÍNA 200 mg.
-    - **Broncodilatador de mantenimiento:** SYMBICORT® pautado y a demanda.
-    - **Analgesia/Antitérmicos**.
-3.  **Seguimiento:**
-    - Control por su MAP.
-
-### 🫁 1.5.3. Neumonía Adquirida en la Comunidad (NAC)
-
-**MC:** Sospecha de neumonía.
-
-**EA:**
-TOS, FIEBRE y DISNEA de varios días.
-
-**EF:**
-- **Auscultación Pulmonar:** Murmullo vesicular disminuido con sibilancias y crepitantes en base.
-
-**JC:** Neumonía basal sin criterios de gravedad.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Se solicita AS y Rx de tórax (confirma NAC).
-    - Se administra dosis de **AMOXICILINA/CLAVULÁNICO 2g IV** o **LEVOFLOXACINO IV**.
-2.  **Tratamiento al Alta:**
-    - **Antibioterapia oral (10 días):** AMOXICILINA 1g/8h + AZITROMICINA 500mg/24h (5 días), o LEVOFLOXACINO 500mg/24h.
-    - **Tratamiento sintomático** (mucolíticos, broncodilatadores, antitérmicos).
-3.  **Seguimiento:**
-    - Control por su MAP.
-
-### 🫁 1.5.4. Laringo-traqueítis Aguda
-
-**MC:** Fiebre y tos.
-
-**EA:**
-Fiebre alta (39.8ºC), tos intensa, disfonía y escalofríos.
-
-**EF:**
-- **Auscultación Pulmonar:** Murmullo vesicular disminuido globalmente.
-
-**JC:** Laringo-traqueítis aguda.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Rx de tórax normal.
-    - Aerosolterapia con **BUDESONIDA, IPRATROPIO y SALBUTAMOL**.
-2.  **Tratamiento al Alta:**
-    - **Antibiótico:** AZITROMICINA o LEVOFLOXACINO (5 días).
-    - **Tratamiento sintomático:** Lavados nasales, antihistamínico/descongestionante (Rino-Ebastel®), antitusígeno (Actithiol®), broncodilatador de rescate y antitérmicos.
-3.  **Seguimiento:**
-    - Control por su MAP.
-
-<a id="neurologia"></a>
-## 🧠 1.6. Neurología
-
-### 🧠 1.6.1. Cefalea Tensional / Contractura Cervical
-
-**MC:** Cefalea.
-
-**EA:**
-Cefalea fronto-occipital progresiva, asociada a mareo e inestabilidad. Sin focalidad neurológica.
-
-**EF:**
-- **Exploración Cervical:** Dolor a la palpación de musculatura paravertebral.
-- **Exploración Neurológica:** Normal.
-
-**JC:** Cefalea tensional / Contractura cervical.
-
-**PLAN:**
-- **Reposo** y **calor local**.
-- **Relajante muscular:** DIAZEPAM 5 mg al acostarse.
-- **Analgesia/AINEs:** IBUPROFENO y/o PARACETAMOL.
-- **Antieméticos/Antivertiginosos** si precisa (Domperidona/Sulpirida).
-- **Protector gástrico**.
-- **Seguimiento:** Control por MAP y fisioterapia.
-
-### 🧠 1.6.2. Mareo / Síndrome Vertiginoso
-
-**MC:** Mareo / Inestabilidad.
-
-**EA:**
-Episodio de inestabilidad sin giro de objetos, con/sin cortejo vegetativo. Características compatibles con origen periférico.
-
-**EF:**
-- **Exploración Neurológica:** Compatible con síndrome vertiginoso periférico (nistagmo horizontal, Romberg lateralizado, etc.).
-
-**JC:** Síndrome vertiginoso periférico / VPPB.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Se solicita AS y EKG.
-    - Se administra **SULPIRIDA IV**, **METOCLOPRAMIDA IV**, **DEXKETOPROFENO IV** y **DIAZEPAM SL**.
-2.  **Tratamiento al Alta:**
-    - **Reposo** y calor cervical.
-    - **SULPIRIDA 50 mg** pautado, seguido de **BETAHISTINA 8 mg**.
-    - **DIAZEPAM 5 mg** como relajante muscular.
-    - **AINEs** y **protector gástrico**.
-3.  **Seguimiento:**
-    - Control por MAP y fisioterapia.
-
-### 🧠 1.6.3. Parálisis Facial Periférica
-
-**MC:** Parestesias en hemicara.
-
-**EA:**
-Parestesias en hemicara y hemilengua derechas de 2 horas, precedido de catarro y herpes labial.
-
-**EF:**
-- **Exploración Neurológica:** Paresia facial periférica derecha. Otoscopia con vesículas en CAE (posible Ramsay-Hunt).
-
-**JC:** Parálisis facial periférica (posible Síndrome de Ramsay-Hunt).
-
-**PLAN:**
-1.  **Tratamiento y Pruebas en Urgencias:**
-    - Se solicita AS y AO.
-    - Se administra bolo de **METILPREDNISOLONA 125 mg IV**.
-2.  **Tratamiento al Alta:**
-    - **Protección ocular:** Oclusión nocturna, lágrimas artificiales.
-    - **Corticoides orales:** Pauta descendente de **PREDNISONA** o **DEFLAZACORT**.
-    - **Complejo vitamínico:** B1-B6-B12 (Hidroxil®) y Gabapentina.
-    - **Analgesia** y **protector gástrico**.
-3.  **Seguimiento:**
-    - Control por su MAP y **Neurología**.
-
-<a id="oftalmologia"></a>
-## 👁️ 1.7. Oftalmología
-
-### 👁️ 1.7.1. Absceso Corneal por Lentes de Contacto
-
-**MC:** Molestias oculares.
-
-**EA:**
-Irritación, secreción y lesión blanquecina en córnea de 24h de evolución en portador de lentes de contacto.
-
-**EF:**
-- **Ojo Derecho:** Inyección ciliar, mancha blanquecina corneal. Tinción con fluoresceína negativa.
-
-**JC:** Absceso corneal.
-
-**PLAN:**
-- **Suspender uso de lentes de contacto**.
-- **Lavados oculares** con suero fisiológico.
-- **Colirio antibiótico reforzado:** OFLOXACINO (Exocin®) cada hora.
-- **Pomada antibiótica nocturna:** OFLOXACINO (Oftacilox®).
-- **Ciclopléjico** y **AINE tópico** si dolor.
-- Control preferente en **Oftalmología**.
-
-### 👁️ 1.7.2. Blefaro-Conjuntivitis Aguda
-
-**MC:** Molestias oculares.
-
-**EA:**
-Sensación de cuerpo extraño, secreción, edema y eritema palpebral.
-
-**EF:**
-- **Ojo:** Inyección conjuntival con edema y eritema palpebral.
-
-**JC:** Blefaro-conjuntivitis aguda.
-
-**PLAN:**
-- **Lavados oculares**.
-- **Colirio antibiótico + corticoide:** TOBRAMICINA/DEXAMETASONA (Tobradex®).
-- **Pomada antibiótica + corticoide nocturna** (Terracortril®).
-- **Analgesia** oral si precisa.
-- Control en **Oftalmología**.
-
-### 👁️ 1.7.3. Conjuntivitis (Irritativa, Vírica)
-
-**JC:** Conjuntivitis irritativa (cuerpo extraño extraído) / Conjuntivitis aguda vírica.
-
-**PLAN:**
-- **Medidas higiénicas** estrictas (en víricas).
-- **Lavados oculares**.
-- **Tratamiento tópico:**
-    - **Irritativa:** Pauta corta e intensiva de TOBRAMICINA/DEXAMETASONA.
-    - **Vírica:** TOBRAMICINA/DEXAMETASONA seguido de AINE tópico (DICLOFENACO).
-- **Analgesia** oral.
-- Control en **Oftalmología**.
-
-### 👁️ 1.7.4. Erosión o Quemadura Corneal
-
-**PLAN:**
-- **Protección ocular** (evitar luz, aire).
-- **Analgesia** oral (Nolotil®, Paracetamol).
-- **Tratamiento tópico:** Colirio ciclopléjico + Colirio antibiótico (TOBRAMICINA) + Pomada epitelizante.
-- **Oclusión** del ojo afectado.
-- Control preferente en **Oftalmología** en 24-48h.
-
-### 👁️ 1.7.5. Orzuelo
-
-**MC:** Lesión palpebral dolorosa.
-
-**JC:** Orzuelo.
-
-**PLAN:**
-- **Antibiótico oral:** AMOXICILINA/CLAVULÁNICO 500/125 mg.
-- **Tratamiento tópico:** Colirio y pomada de TOBRAMICINA/DEXAMETASONA.
-- **Analgesia** oral.
-- Control en **Oftalmología** en 48-72h.
-
-### 👁️ 1.7.6. Hiposfagma (Hemorragia Subconjuntival)
-
-**MC:** Derrame ocular.
-
-**EA:**
-Aparición brusca de hemorragia subconjuntival sin traumatismo ni clínica asociada.
-
-**EF:**
-- **Ojo:** Hiposfagma en conjuntiva bulbar. TA normal.
-
-**JC:** Hiposfagma.
-
-**PLAN:**
-- **AINE tópico:** DICLOFENACO colirio.
-- **Analgesia** oral si precisa.
-- Control en **Oftalmología** en 1 semana.
-
-### 👁️ 1.7.7. Queratitis Herpética
-
-**PLAN:**
-- **Protección ocular**.
-- **Tratamiento tópico:**
-    - Ciclopléjico + AINE tópico.
-    - **ACICLOVIR pomada oftálmica** cada 4 horas.
-    - Pomada epitelizante (Vita-Pos®) nocturna.
-- **Analgesia** oral.
-- Control en **Oftalmología**.
-
-### 👁️ 1.7.8. Úlcera Corneal
-
-**MC:** Sensación de cuerpo extraño.
-
-**EA:**
-Molestias y epífora tras posible entrada de cuerpo extraño (madera).
-
-**EF:**
-- **Ojo:** Tinción con fluoresceína positiva en córnea.
-
-**JC:** Úlcera corneal.
-
-**PLAN:**
-- **Protección ocular**.
-- **Tratamiento tópico:** Ciclopléjico, AINE y **pomada antibiótica** (ERITROMICINA).
-- **Oclusión** ocular.
-- **Analgesia** oral.
-- Control en **Oftalmología** en 48h.
-
-<a id="orl"></a>
-## 👂 1.8. Otorrinolaringología
-
-### 👂 1.8.1. Absceso Periamigdalino
-
-**EA:**
-Fiebre, odinofagia intensa, disfagia, trismus y voz gangosa.
-
-**EF:**
-- **Orofaringe:** Abombamiento de pilar amigdalino, con desplazamiento de úvula.
-
-**JC:** Posible absceso periamigdalino.
-
-**PLAN:**
-- Derivación urgente a **ORL de guardia** hospitalaria para valoración y posible drenaje.
-
-### 👂 1.8.2. Amigdalitis Aguda Pultácea
-
-**EA:**
-Fiebre y odinofagia con disfagia.
-
-**EF:**
-- **Orofaringe:** Amígdalas hiperémicas y edematosas con exudado pultáceo.
-
-**JC:** Amigdalitis aguda.
-
-**PLAN:**
-- **Test rápido de estreptococo** (si disponible).
-- **Reposo, hidratación** y dieta blanda.
-- **Enjuagues** con antiséptico.
-- **Antibiótico:** AMOXICILINA/CLAVULÁNICO 875/125 mg durante 8 días.
-- **AINEs/analgésicos**.
-- Control por su MAP.
-
-### 👂 1.8.3. Cólico Salivar / Sialoadenitis
-
-**EA:**
-Dolor y tumefacción submandibular que aumenta con la ingesta.
-
-**EF:**
-- **Cabeza y Cuello:** Glándula submandibular aumentada y dolorosa.
-
-**JC:** Posible sialoadenitis/cólico salivar.
-
-**PLAN:**
-- **Sialogogos** (líquidos, ácidos) y **masaje** glandular.
-- **Frío local**.
-- **Antibiótico:** AMOXICILINA/CLAVULÁNICO 1g/12h.
-- **AINEs**.
-- Control en **ORL** en 48h.
-
-### 👂 1.8.4. Faringitis (Aguda, Candidiásica, Seca)
-
-**JC:** Faringitis aguda / Candidiasis orofaríngea / Faringitis seca irritativa.
-
-**PLAN:**
-- **Aguda:** Tratamiento sintomático (AINEs, antisépticos, antitusígenos). Considerar antibiótico (Azitromicina) si sospecha bacteriana.
-- **Candidiásica:** Enjuagues con **BICARBONATO** y luego **NISTATINA** oral. **ITRACONAZOL** oral si severo. Suspender antibiótico previo si es la causa.
-- **Seca:** Medidas de hidratación, lavados nasales, emolientes faríngeos (Anginovag®), vitamina A.
-- Control por MAP o ORL.
-
-### 👂 1.8.5. Fractura de Huesos Propios Nasales
-
-**EA:**
-Herida facial y epistaxis tras traumatismo.
-
-**EF:**
-- **Cabeza:** Hematoma, herida contusa. Posible deformidad o crepitación nasal.
-
-**JC:** Fractura no desplazada de huesos propios.
-
-**PLAN:**
-- **Taponamiento nasal** si epistaxis (retirar en 48h).
-- **Sutura** de heridas.
-- **Reposo, frío local** y **analgesia**.
-- Control en **ORL** en 48-72h para reevaluar deformidad.
-
-### 👂 1.8.6. Otitis (Externa, Media Aguda)
-
-**JC:** Otitis externa / Otitis media aguda (OMA).
-
-**PLAN:**
-- **Externa:**
-    - Evitar humedad. No introducir bastoncillos.
-    - **Gotas óticas** con Ciprofloxacino y corticoide (Cetraxal Plus®).
-    - **Antibiótico oral** (Azitromicina) si celulitis asociada.
-    - **Analgesia**.
-- **Media Aguda:**
-    - **Antibiótico oral:** AMOXICILINA/CLAVULÁNICO 875/125 mg, 12 días.
-    - **Gotas óticas** si supuración.
-    - **Tratamiento coadyuvante:** Descongestionantes, corticoides nasales.
-- Control en **ORL**.
-
-### 👂 1.8.7. Sinusitis Aguda
-
-**EA:**
-Cefalea frontal y dolor periorbitario tras cuadro catarral.
-
-**EF:**
-- **Cabeza:** Dolor a la palpación de puntos sinusales.
-
-**JC:** Sinusitis aguda.
-
-**PLAN:**
-1.  **Pruebas:** Rx de senos paranasales (si duda diagnóstica).
-2.  **Tratamiento:**
-    - **Lavados nasales**.
-    - **Corticoides nasales** (Budesonida).
-    - **Descongestionante/Antihistamínico** (Rino-Ebastel®).
-    - **Antibiótico:** AZITROMICINA.
-    - **Analgesia**.
-3.  **Seguimiento:** Control en **ORL**.
-
-### 👂 1.8.8. Tapon de Cerumen
-
-**EA:**
-Hipoacusia de instauración progresiva.
-
-**EF:**
-- **Otoscopia:** Tapón de cerumen que ocluye el CAE.
-
-**JC:** Tapón de cerumen.
-
-**PLAN:**
-- **Gotas cerumenolíticas** (ej. Anticerumen Liade®).
-- Cita preferente en **ORL** para extracción.
-
-<a id="psiquiatria"></a>
-## 🧘 1.9. Psiquiatría
-
-### 🧘 1.9.1. Crisis de Ansiedad
-
-**EA:**
-Cuadro de inicio brusco con nerviosismo, palpitaciones, disnea y opresión precordial.
-
-**EF:**
-- Exploración física y constantes normales. Taquicardia sinusal.
-
-**JC:** Crisis de ansiedad.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - EKG para descartar patología cardíaca (normal).
-    - **LORAZEPAM 1 mg sublingual**.
-2.  **Tratamiento al Alta:**
-    - **Reposo** y técnicas de control de la respiración.
-    - **LORAZEPAM 1 mg sublingual** a demanda.
-3.  **Seguimiento:**
-    - Control por su MAP.
-
-<a id="reumatologia"></a>
-## 🦴 1.11. Reumatología
-
-### 🦴 1.11.1. Podagra (Ataque de Gota)
-
-**MC:** Dolor en pie.
-
-**AP:**
-- Hiperuricemia conocida, antecedentes familiares de gota.
-
-**EA:**
-Dolor e inflamación en 1ª articulación metatarsofalángica (MTF), sin traumatismo.
-
-**EF:**
-- **Pie:** Signos de flogosis (dolor, rubor, calor, tumor) en 1ª MTF.
-
-**JC:** Monoartritis, posible podagra.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Se solicita AS (con ácido úrico) y Rx de pie.
-    - Se administra **AINEs** y **PARACETAMOL**.
-2.  **Tratamiento al Alta:**
-    - **Reposo**, elevación y **frío local**.
-    - **COLCHICINA** a dosis pautada.
-    - **AINEs** (Dexketoprofeno) y **protector gástrico**.
-    - **Analgesia** de rescate (Paracetamol).
-3.  **Seguimiento:**
-    - Control en **Reumatología**.
-
-<a id="urologia"></a>
-## 🚽 1.12. Urología
-
-### 🚽 1.12.1. Cólico Reno-ureteral (CRU)
-
-**MC:** Dolor en fosa renal.
-
-**EA:**
-Dolor cólico en fosa renal, con/sin irradiación, con/sin síndrome miccional.
-
-**EF:**
-- **Abdomen:** Puño-percusión renal positiva.
-
-**JC:** Cólico reno-ureteral.
-
-**PLAN:**
-1.  **Pruebas y Tratamiento en Urgencias:**
-    - Protocolo CRU: AS, AO y Rx de abdomen.
-    - **Analgesia IV** de primer escalón (DEXKETOPROFENO + PARACETAMOL).
-2.  **Tratamiento al Alta:**
-    - **No forzar ingesta de líquidos** mientras dure el dolor. **Calor local**.
-    - **TAMSULOSINA 0,4 mg** al acostarse (ayuda a la expulsión).
-    - **AINEs** y **analgésicos** pautados y a demanda.
-    - **Protector gástrico**.
-3.  **Seguimiento:**
-    - Control en **Urología**.
-
-### 🚽 1.12.2. Epididimitis Aguda
-
-**MC:** Dolor testicular.
-
-**EA:**
-Dolor en polo superior de teste derecho de varios días. Afebril, sin disuria.
-
-**EF:**
-- **Genital:** Epidídimo derecho doloroso a la palpación.
-
-**JC:** Posible epididimitis aguda.
-
-**PLAN:**
-- **Antibiótico (2-3 semanas):** CIPROFLOXACINO 500 mg/12h.
-- **Reposo relativo**, suspensorio escrotal.
-- **AINEs** y **protector gástrico**.
-- Control en **Urología** con urocultivo.
-
-### 🚽 1.12.3. Hematuria
-
-**JC:** Hematuria a estudio (posible CRU expulsivo, ITU, etc.).
-
-**PLAN:**
-- **Pruebas en Urgencias:** AS, AO, Rx abdomen.
-- **Tratamiento sintomático** (analgesia, antiespasmódicos).
-- **Seguimiento** según hallazgos.
-
-### 🚽 1.12.4. Infección del Tracto Urinario (ITU)
-
-**MC:** Disuria.
-
-**EA:**
-Disuria y polaquiuria sin fiebre.
-
-**EF:**
-- Abdomen sin hallazgos. Puño-percusión negativa.
-
-**JC:** ITU. Se recoge urocultivo.
-
-**PLAN:**
-- **Alta ingesta de líquidos**.
-- **Antibiótico (5 días):** AMOXICILINA/CLAVULÁNICO 500 mg.
-- **Probióticos vaginales** (Muvagyn®) en mujeres.
-- **Analgesia**.
-- **ITU febril (posible Pielonefritis):**
-    - Dosis de **CEFTRIAXONA 2g IV** en urgencias.
-    - Tratamiento oral al alta con **CEFIXIMA 400 mg/24h**.
-- **ITU en Gestante:** Tratamiento según antibiograma, PARACETAMOL para dolor.
-- Control por su MAP.
-
-### 🚽 1.12.5. Pielonefritis Aguda
-
-**MC:** Dolor en fosa renal y fiebre.
-
-**EA:**
-Dolor en fosa renal, fiebre alta y síndrome miccional.
-
-**EF:**
-- Puño-percusión renal positiva.
-
-**JC:** Pielonefritis aguda no complicada.
-
-**PLAN:**
-1.  **Tratamiento y Pruebas en Urgencias:**
-    - AS, AO y urocultivo.
-    - Dosis de **CEFTRIAXONA 2g IV**.
-2.  **Tratamiento al Alta (10 días):**
-    - **CEFIXIMA 400 mg/24h**.
-    - **Antitérmicos/AINEs**.
-3.  **Seguimiento:**
-    - Control por su MAP.
-
-<a id="vascular"></a>
-## 🩸 1.13. Vascular
-
-### 🩸 1.13.1. Tromboflebitis Superficial / Sospecha de TVP
-
-**MC:** Sospecha de TVP.
-
-**EA:**
-Zona eritematosa y dura en pierna.
-
-**EF:**
-- **Extremidades:** Cordón indurado y eritematoso-doloroso en trayecto venoso superficial. No edema ni calor distal. Homan negativo.
-
-**JC:** Tromboflebitis superficial.
-
-**PLAN:**
-1.  **Pruebas en Urgencias:**
-    - **Dímero-D**.
-    - **Eco-Doppler** de MMII (descarta TVP).
-2.  **Tratamiento al Alta:**
-    - Evitar inmovilización, elevar la extremidad.
-    - **Frío local** y **medias de compresión**.
-    - **AINEs** (Ibuprofeno).
-    - **Flebotónicos** (Daflon®).
-3.  **Seguimiento:**
-<a id="trauma-21"></a>
-
-    - Control por su MAP.
-
 
 ## 🏛️ 2. Traumatología
-- incluido en fichero plantillas-doctoris/00_ejemplos/URG-HSCH-20170702-Trauma.md
 
-## 📋 3. Varios
+<a id="trauma-raquis"></a>
+## 🏛️ 2.1. Columna Vertebral (Raquis)
 
-<a id="varios-proctologia"></a>
-## 📋 3.1. Proctología
-
-### <a name="varios-31-1"></a> 3.1.1. Crisis Hemorroidal / Fisura Anal
-
-**MC:** Proctalgia / Rectorragia.
-
-**AP:**
-- NAMC.
-- IQx: [Indicar si procede].
-
-**EA:**
-- Paciente [Varón/Mujer] de [edad] años que refiere proctalgia de días de evolución, sin sangrado. Hábito intestinal no estreñido.
-
-**EF:**
-
-
-- **Inspección:** No hemorroides externas. Fibroma cutáneo. Pequeña fisura en rafe posterior.
-- **Tacto Rectal:** Esfínter levemente hipertónico, doloroso. Nódulos hemorroidales laterales. No se palpan masas ni pólipos. No sangrado en el guante.
-
-**JC:**
-- Crisis hemorroidal / Fisura anal.
-
-**PLAN (Recomendaciones):**
-- **Baños de asiento** con agua tibia y sal, 3 veces al día y después de cada deposición.
-- Tras el baño, aplicar **RECTOGESIC® pomada**.
-- **DAFLON® 500 mg**: 2 comprimidos después de desayuno, comida y cena durante 4-5 días.
-- **DEXKETOPROFENO 25 mg**: 1 comprimido tras desayuno, comida y cena.
-- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido cada 8 horas.
-<a id="rec-32"></a>
-
-- **SI DOLOR INTENSO**, añadir **METAMIZOL (Nolotil®)** 1 ampolla bebida, repetible cada 8 horas.
-- **DIAZEPAM 5 mg**: 1 comprimido al acostar durante 3 días.
-- **Dieta:** Evitar diarrea con dieta astringente. Prevenir estreñimiento con dieta rica en fibra y abundantes líquidos. Si aparece estreñimiento, añadir **DUPHALAC®** 1 sobre cada 12 horas.
-- **Seguimiento:** Control en Consultas de Cirugía la próxima semana. Si empeora, volver a Urgencias.
-
-<a id="varios-procedimientos"></a>
-<a id="trauma-28"></a>
-
-## 📋 3.2. Procedimientos Menores
-
-### <a name="varios-32-1"></a> 3.2.1. Drenaje de Absceso
-
-**Procedimiento:**
-- Se realiza drenaje quirúrgico bajo anestesia local con **Mepivacaína al 2%**, previa limpieza y desinfección local.
-- Se lava la cavidad del absceso con Betadine diluido 1/9 con SSF y se deja una gasa orillada con Betadine para favorecer el drenaje y el cierre por segunda intención.
-
-**Tratamiento al alta:**
-- **Curas:** Mantener herida limpia y seca. Cura diaria en Consultas de Curas de Cirugía hasta nueva indicación.
-- **Antibiótico:** **AMOXICILINA/CLAVULÁNICO 500/125 mg**, 1 comprimido cada 8 horas durante 6-8 días.
-- **Analgesia:** **PARACETAMOL 1 g** cada 8h. Si el dolor es intenso, añadir **METAMIZOL** 1 ampolla bebida cada 8h (alterno cada 4h).
-- **Seguimiento:** Control en Consultas de Dermatología en 72h. Si empeora, volver a Urgencias.
-
-### <a name="varios-32-2"></a> 3.2.2. Sutura de Heridas
-
-**AP:**
-- Sin interés.
-- NAMC.
-- **VAT:** [Correcta/Incorrecta].
-
-**EA:**
-- Paciente de [edad] años que acude por herida incisa en [localización].
-
-**EF:**
-- Herida incisa en [localización].
-- Exploración neurovascular distal conservada.
-
-**JC:**
-- Herida incisa.
-
-**PLAN:**
-- **Procedimiento:** Limpieza, desinfección local y sutura con **Seda 4/0** bajo anestesia local con **Mepivacaína 1%**.
-- **Profilaxis:** Se administra 1ª dosis de vacuna antitetánica (VAT) si procede.
-- **Cuidados al alta:**
-    - Mantener herida limpia y seca. Curas diarias con Betadine.
-    - Retirar puntos en ±10-12 días en consulta de enfermería.
-    - **Analgesia:** **PARACETAMOL 1 g** cada 8h. Si dolor intenso, añadir **METAMIZOL** alterno.
-    - **Seguimiento:** Control por su Médico de AP. Si empeora, volver a Urgencias.
-    - Completar vacunación antitetánica (al mes y al año de la primera dosis) si se inició.
-
-### <a name="varios-32-3"></a> 3.2.3. Cierre de Heridas con Adhesivo Tisular
-
-**AP:**
-- Sin interés.
-- NAMC.
-- **VAT:** Correcta.
-
-**EA:**
-- Paciente de [edad] años que acude por herida incisa en [localización].
-
-**EF:**
-- Herida incisa en [localización], bordes netos, sin sangrado activo.
-- Exploración neurovascular conservada.
-
-**JC:**
-- Herida incisa no complicada.
-
-**PLAN:**
-- **Procedimiento:** Limpieza, desinfección local y cierre con adhesivo biológico.
-- **Cuidados al alta:**
-    - Mantener herida limpia y seca.
-    - Curas diarias con Betadine.
-    - El adhesivo caerá solo en 8-10 días.
-    - **Analgesia (si precisa):** **PARACETAMOL** o **IBUPROFENO** según pauta pediátrica o de adulto.
-    - **Seguimiento:** Control por Pediatra o Médico de AP.
-
-### <a name="varios-32-4"></a> 3.2.4. Cura de Quemaduras
-
-**AP:**
-- Sin interés.
-- NAMC.
-- **VAT:** [Correcta/Incorrecta].
-
-**EA:**
-- Paciente de [edad] años que acude por quemadura en [localización].
-
-**EF:**
-- Quemadura de [grado] grado en [localización].
-- Extensión aproximada: [%].
-- Exploración neurovascular distal conservada.
-
-**JC:**
-- Quemadura de [grado]º grado en [localización].
-
-**PLAN:**
-- **Procedimiento:** Limpieza, desinfección local y cura con **SILVEDERMA®** y **LINITUL®**.
-<a id="rec-33"></a>
-
-- **Profilaxis:** Se administra 1ª dosis de VAT si procede.
-- **Cuidados al alta:**
-    - Reposo relativo del área afectada. Elevación del miembro si es una extremidad. Mover dedos.
-    - Curas diarias con SILVEDERMA® y LINITUL® en consulta de enfermería.
-    - **Antibiótico:** **AMOXICILINA/CLAVULÁNICO 500/125 mg**, 1 comprimido cada 8 horas durante 8 días.
-    - **Analgesia:** **PARACETAMOL 1 g** cada 8h, alternando con **METAMIZOL** si dolor intenso.
-    - **Seguimiento:** Control en Consultas de Cirugía Plástica la próxima semana. Si empeora, volver a Urgencias.
-    - Completar vacunación antitetánica si se inició.
-
-<a id="varios-plantillas-genericas"></a>
-## 📋 3.3. Plantillas Genéricas
-
-### <a name="varios-33-1"></a> 3.3.1. Plantilla Genérica de Urgencias
-
-**AP:**
-- NAMC.
-- Sin interés.
-- **Medicación habitual:** --
-
-**EA:**
-- Paciente de [edad] años que acude por [motivo de consulta].
-- [Descripción de la enfermedad actual].
-
-**EF:**
-- [Descripción de la exploración física].
-
-**PC:**
-- **Radiografía:** No se observa lesión ósea aguda.
-- [Otras pruebas].
-
-**JC:**
-- [Juicio clínico].
-
-**PLAN:**
-- [Plan de tratamiento y seguimiento].
-
-### <a name="varios-33-2"></a> 3.3.2. Plantilla Genérica para Accidente de Tráfico (ATF)
-
-**AP:**
-- NAMC.
-- Sin interés.
-- **Medicación habitual:** --
-
-**EA:**
-- Paciente de [edad] años que acude por politraumatismo tras accidente de tráfico.
-
-**EF:**
-- **Constantes:** TA [valor], FC [valor], SatO2 [valor]%. GCS 15/15.
-- **Neurológico:** Consciente y orientado. Pares craneales II-XII sin alteraciones. Pupilas isocóricas y normorreactivas. Marcha no explorada. No dismetría ni disdiadococinesia.
-- **Cabeza y Cuello:** [Heridas, dolor, etc.]. No apofisalgias espinosas cervicales. Dolor a la palpación de musculatura paravertebral y trapecios. Fuerza y sensibilidad en MMSS conservada. ROTs simétricos.
-- **Tórax:** Murmullo vesicular conservado. Auscultación cardíaca rítmica sin soplos. No dolor a la palpación de arcos costales.
-- **Abdomen:** Blando, depresible, sin dolor. Ruidos hidroaéreos presentes. Puño-percusión renal negativa.
-- **Pelvis y Extremidades:** No deformidades. Moviliza las cuatro extremidades. No afectación articular aparente. [Contusiones, heridas, etc.].
-
-**PC:**
-- Se solicitan radiografías de [regiones].
-
-**PLAN:**
-- Se administra analgesia IV (Paracetamol + Dexketoprofeno).
-- Se cambia collarín rígido por blando.
-- Se realiza cura, desinfección y sutura de heridas.
-- El paciente queda en box de observación.
-
-### <a name="varios-33-3"></a> 3.3.3. Plantilla Genérica para Ingreso
-
-**AP:**
-- NAMC.
-- [Otros antecedentes].
-- **Tratamiento habitual:** [Medicación].
-
-**EA:**
-- Paciente de [edad] años que acude a Urgencias por traumatismo en [localización] con impotencia funcional.
-
-**Vida Basal:**
-- **Deambulación:** Autónoma / Con ayuda (bastón/muletas) / No deambula (vida cama-sillón).
-- **Convivencia:** Familiar / Residencia / Solo.
-- **ABVD:** Independiente / Parcialmente dependiente / Dependiente.
-
-**EF:**
-- [Hallazgos de la exploración física].
-
-**PC:**
-- **RX:** Fractura de [hueso/localización].
-
-**JC:**
-- Fractura de [hueso/localización].
-
-**PLAN:**
-- Ingreso a cargo de Traumatología para tratamiento [quirúrgico/conservador].
-- Solicitado preoperatorio completo (Analítica, EKG, Rx Tórax).
-- Se gestiona Cirugía Urgente Diferida.
-- Se explica procedimiento a paciente y familiares. Se entregan consentimientos informados (cirugía y transfusión).
-
-<a id="varios-traumatismos"></a>
-## 📋 3.4. Otros Traumatismos y Lesiones
-
-### <a name="varios-34-1"></a> 3.4.1. Traumatismo Torácico Leve
+### <a name="trauma-21-1"></a> 2.1.1. Traumatismo Lumbar
 
 **AP:**
 - Sin interés.
 - NAMC.
 
 **EA:**
-- Paciente [varón/mujer] de [edad] años que acude por dolor torácico tras traumatismo en hemitórax [derecho/izquierdo].
-- Dolor que aumenta con la inspiración y la tos. No disnea. Afebril.
+- Paciente de [edad] años que acude por dolor lumbar tras caída casual.
+- No irradiación a MMII. No claudicación. No clínica de síndrome de cauda equina.
 
 **EF:**
-- **SatO2:** [valor]%.
-- Buen estado general, consciente, orientado, hidratado y perfundido. No taquipnea ni cianosis.
-- Dolor a la palpación del [nº] arco costal [derecho/izquierdo] a nivel de línea axilar anterior.
-- Dolor a la compresión torácica anteroposterior.
-- **Auscultación Pulmonar:** Murmullo vesicular conservado.
-- **Auscultación Cardíaca:** Rítmica, sin soplos.
+- Dolor con la movilización del tronco (lateralización, flexoextensión, rotación).
+- No apofisalgias espinosas lumbares bajas.
+- Dolor a la palpación de la musculatura paravertebral D/I.
+- Lassègue y Bragard negativos.
+- No disminución de la fuerza ni alteración de la sensibilidad en MMII.
+- ROT rotuliano y aquíleo +.
 
-**PC:**
-- **Rx Parrilla Costal y Tórax PA y Lat:** No se observa lesión ósea aguda.
-
-**JC:**
-- Traumatismo costal leve.
-
-**PLAN:**
-- Reposo relativo. Hidratación abundante.
-- **Fisioterapia respiratoria** (hinchar globos, toser, bostezar).
-- **Calor local** intermitente.
-- **IBUPROFENO 600 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
-- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
-- **Y SI NO CEDE EL DOLOR**, añadir **METAMIZOL** 1 ampolla bebida, máximo cada 8 horas.
-- Si molestias gástricas, **OMEPRAZOL 20 mg** al día.
-- **Signos de alarma:** Si presenta empeoramiento, fiebre, dificultad respiratoria o secreciones purulentas, deberá acudir a Urgencias.
-- Control por su Médico de AP.
-- [ENTREGAR HOJA DE RECOMENDACIONES](#traumatismo-costal).
-
-### <a name="varios-34-2"></a> 3.4.2. Traumatismo Craneoencefálico (TCE) Leve
-
-**AP:**
-- Sin interés.
-- NAMC.
-
-**EA:**
-- Paciente de [edad] años que acude por TCE sin pérdida de conocimiento. Consciente y orientado.
-
-**EF:**
-- Consciente y orientado en las 3 esferas. Escala de Coma de Glasgow 15/15.
-- Pares craneales II-XII sin alteraciones.
-- Pupilas isocóricas y normorreactivas.
-- No alteraciones de la marcha. Romberg negativo.
-- No dismetría ni disdiadococinesia.
+**RX:**
+- No se observa lesión ósea aguda.
 
 **JC:**
-- TCE leve.
+- Lumbalgia aguda. Traumatismo lumbar.
 
 **PLAN:**
-- Se entrega hoja de recomendaciones para TCE leve.
-- **Reposo**, dieta blanda y **VIGILANCIA NEUROLÓGICA** durante 48 horas.
+- **Reposo.** Calor seco (5 min/hora). Evitará cargar pesos.
+- **DIAZEPAM 5 mg**: 1 comprimido al acostar durante 8 días y ½ en desayuno y comida mientras guarde reposo en casa, evitando realizar actividades peligrosas o conducir mientras tome este medicamento por el día.
 - **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
 - **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
-- **Y SI NO CEDE EL DOLOR**, añadir **METAMIZOL** 1 ampolla bebida, máximo cada 8 horas.
-- Si molestias gástricas, **OMEPRAZOL 20 mg** al día.
-- **Signos de alarma:** Si presenta aumento de la cefalea, vómitos, parálisis o desorientación, acudirá de nuevo a Urgencias.
-- Control por su Médico de AP.
-- [ENTREGAR HOJA DE RECOMENDACIONES](#tce).
+- **Y SI NO CEDE EL DOLOR O ES MUY INTENSO**, puede añadir 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
+- Si empeoramiento o fiebre, volver a Urgencias. Control en Traumatología ambulatorio en ± 5-7 días previa cita.
+
+### <a name="trauma-21-2"></a> 2.1.2. Lumbalgia No Traumática
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor lumbar sin trauma previo.
+- No irradiación a MMII. No claudicación. No clínica de síndrome de cauda equina.
+
+**EF:**
+- Dolor con la movilización del tronco (lateralización, flexoextensión, rotación).
+- No apofisalgias espinosas lumbares bajas.
+- Dolor a la palpación de la musculatura paravertebral D/I.
+- Lassègue y Bragard negativos.
+- No disminución de la fuerza ni alteración de la sensibilidad en MMII.
+- ROT rotuliano y aquíleo +.
+
+**RX:**
+- No se observa lesión ósea aguda.
+
+**JC:**
+- Lumbalgia aguda. Contractura lumbar.
+
+**PLAN:**
+- **Reposo.** Calor seco (5 min/hora). Evitará cargar pesos.
+- **DIAZEPAM 5 mg**: 1 comprimido al acostar durante 8 noches y ½ en desayuno y comida mientras guarde reposo en casa, evitando realizar actividades peligrosas o conducir mientras tome este medicamento por el día.
+- **IBUPROFENO 600 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
+- **Y SI NO CEDE EL DOLOR O ES MUY INTENSO**, puede añadir 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
+- Si empeoramiento o fiebre, volver a Urgencias.
+- Control por su médico de Atención Primaria en aprox. 1-2 semanas.
+
+### <a name="trauma-21-3"></a> 2.1.3. Dorsalgia No Traumática
+
+**AP:**
+- Escoliosis.
+- NAMC.
+
+**EA:**
+- Paciente de 28 años que acude por dolor dorsal sin trauma previo, de varias semanas de evolución.
+- No irradiación a MMII. No claudicación.
+
+**EF:**
+- Dolor con la movilización del tronco (lateralización, flexoextensión, rotación).
+- No apofisalgias espinosas dorsales.
+- Dolor a la palpación de la musculatura paravertebral.
+- Auscultación Pulmonar: murmullo vesicular conservado.
+- Auscultación Cardíaca: Rítmica sin soplos.
+
+**JC:**
+- Dorsalgia aguda. Contractura muscular paravertebral.
+
+**PLAN:**
+- **Reposo.** Calor seco (5 min/hora). Evitará cargar pesos.
+- **DIAZEPAM 5 mg**: 1 comprimido al acostar durante 8 días.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
+- Si empeoramiento o fiebre, volver a Urgencias. Control en Consultas de Traumatología en 7 días.
+
+### <a name="trauma-21-4"></a> 2.1.4. Latigazo Cervical (ATF)
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor cervical tras accidente de tráfico.
+- No TCE.
+- No traumatismo toracoabdominal.
+- No irradiación a MMSS.
+
+**EF:**
+- ROM cervical normal, disminuido por dolor.
+- Dolor con la movilización cervical (lateralización, flexo-extensión, rotaciones).
+- No apofisalgias espinosas cervicales.
+- Dolor a la palpación de la musculatura para-vertebral derecha/izquierda.
+- Dolor a la palpación sobre trapecio derecho.
+- No disminución de la fuerza ni alteración de la sensibilidad en MMSS.
+- ROT tricipital y estiloideo +.
+
+**RX Columna Cervical AP y Lat:**
+- No se observa lesión ósea aguda. Rectificación de la lordosis cervical.
+
+**JC:**
+- Latigazo cervical.
+
+**PLAN:**
+- **Reposo.** Calor seco intermitente (5 min/hora). Collarín blando cervical máximo 48-72 horas.
+- **DIAZEPAM 5 mg**: 1 comprimido al acostar durante 8 días y ½ en desayuno y comida mientras guarde reposo en casa, evitando realizar actividades peligrosas o conducir mientras tome este medicamento por el día.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
+- **Y SI NO CEDE EL DOLOR O ES MUY INTENSO**, puede añadir 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- **SI NÁUSEAS**, puede tomar DOMPERIDONA JARABE, 1 cucharada 20 min antes de cada comida.
+- **SI MAREO, DOGMATIL 50 mg**: 1 comprimido cada 8 horas.
+- **SI MOLESTIAS GÁSTRICAS, OMEPRAZOL 20 mg**: 1 comprimido cada día.
+- Si empeoramiento o fiebre, volver a Urgencias. Control en CONSULTAS DE TRAUMATOLOGÍA en aprox. 1-2 semanas.
+
+### <a name="trauma-21-5"></a> 2.1.5. Cervicalgia No Traumática
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor cervical de meses de evolución. No refiere antecedente traumático.
+- No refiere irradiación a MMSS. Hormigueo en dedos. No pérdida de fuerza en MMSS.
+
+**EF:**
+- ROM cervical normal, disminuido por dolor.
+- Dolor con la movilización cervical (lateralización, flexoextensión, rotaciones).
+- No apofisalgias espinosas cervicales.
+- Dolor a la palpación de la musculatura paravertebral derecha.
+- Dolor a la palpación sobre trapecio derecho.
+- No disminución de la fuerza ni alteración de la sensibilidad en MMSS.
+- ROT tricipital y estiloideo +.
+
+**RX:**
+- No se observa lesión ósea aguda. Cambios degenerativos.
+
+**JC:**
+- Cervicalgia.
+
+**PLAN:**
+- **Reposo.** Calor seco (5 min/hora).
+- **DIAZEPAM 5 mg**: 1 comprimido al acostar durante 8 días y ½ en desayuno y comida mientras guarde reposo en casa, evitando realizar actividades peligrosas o conducir mientras tome este medicamento por el día.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
+- **Y SI NO CEDE EL DOLOR O ES MUY INTENSO**, puede añadir 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
+- Si empeoramiento o fiebre, volver a Urgencias.
+- Control por su médico de Atención Primaria en aprox. 2 semanas.
+<a id="trauma-22"></a>
+
+
+<a id="trauma-hombro"></a>
+## 🏛️ 2.2. Hombro
+
+### <a name="trauma-22-1"></a> 2.2.1. Traumatismo de Hombro
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor en hombro derecho tras traumatismo.
+- Aumento del dolor con los intentos de movilización. No impotencia funcional.
+
+**EF:**
+- No dolor a la palpación sobre eminencias óseas ni articulación acromioclavicular.
+- ROM normal, dolor en rango máximo.
+- Disminución de Abducción (no llega a 90º).
+- Dolor a la palpación sobre coracoides y supraespinoso.
+- Jobe (-), Lift-off test (-), Neer (-).
+- Tests de exploración del tendón de la porción larga del bíceps negativos.
+
+**RX:**
+- No se observa lesión ósea aguda.
+
+**JC:**
+- Contusión en hombro.
+
+**PLAN:**
+- **Reposo.** Frío local. Cabestrillo antiálgico.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido cada 8 horas (alterno, si mucho dolor).
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día.
+- Control en Consultas de Traumatología en ±7 días.
+
+### <a name="trauma-22-2"></a> 2.2.2. Fractura Subcapital de Húmero
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor en hombro derecho tras traumatismo.
+- Impotencia funcional.
+
+**EF:**
+- Dolor a la palpación sobre la cabeza del húmero.
+- No otras eminencias óseas dolorosas ni dolor sobre articulación acromioclavicular.
+- ROM muy disminuido por dolor.
+- Exploración neurovascular distal normal.
+
+**RX:**
+- Fractura subcapital de húmero.
+
+**JC:**
+- Fractura subcapital de húmero.
+
+**PLAN:**
+- **Reposo.** Frío local. Cabestrillo tipo SLING.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido cada 8 horas (alterno, si mucho dolor).
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día.
+- Control en Traumatología en ±15 días previa citación.
+
+### <a name="trauma-22-3"></a> 2.2.3. Luxación de Hombro
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor en hombro derecho tras traumatismo.
+- Impotencia funcional.
+
+**EF:**
+- Deformidad del hombro en "charretera". Imposibilidad de movilización.
+- Exploración neurovascular distal conservada. Sensibilidad en la región del nervio axilar conservada.
+- No otras eminencias óseas dolorosas ni dolor sobre articulación acromioclavicular.
+
+**RX:**
+- Luxación glenohumeral anterior.
+
+**JC:**
+- Luxación glenohumeral.
+
+**PLAN:**
+- Reducción cerrada según técnica de Spasso.
+- Control radiológico post-reducción satisfactorio. Exploración neurovascular distal tras la reducción satisfactoria.
+- **Reposo.** Frío local. Cabestrillo tipo SLING.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido cada 8 horas (alterno, si mucho dolor).
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día.
+- Control en Traumatología en ±15 días previa citación.
+
+### <a name="trauma-22-4"></a> 2.2.4. Fractura de Clavícula
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor en hombro tras traumatismo casual.
+- Impotencia funcional.
+
+**EF:**
+- No dolor a la palpación sobre eminencias óseas glenohumerales.
+- No dolor sobre articulación acromioclavicular.
+- ROM disminuido por dolor: Rotaciones poco dolorosas. Dolor con la Abducción (no llega a 60º).
+- Dolor selectivo a la palpación sobre el tercio medio de la clavícula.
+
+**RX:**
+- Fractura de tercio medio de clavícula.
+
+**JC:**
+- Fractura de clavícula.
+
+**PLAN:**
+- **Reposo.** Frío local. Cabestrillo antiálgico, que se cambiará por vendaje en 8 comercial.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
+- **Y SI NO CEDE EL DOLOR O ES MUY INTENSO**, puede añadir 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
+- Si empeoramiento o fiebre, volver a Urgencias.
+- Control en Traumatología ambulatorio en ±15 días previa citación.
+
+### <a name="trauma-22-5"></a> 2.2.5. Tendinopatía del Manguito Rotador
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor en hombro de días de evolución, sin antecedente traumático.
+- Aumento del dolor con los intentos de movilización. No impotencia funcional.
+
+**EF:**
+- No dolor a la palpación sobre eminencias óseas ni articulación acromioclavicular.
+- ROM normal, dolor en rango máximo.
+- Disminución de Abducción (no llega a 90º).
+- Dolor a la palpación sobre coracoides y supraespinoso.
+- Maniobras subacromiales: Hawkins (+), Neer (+).
+- Maniobras para Supraespinoso: dolorosas, Jobe (+).
+- Maniobras para Infraespinoso: dolorosas.
+- Maniobras para Subescapular: dolorosas, Lift-off test (-).
+- Tests de exploración del tendón de la porción larga del bíceps: dolorosos, Palm up test (-), Yergason (-).
+
+**RX:**
+- No se observa lesión ósea aguda.
+
+**JC:**
+- Tendinopatía del manguito rotador.
+
+**PLAN:**
+- **Reposo.** Frío local. Cabestrillo antiálgico.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
+- **Y SI NO CEDE EL DOLOR O ES MUY INTENSO**, puede añadir 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
+- Si empeoramiento o fiebre, volver a Urgencias.
+- Control en Consultas de Traumatología en ±7 días.
+
+### <a name="trauma-22-6"></a> 2.2.6. Síndrome Subacromial
+
+**AP:**
+- Sin interés.
+- NAMC.
+
+**EA:**
+- Paciente de [edad] años que acude por dolor en hombro de días de evolución, sin antecedente traumático.
+- Aumento del dolor con los intentos de movilización. No impotencia funcional.
+
+**EF:**
+- No dolor a la palpación sobre eminencias óseas ni articulación acromioclavicular.
+- ROM normal, dolor en rango máximo. Abducción: [º], Antepulsión: [º], Rotación externa: [º], Rotación interna: [º].
+- Dolor a la palpación sobre coracoides y supraespinoso.
+- Maniobras subacromiales: Hawkins (+), Neer (+).
+- Maniobras para Supraespinoso: dolorosas, Jobe (+).
+- Maniobras para Infraespinoso: dolorosas.
+- Maniobras para Subescapular: dolorosas, Lift-off test (-).
+- Tests de exploración del tendón de la porción larga del bíceps: dolorosos, Palm up test (-), Yergason (-).
+
+**RX:**
+- No se observa lesión ósea aguda.
+
+**JC:**
+- Síndrome subacromial.
+
+**PLAN:**
+- **Reposo.** Frío local. Cabestrillo antiálgico.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido tras cada comida.
+- **Y SI NO CEDE EL DOLOR O ES MUY INTENSO**, puede añadir 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día en ayunas.
+- Si empeoramiento o fiebre, volver a Urgencias.
+- Se realiza infiltración con 2cc de Cortidene Depot + 4cc de Mepivacaína 1% (técnica estéril).
+- Se incluye en lista de espera quirúrgica para descompresión subacromial artroscópica (DSA).
+- Se explica la cirugía y se entrega consentimiento informado. Se solicita interconsulta a Anestesia.
+
+### <a name="trauma-22-7"></a> 2.2.7. Luxación Acromio-Clavicular
+
+**EA:**
+- Paciente de [edad] años que acude por dolor en hombro derecho tras traumatismo.
+- Impotencia funcional.
+
+**EF:**
+- Dolor a la palpación sobre la articulación acromioclavicular derecha.
+- No otras eminencias óseas dolorosas ni dolor sobre la clavícula.
+- ROM muy disminuido por dolor.
+- Exploración neurovascular distal normal.
+
+**JC:**
+- Luxación acromio-clavicular grado [I-VI].
+
+**PLAN:**
+- **Reposo.** Frío local. Cabestrillo antiálgico.
+- **DEXKETOPROFENO 25 mg**: 1 comprimido v.oral después de desayuno, comida y cena durante 4-5 días.
+- **SI DOLOR, PARACETAMOL 1 g**: 1 comprimido cada 8 horas (alterno, si mucho dolor).
+- Si molestias gástricas, **OMEPRAZOL 20 mg**: 1 comprimido al día.
+- Control en Consultas de Traumatología.
+
+**Clasificación de Rockwood:**
+- **Tipo I:** Esguince de los ligamentos acromioclaviculares. Articulación estable, sin cambios radiográficos.
+- **Tipo II:** Rotura de los ligamentos acromioclaviculares, con integridad de los coracoclaviculares. Puede haber inestabilidad horizontal y luxación <25% en Rx AP.
+- **Tipo III:** Rotura total de los ligamentos acromioclaviculares y coracoclaviculares. Articulación inestable, con luxación del 25-100% en Rx AP.
+- **Tipo IV:** Luxación posterior del extremo distal de la clavícula.
+- **Tipo V:** Forma más severa del tipo III, con rotura de la fascia deltotrapecial.
+- **Tipo VI:** Muy rara. La clavícula se luxa en posición inferior (subcoracoidea).
+
+<a id="trauma-23"></a>
+
+## **CODO**
+
+ 1. ### **TRAUMATISMO**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo por dolor en codo de – días de evolución.
+No impotencia funcional.
+
+EF:
+-No deformidad de codo ni antebrazo
+-Dolor a la palpación sobre epicóndilo lateral.
+-Dolor a la palpación cabeza radial
+-No otras eminencias óseas dolorosas (epicóndilo medial, olécranon)
+-Pronosupinación normal (codo-muñeca) con dolor en rango máximo
+-Flexoextensión codo normal. Dolor en grados máximos
+
+ RX:
+No veo lesión ósea aguda
+
+JC:
+Contusión
+
+PLAN:
+-Reposo. Frío local. Cabestrillo antiálgico.
+-Mano en alto. Mover dedos.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+-Control médico de atención primaria en ±15 días
+
+### LUXACIÓN CODO**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo por dolor en codo.
+Impotencia funcional.
+
+EF:
+-Deformidad de codo con pérdida de triángulo Nelaton
+-Exploración neurovascular distal conservada
+
+RX:
+Luxación posterior de codo
+
+JC:
+El radiológico
+
+PLAN:
+-Reducción cerrada.
+-Reposo. Frío local. Férula braquiopalmar posterior.
+-Mano en alto. Mover dedos.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+-Control Traumatología ambulatorio en ±15 días previa citación.
+
+### CABEZA RADIAL**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo por dolor en codo de – días de evolución.
+No impotencia funcional.
+
+EF:
+-Discreto derrame articular.
+-No deformidad de codo ni antebrazo.
+-Dolor a la palpación cabeza radial.
+-No otras eminencias óseas dolorosas (epicóndilo medial, olécranon, epicóndilo lateral)
+-Pronosupinación normal (codo-muñeca) dolorosa sin bloqueo.
+-Flexoextensión codo normal. Dolor en grados máximos.
+
+RX:
+Fractura cabeza radial Masson I
+
+JC:
+El radiológico.
+
+PLAN:
+-Reposo. Frío local. Cabestrillo antiálgico. Vendaje compresivo/Férula bráquio-antebraquial posterior 10 días.
+-Mano en alto. Mover dedos.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-PARACETAMOL 1 GRAMO EFG 1 COMP. / 8 h (alterno, si mucho dolor)
+-OMPRAZOL 20 MG EFG 1 COMP./ 24 h SI MOLESTIAS GÁSTRICAS
+-Control Traumatología área en ±10 días previa citación.
+
+### FX OLÉCRANON**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo por dolor en codo derecho.
+Impotencia funcional. Dificultad para extensión del codo.
+
+EF:
+-Tumefacción en región posterior del codo.
+-No dolor a la palpación sobre epicóndilo lateral, medial ni cabeza radial.
+-Dolor a la palpación sobre olécranon
+-Pronosupinación normal (codo-muñeca) con dolor en rango máximo
+-Imposibilidad para extensión activa del codo. Consigue realizar flexión del mismo.
+
+RX:
+Fractura de olécranon desplazada
+
+JC:
+Fractura de olécranon desplazada.
+
+PLAN:
+-Inmovilización con férula braquiopalmar.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Solicito preoperatorio. Se entrega consentimiento informado.
+-Se avisará telefónicamente al paciente para cirugía.
+
+### PRON DOLOROSA**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años traído por sus padres por presentar impotencia funcional y dolor con la movilización de brazo derecho sin claro antecedente traumático.
+
+EF:
+-Actitud del antebrazo en pronación. Dolor con los intentos de movilización
+-No eminencias óseas dolorosas (epicóndilos, olécranon). No signos de fractura ni luxación
+
+JC:
+Pronación dolorosa
+
+PLAN:
+-Reducción cerrada satisfactoria
+-IBUPROFENO SUSP. ORAL 100 MG/5 ML (DALSY) cc/8 h si dolor
+-Si nuevo episodio, volver a Urgencias.
+-No precisa seguimiento.
+
+### EPICONDILITIS**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor en codo derecho. No refiere antecedente traumático ni sobreesfuerzo.
+No impotencia funcional. Afebril
+
+EF:
+-Movilidad del codo conservada (flexoextensión y pronosupinación), limitado en rango máximo.
+-Dolor a la palpación sobre epicóndilo lateral y sobre musculatura epicondílea (supinadora y extensora)
+-No dolor a la palpación sobre epicóndilo medial, olécranon ni cabeza radial.
+-Maniobras de provocación:
+	-Test de la silla +
+	-Test de Mills +
+	-Dolor con la contracción activa del ECRB y ECRL (extensor carpi radialis brevis / longus)
+	-Dolor con la contracción activa del EDC (extensor digitorum communis)
+
+RX:
+Sin alteraciones significativas
+
+JC:
+Epicondilitis
+
+PLAN:
+-Reposo deportivo. Frío local.
+-Cincha anti-epicondilitis.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+-Control por su médico de atención primaria
+<a id="trauma-24"></a>
+
+
+## MUÑECA-MANO
+
+### **TX MUÑECA**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo por dolor en muñeca derecha.
+No impotencia funcional.
+
+EF:
+-No derrame articular. No otros signos de flogosis.
+-No deformidad muñeca.
+-Dolor a la palpación de estiloides radial.
+-No otras eminencias óseas dolorosas.
+-Pronosupinación normal (codo-muñeca). Dolor en grados máximos.
+-Flexoextensión muñeca normal. Dolor en grados máximos.
+-No dolor a la palpación sobre tabaquera anatómica.
+
+RX:
+No veo lesión ósea aguda.
+
+JC:
+Contusión muñeca
+
+PLAN:
+-Reposo. Frío local. Cabestrillo antiálgico. Vendaje compresivo.
+-Mano en alto. Mover dedos.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
+--Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología la próxima semana.
+
+### TX DEDOS MANO**
+
+**AP:**
+**-Sin interés**
+**-NAMC**
+
+**EA:**
+**Paciente de años que acude tras traumatismo por dolor en mano derecha.**
+### No impotencia funcional.
+
+**EF:**
+**-No derrame articular. No otros signos de flogosis.**
+**-No deformidad muñeca.**
+**-Dolor a palpación de base/diáfisis/cabeza º dedo de mano D / I.**
+**-No Dolor a la palpación de estiloides radial.**
+**-No otras eminencias óseas dolorosas.**
+**-Pronosupinación normal (codo-muñeca). Dolor en grados máximos.**
+**-Flexoextensión muñeca normal. Dolor en grados máximos.**
+**-No dolor a la palpación sobre tabaquera anatómica.**
+
+**RX:**
+### No veo lesión ósea aguda.
+
+**JC:**
+**Contusión mano**
+
+**PLAN:**
+**-Reposo + sindactila. Frío local.**
+**-Mano en alto. Mover dedos.**
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
+-Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología la próxima semana.
+
+### FRACTURA EDR**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de - años que acude tras caída casual por traumatismo en muñeca D. Impotencia funcional.
+
+EF:
+-Deformidad extremidad distal radio.
+-Dolor a la palpación de extremidad distal de radio. No otras eminencias óseas dolorosas.
+
+RX:
+Fractura radio distal
+
+JC:
+El radiológico
+
+PLAN:
+-Reducción cerrada + yeso abierto. Control RX posterior satisfactorio.
+-Reposo. Frío local. Brazo en alto. Mover dedos.
+- mg/ 8 horas
+-Opirén flas 30 mg / 24h si molestias gástricas.
+-Control Traumatología ambulatorio en ± 7-10 días con RX de control (entrego volante) previa citación
+
+### TORUS**
+
+ AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo en muñeca D de – días de evolución.
+No impotencia funcional.
+
+EF:
+-No deformidad de muñeca ni antebrazo
+-Dolor a la palpación de extremidad distal de radio. No otras eminencias óseas dolorosas.
+-Pronosupinación normal (codo-muñeca) Dolor en rango máximo
+-Flexoextensión normal. Dolor en grados máximos
+-No dolor sobre tabaquera anatómica.
+
+RX:
+Torus radio distal
+
+JC:
+El radiológico
+
+PLAN:
+-Reposo. Frío local. Férula posterior.
+-Mano en alto. Mover dedos.
+-IBUPROFENO SUSP. ORAL 100 MG/5 ML (DALSY) cc/ 8 horas según peso.
+-Control Traumatología ambulatorio en ± 15 días previa citación.
+
+### FX ESCAFOIDES**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras caída casual por traumatismo en muñeca D.
+No impotencia funcional.
+
+EF:
+-Inflamación y dolor sobre articulación de la muñeca.
+-Dolor a la palpación sobre tabaquera anatómica. Dolor a la palpación de cara volar y dorsal de escafoides. Dolor a la compresión axial de 1º-2º-3º ejes. Dolor con la desviación radial.
+-ROM completo limitado en rango máximo (flexoextensión y pronosupinación)
+-No dolor a la palpación de extremidad distal de radio.
+-No otras eminencias óseas dolorosas.
+
+RX:
+No veo lesión ósea aguda
+
+JC:
+Contusión. Sospecha fractura escafoides
+
+PLAN:
+-Férula posterior + corbata escafoides.
+-Reposo. Frío local. Brazo en alto. Mover dedos.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Control Traumatología ambulatorio en ± 15 días con RX de control (entrego volante) previa citación
+
+### FX 5º MTC**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo directo sobre 5º MTC mano D.
+No impotencia funcional.
+
+EF:
+-Dolor selectivo a la palpación cabeza 5º MTC y articulación 5ª MTF
+-No deformidad rotacional.
+-No otras eminencias óseas doloras en mano ni muñeca.
+
+RX:
+Fractura cuello 5º MTC
+
+JC:
+El radiológico
+
+PLAN:
+-Sindactilia + férula 5º MTC
+-Reposo. Frío local. Mano en alto. Mover dedos.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Control Traumatología ambulatorio en ± 15 días previa citación.
+
+### AVULSIÓN PLACA VOLAR**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude a Urgencias tras traumatismo sobre dedo 5º de mano derecha.
+No impotencia funcional. Dolor con los intentos de moviización del mismo.
+
+EF:
+-Tumefacción sobre articulación IFP dedo
+-Exploración tendones flexores y extensores conservada
+-No eminencias óseas dolorosas.
+
+RX:
+Fractura placa volar dedo
+
+JC:
+Avulsión placa volar dedo
+
+Plan:
+-Reposo. Frío local. Mano en alto.
+-Férula de Zimmer. Cambiar a ortesis tipo “Rana Federica” durante 10-12 días
+-Tras 10-12 días: Sindactilia + mover dedos
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Control en consultas Traumatología en aprox 2-3 semanas.
+
+### DEDO RESORTE**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor en dedo 3º de la mano derecha. Sensación dolorosa de engatillamiento del dedo.
+No refiere antecedente traumático.
+No impotencia funcional.
+
+EF:
+-Dolor a nivel de la polea A1 del dedo con tumoración local
+-Dedo en resorte doloroso.
+
+JC:
+Dedo 3º mano derecha en resorte
+
+PLAN:
+-Infiltración 1cc de la mezcla (cortidene 2cc + mepivacaína 1% 2cc)
+-Pongo al paciente en LEQ para polectomía A1. Explico la cirugía al paciente.
+-Entrego consentimiento informado. Interconsulta a Anestesia.
+
+### SD TÚNEL CARPO**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor y hormigueo en mano derecha. Refiere que sus síntomas empeoran por la noche.
+Hipoestesia de la región más radial de la mano.
+No impotencia funcional.
+
+EF:
+-Hipoestesia dedos 2º 3º y 4º.
+-Durkan +. Phalen +. Tinnel +.
+-No signos de atrofia en eminencia tenar
+
+JC:
+Dedo 3º mano derecha en resorte
+
+PLAN:
+-Férula metacarpiana con fleje metálico de uso nocturno.
+-Complejo vitamínico B1-6-12
+-Infiltración 1cc de la mezcla (cortidene 2cc + mepivacaína 1% 2cc)
+-Pongo al paciente en LEQ para liberación nervio mediano.
+-Explico la cirugía al paciente. Entrego consentimiento informado. Interconsulta a Anestesia.
+
+### RIZARTROSIS DeQUERVAIN**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor en borde radial de la mano derecha de larga evolución. No refiere antecedente traumático ni sobreesfuerzo.
+Dolor no irradiado hacia el antebrazo. No refiere hipoestesia a dicho nivel.
+No impotencia funcional.
+Mano dominante: Derecha; Profesión: Ama de casa.
+
+EF:
+-Dolor a la palpación sobre estiloides radial.
+-Dolor con la contracción activa del Abdomenuctor largo y del extensor corto. Dolor también con su distensión pasiva.
+-Finkelstein +
+
+-Dolor a la palpación sobre articulación MTC 1º dedo. Crepitación local.
+-Grind test +.
+-Alcanza la zona 7 de Tubiana.
+-Exploración tendinosa conservada. Exploración neurovascular distal conservada.
+
+RX:
+Sin alteraciones significativas
+Rizartrosis grado II Eaton.
+
+JC:
+Tenosinovitis de De Quervain
+Rizartrosis
+
+PLAN:
+-Férula metacarpiana con fleje metálico y fijación de 1º MTCF. Frio local. Reposo relativo.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Infiltración 1cc de la mezcla (cortidene 2cc + mepivacaína 1% 2cc) / de ácido hialurónico MTCF 1º dedo.
+-Pongo al paciente en LEQ para artroplastia de sustitución ARPE / liberación corredera E1 muñeca.
+-Explico la cirugía al paciente. Entrego consentimiento informado. Interconsulta a Anestesia.
+
+<a id="trauma-25"></a>
+
+## CADERA
+
+### **Fx CADERA**
+AP:
+-NAMC
+-Sin interés
+
+TTo. Habitual:
+-
+SB:
+ Camina: Sola / con muletas o bastón / No camina. Vida cama-sillón
+ Vive con: Familiar / Residencia / Sola
+ ABVD: Independiente / Parcialmente dependiente / Dependiente
+
+EA:
+Paciente de – años remitido valorar traumatismo de cadera derecha tras caída casual.
+Impotencia funcional.
+
+EF:
+TÓRAX:
+AbdomenOMEN:
+MMII: Acortamiento y rotación externa. Dolor con los intentos de movilización de la cadera y con las rotaciones de la misma.
+
+EKG:
+RX:
+
+JC: Fractura subcapital / basicervical / pertrocánterea / persubtrocanterea / subtrocantérea de fémur
+
+PLAN:
+ Solcito ITC a TRAUMA y Preoperatorio
+ INdico PARACETAMOL iv.
+
+Plan:
+-Ingreso a cargo de Traumatología para tratamiento quirúrgico / conservador
+-Solicitado preoperatorio completo (BQ, EKG, RX TX)
+-Solicitado PIC ANR, SAP y GER
+-Se realiza gestión para Cirugía Urgente Diferida
+-Se explica la cirugía al paciente y familiares. Se entregan consentimientos informados de cirugía y de transfusión sangre.
+
+### Fx RAMAS**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude a Urgencias tras caída casual por imposibilidad de deambulación.
+Dolor en cadera derecha.
+
+EF:
+-Dolor a la palpación sobre ingle derecha.
+-Discreto dolor con las rotaciones de ambas caderas
+
+RX:
+Fx ramas isquiopubianas derecha
+
+JC: El radiológico
+
+PLAN:
+-Reposo. Vida sillón-cama
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+-Clexane 40 mg / 24 h sc
+-Si empeoramiento o fiebre, volver a Urgencias.
+-Control Traumatología ambulatorio ± 1 mes previa citación, con RX de control (entrego volante)
+
+### TRAUMA CADERA**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo casual en cadera derecha.
+No impotencia funcional.
+
+EF:
+-No dolor a la palpación sobre ingle derecha.
+-No dolor sobre trocánter mayor derecho.
+-Rango de movilidad conservado
+-Rotaciones (activa / pasiva) de la cadera conservadas
+-Flexoextensión  (activa / pasiva) cadera conservada.
+-Abdomenucción y aducción (activa / pasiva) conservadas.
+
+RX:
+No veo lesión ósea aguda
+
+JC: Contusión cadera
+
+PLAN:
+-Reposo. Pierna en alto. NO APOYAR si dolor.
+-Frío local
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+-Si empeoramiento o fiebre, volver a Urgencias.
+-Control médico de atención primaria en ± 15 días
+
+### SINOVITIS**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años remitido desde Pediatría para valorar cojera de X días de evolución.
+No antecedente traumático. Afebril.
+
+EF:
+-Caderas simétricas. Abducción simétrica y completa. Rotaciones interna y externa simétricas y sin limitación.
+-Allis negativo.
+-ROM pasivo rodillas, tobillos y subastragalina bilateral normales.
+
+RX:
+No veo lesión ósea aguda
+
+JC: Cojera. Probable sinovitis.
+
+PLAN:
+-Reposo.
+-IBUPROFENO SUSP. ORAL 100 MG/5 ML (DALSY) cc / 8 horas
+-Control Traumatología (Infantil) ambulatorio ± 10-15 días previa citación.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+### TROCANTERITIS
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor en cara lateral de muslo. No refiere antecedente traumático. Afebril.
+Refiere irradiación hacia rodilla ipsilateral.
+
+EF:
+-Caderas: ROM normal (Abdomenucción, addución, rotaciones interna y externa) y sin limitación.
+-Dolor a la palpación sobre trocánter mayor. Dolor que aumenta con la addución forzada.
+
+RX:
+No veo lesión ósea aguda
+
+JC: Trocanteritis
+
+PLAN:
+-Reposo.
+-/ 8 horas
+-Control Traumatología ambulatorio ± 10-15 días previa citación.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+### COXARTROSIS
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor sobre cadera e ingle derecha.
+No refiere antecedente traumático. Afebril.
+Dificultad para actividades cotidianas (calzarse, higiene pies,…)
+Refiere irradiación hacia rodilla ipsilateral.
+
+EF:
+-Dolor inguinal que empeora con las rotaciones de la cadera
+-Rotación externa: º -Rotación interna: º -Flexión: º
+-Abducción: º - Adducción: º
+Caderas: ROM normal (Abducción, addución, rotaciones interna y externa) y sin limitación.
+-No dolor a la palpación sobre trocánter mayor ni otras eminencias óseas.
+
+RX: Cambios degenerativos. Coxartrosis
+
+JC: Coxartrosis
+
+PLAN:
+-Reposo.
+-/ 8 horas
+-Pongo en LEQ para PTC DERECHA
+-Explico cirugía y entrego consentimiento informado (transfusión y cirugía). Interconsulta Anestesia.
+
+<a id="trauma-26"></a>
+
+## RODILLA
+
+ 1. ### **TX RODILLA**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras traumatismo casual de rodilla derecha.
+No impotencia funcional
+
+EF:
+-No derrame. No otros signos de flogosis.
+-Rodilla estable. Cajón anterior/posterior negativos. Lachman negativo. Pívot shift negativo
+-No dolor a la palpación interlínea interna ni externa.
+-No dolor al forzar varo-valgo sin bostezo.
+-Test meniscales negativos.
+-Aparato extensor funcional e íntegro. Cepillo -
+
+RX: No veo lesión ósea aguda
+
+JC: Contusión rodilla
+
+PLAN:
+-Reposo. Pierna en alto. NO APOYAR si dolor.
+-Vendaje compresivo. Frío local
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL / 8 horas 3-5 días
+-Paracetamol 1 gramo EFG, 1 comp / 8 h (alterno, si mucho dolor)
+-Omeprazol 20mg EFG, 1 comp / 24h si molestias gástricas.
+-Control en Consultas de Traumatología en ± 15 días
+
+### ESGUINCE LLI**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por gonalgia tras torsión de rodilla derecha.
+No impotencia funcional
+
+EF:
+-No derrame. No otros signos de flogosis.
+-Rodilla estable. Cajón anterior/posterior negativos. Lachman negativo. Pívot shift negativo
+-Dolor a la palpación interlínea interna
+-Dolor en compartimento medial al forzar valgo sin bostezo. No dolor con el varo.
+-Test meniscales negativos.
+-Aparato extensor funcional e íntegro. Cepillo -
+
+RX:
+No veo lesión ósea aguda
+
+JC:
+Esguince LLI
+
+PLAN:
+-Reposo. Pierna en alto. NO APOYAR 4-5 días
+-Vendaje compresivo. Frío local
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO EFG 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-Si molestias gástricas OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+
+-Control en Consultas de Traumatología en ± 2-3 días. Si empeora volver a Urgencias.
+
+### MENISCO URGENCIA**
+
+**AP:**
+**-Sin interés**
+**-NAMC**
+** **
+**EA:**
+**Paciente de – años que acude tras torsión de rodilla derecha. No antecedente traumático. No impotencia funcional. Sensación de chasquido.**
+** **
+**EF:**
+**-No derrame. No otros signos de flogosis.**
+**-Aparato extensor funcional e íntegro. Cepillo -**
+**-Rodilla estable. Cajón anterior/posterior negativos. Lachman negativo. Pívot shift negativo**
+**-Dolor a la palpación interlínea interna**
+**-Dolor en compartimento medial al forzar varo sin bostezo. No dolor ni bostezo con el valgo.**
+**-Test meniscales:**
+**Steinmann positivo para CPMI.**
+**Mc Murray positivo para CPMI**
+**Appley +**
+** **
+**RX:**
+**No veo lesión ósea aguda**
+** **
+**JC:**
+**Sospecha meniscopatía**
+** **
+**PLAN:**
+**-Reposo. Pierna en alto. Carga parcial según dolor**
+**-Vendaje compresivo. Frío local**
+**- / 8 horas**
+**- / 8 h (alterno, si mucho dolor)**
+**-Opirén flas 30 / 24h**
+**-Control Traumatología ambulatorio en ± 15 días previa citación.**
+
+### MENISCO: QX**
+
+**AP:**
+**-Sin interés**
+**-NAMC**
+** **
+**EA:**
+**Paciente de – años que acude tras torsión de rodilla derecha hace días. No antecedente traumático.**
+**No impotencia funcional. Sensación de chasquido.**
+** **
+**EF:**
+**-No derrame. No otros signos de flogosis.**
+**-Aparato extensor funcional e íntegro. Cepillo -**
+**-Rodilla estable. Cajón anterior/posterior negativos. Lachman negativo. Pívot shift negativo**
+**-Dolor a la palpación interlínea interna**
+**-Dolor en compartimento medial al forzar varo sin bostezo. No dolor ni bostezo con el valgo.**
+**-Test meniscales:**
+**Steinmann positivo para CPMI.**
+**Mc Murray positivo para CPMI**
+**Appley +**
+** **
+**RX:**
+**No veo lesión ósea aguda.**
+**RMN: rotura degenerativa cuerno posterior menisco interno**
+** **
+**JC: Meniscopatía interna rodilla derecha**
+** **
+**PLAN:**
+**-Pongo en LEQ para meniscectomía parcial artroscópica. Explico la cirugía al paciente.**
+**-Se entrega consentimiento informado. Interconsulta a Anestesia.**
+
+### INSUF. LCA**
+
+**AP:**
+**-Sin interés**
+**-NAMC**
+** **
+**EA:**
+**Paciente de – años que acude a cosultas por dolor y sensación de inestabilidad en rodilla derecha. Traumatismo hace meses.**
+**No impotencia funcional. No sensación de chasquido.**
+** **
+**EF:**
+**-No derrame. No otros signos de flogosis.**
+**-Aparato extensor funcional e íntegro. Cepillo -**
+**-Cajón anterior +. Cajón posterior negativos.**
+-Lachman +. Pívot shift negativo. Jerk test negativo
+-No dolor a la palpación interlínea interna ni externa.
+-No dolor ni bostezos en interlíneas al forzar varo ni valgo.
+-Test meniscales negativos.
+
+RX:
+No veo lesión ósea aguda.
+RMN: compatible con rotura del LCA.
+
+JC: Insuficiencia LCA rodilla derecha.
+
+PLAN:
+-Pongo en LEQ para ligamentoplastia artroscopia. Explico la cirugía al paciente.
+-Se entrega consentimiento informado. Interconsulta a Anestesia.
+
+### PTR**
+
+**AP:**
+**-Sin interés**
+**-NAMC**
+** **
+**EA:**
+**Paciente de – años que acude tras torsión de rodilla derecha hace días. No antecedente traumático.**
+**No impotencia funcional. Sensación de chasquido.**
+** **
+**EF:**
+**-Crepitación con la movilización. Genu varo clínico. Arco de movilidad 0º-100º.**
+**-Aparato extensor funcional e íntegro. Cepillo - / -Dolor con la movilización femoropatelar. Cepillo ++**
+**-Rodilla estable. No bostezo en varo ni en valgo.**
+**-Dolor a la palpación interlínea interna. Dolor a la palpación sobre zona de la pata de ganso.**
+**-Dolor aumenta al forzar el varo sobre el compartimento medial.**
+**-Test meniscales +/-**
+** **
+**RX: Genu varo. Cambios degenerativos**
+** **
+**JC: Gonartrosis derecha.**
+** **
+**PLAN:**
+**-Pongo en LEQ para PTR DERECHA**
+**-Explico cirugía y entrego consentimiento informado (transfusión y cirugía). Interconsulta Anestesia. **
+
+<a id="trauma-27"></a>
+
+## TOBILLO-PIE
+
+ 1. ### **ESGUINCE ADULTOS**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras torsión casual de tobillo derecho.
+No impotencia funcional
+
+EF:
+-Tobillo estable.
+-Dolor a la palpación LPAA. No dolor sobre LPC ni LPAP.
+-No dolor sobre maleolo lateral.
+-No dolor en maleolo medial ni complejo ligamentoso medial.
+-No otras eminencias dolorosas en peroné proximal ni pie.
+-Dolor con la flexión plantar + inversión forzada.
+
+RX:
+No veo lesión ósea aguda
+
+JC:
+Esguince LPAA
+
+PLAN:
+-Reposo. Pierna en alto. NO APOYAR 4-5 días.
+-Frío local Intermitente.
+-Vendaje compresivo 8-10 días.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS.
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
+
+-Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología en ± 7-10 días
+
+### ESGUINCE NIÑOS**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de  años que acude tras torsión casual de tobillo derecho.
+No impotencia funcional
+
+EF:
+-Tobillo estable.
+-Dolor a la palpación LPAA. No dolor sobre LPC ni LPAP.
+-No dolor sobre maleolo lateral.
+-No dolor en maleolo medial ni complejo ligamentoso medial.
+-No otras eminencias dolorosas en peroné proximal ni pie.
+-Dolor con la flexión plantar + inversión forzada.
+
+RX:
+No veo lesión ósea aguda
+
+JC:
+Esguince LPAA
+
+PLAN:
+-Reposo. Pierna en alto. NO APOYAR 4-5 días
+-Frío local
+-Vendaje compresivo 8-10 días.
+-IBUPROFENO SUSP. ORAL 100 MG/5 ML (DALSY) a la dosis correspondiente a su peso (      cc ) cada 8 horas.
+
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Control médico de atención primaria en ± 7-10 días
+
+### TOBILLO-FÉRULA**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras torsión casual de tobillo derecho.
+No antecedente traumático.
+No impotencia funcional
+
+EF:
+-Intensa tumefacción tobillo.
+-Dolor a la palpación LPAA. No dolor sobre LPC ni LPAP.
+-Dolor sobre complejo ligamentoso medial.
+-No dolor sobre maléolo medial.
+-No dolor en maléolo lateral.
+-No otras eminencias dolorosas en peroné proximal ni pie.
+-Dolor con la flexión plantar + inversión forzada.
+
+RX:
+No veo lesión ósea aguda
+
+JC:
+Esguince tobillo
+
+PLAN:
+-Férula posterior.
+-Reposo. Pierna en alto. Frio local. NO APOYAR
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
+-Clexane 40 mg / 24h sc
+
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+ -Control Traumatología en ± 15 días previa citación.
+
+### FRACTURA PERONE TRANSINDESMAL**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de 48 años que acude tras torsión casual de tobillo izdo.
+No antecedente traumático.
+No impotencia funcional
+
+EF:
+-Intensa tumefacción tobillo en zona lateral.
+-Dolor a la palpación Complejo Lig. lateral.
+-Dolor sobre complejo ligamentoso medial.
+-Dolor en maléolo lateral.
+-No dolor sobre maléolo medial.
+-No otras eminencias dolorosas en peroné proximal ni pie.
+-Dolor con la flexión plantar + inversión forzada.
+
+RX: Fractura tercio distal Peroneo Transindesmal sin desplazamiento.
+
+PLAN:
+-Férula posterior.
+-Reposo. Pierna en alto. Frio local. NO APOYAR
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
+-Clexane 40 mg / 24h sc
+
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Control Traumatología en ± 15 días previa citación.
+
+### FX 5º MTT**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras torsión casual de pie derecho.
+No impotencia funcional
+
+EF:
+-Intensa tumefacción dorso pie.
+-No dolor a la palpación LPAA, LPC ni LPAP.
+-No dolor sobre complejo ligamentoso medial.
+-No dolor sobre maléolos medial ni lateral.
+-Dolor selectivo a la palpación sobre cola 5º MTT.
+-Dolor con la flexión plantar + inversión forzada.
+
+RX:
+Fractura cola 5º MTT
+
+JC:
+El radiológico
+
+PLAN:
+-Férula posterior.
+-Reposo. Pierna en alto. Frio local. NO APOYAR
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
+-Si empeoramiento o fiebre, volver a Urgencias.
+-Clexane 40 mg / 24h sc
+
+-Control Traumatología en ± 15 días previa citación.
+
+### DISTENS. PEDIO**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras torsión casual de pie derecho.
+No impotencia funcional
+
+EF:
+-Intensa tumefacción dorso pie.
+-No dolor a la palpación LPAA, LPC ni LPAP.
+-No dolor sobre complejo ligamentoso medial.
+-No dolor sobre maléolos medial ni lateral.
+-Dolor selectivo a la palpación sobre cola 5º MTT.
+-Dolor con la flexión plantar + inversión forzada.
+-Dolor con la extensión activa dedos del pie y con su distensión pasiva
+
+RX:
+No veo lesión ósea aguda
+
+JC:
+Distensión músculo pedio.
+
+PLAN:
+-Vendaje compresivo
+-Reposo. Pierna en alto. Frio local. NO APOYAR
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Control médico de atención primaria en ± 10-15 días.
+
+### DEDOS PIE**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor en 5º dedo pie derecho tras traumatismo casual sobre el mismo. No impotencia funcional
+
+EF:
+-Inflamación y dolor sobre IFP.
+-Dolor al forzar varo y valgo sin bostezo articular.
+-No dolor sobre articulación IFD ni MTF
+-No deformidad. No signos de luxación
+
+RX:
+No veo lesión ósea aguda
+
+JC:
+Contusión
+
+
+PLAN:
+-Sindactilia. Pie en alto. Frio local. Mover dedos.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS.
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
+
+-Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología en ± 7 días.
+
+### DESGARRO FIBRAS**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude tras chasquido brusco casual en región posterior de pierna derecha.
+No impotencia funcional
+
+EF:
+-Aquiles integro y funcional. No signo del hachazo en Aquiles
+-Dolor a la palpación sobre músculo gastrocnemio medial.
+-Dolor aumenta con la flexión plantar forzada y con la distensión pasiva de dicho músculo.
+-Dolor aumenta con la extensión de la rodilla y disminuye con la flexión de la misma.
+
+JC:
+Desgarro fibrilar gastrocnemio medial
+
+PLAN:
+-Reposo sin apoyar 4-5 días. Pierna en alto. Posteriormente carga según dolor usando TACÓN o alza.
+-Vendaje compresivo que puede cambiar por media elástica de compresión fuerte hasta rodilla. Frío local intermitente.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
+-CONTROL EN CONSULTAS DE TRAUMATOLOGÍA en 8-10 días. SI EMPEORA VOLVER A URGENCIAS.
+
+### FASCITIS PLANTAR**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor en región del retropié derecho. Afebril. No refiere antecedente traumático.
+No impotencia funcional.
+
+EF:
+-Dolor selectivo a la palpación sobre inserción fascia plantar proximal.
+-Dolor con la distensión de la fascia plantar.
+-No eminencias óseas dolorosas en retropié, antepié ni mediopié.
+-Aquiles integro y funcional.
+
+RX:
+No veo lesión ósea aguda
+
+JC:
+Fascitis plantar
+
+PLAN:
+-Reposo deportivo. Pierna en alto. Frio local. Carga según dolor.
+-TALONERA DE SILICONA + ZAPATO MUY ALMOHADILLADO
+-Infiltración local 2cc de la mezcla cortidene (2cc) + mepivacaina 1% (2cc) con técnica estéril.
+-DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
+-SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+-Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+-OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, si molestias gástricas.
+-Si empeoramiento o fiebre, volver a Urgencias.
+
+-Control consultas Traumatología en aprox. 2 semanas para valorar nueva infiltración.
+-Se propone tratamiento quirúrgico: Fasciotomía plantar. Se explica la cirugía al paciente. Se entrega consentimiento informado. Interconsulta Anestesia.
+
+### H. VALGUS + MTT**
+
+AP:
+-Sin interés
+-NAMC
+
+EA:
+Paciente de – años que acude por dolor y deformidad en región del antepie derecho de larga evolución. Afebril. No refiere antecedente traumático. No impotencia funcional.
+
+EF:
+-Pie egipcio / griego
+-Hallux valgus clínico.
+-Dolor sobre bunion. Dolor a la palpación en base de articulación MTF 1º dedo
+-Callosidad a nivel de base de articulaciones MTF 2º, 3º y4º ejes
+-Dedo 2º en garra.
+
+RX:
+Index plus minus
+Ángulo HV: º, ángulo 1º-2ºMTT: º, PASA: ,DASA .
+
+JC:
+Hallux valgus + metatarsalgia pie derecho
+
+PLAN:
+-Zapato cómodo y ancho.
+-Plantillas de descarga metatarsal.
+-Separadores interdigitales de silicona.
+-Se propone cirugía: Corrección hallux valgus: Keller – Brandes
+-Se propone cirugía: Corrección hallux valgus + metatarsalgia: Mc Bride + Weil
+-Se explica la cirugía al paciente. Se entrega consentimiento informado. Interconsulta Anestesia.
+
+<a id="rec-31"></a>
 
-<a id="varios-farmacologia"></a>
-## 📋 3.5. Farmacología y Otros
-
-### <a name="varios-35-1"></a> 3.5.1. Pauta Ascendente de Gabapentina
-
-| Días | Desayuno | Comida | Cena |
-| :--- | :--- | :--- | :--- |
-| 1, 2 y 3 | 0 | 0 | 300 mg |
-| 4, 5 y 6 | 0 | 300 mg | 300 mg |
-| 7, 8 y 9 | 300 mg | 300 mg | 300 mg |
-| 10, 11 y 12| 300 mg | 300 mg | 600 mg |
-| 13, 14 y 15| 300 mg | 600 mg | 600 mg |
-| Posteriores | 600 mg | 600 mg | 600 mg |
-
-*Nota: La tabla es un ejemplo. Las dosis y la pauta de ascenso deben ser individualizadas.*
-
-### <a name="varios-35-2"></a> 3.5.2. Profilaxis Antirrábica
-
-Usted ha sufrido una mordedura de animal susceptible de transmitir la rabia. Ante todo, debe mantener la calma, pues hace muchos años que no se describe ningún caso de rabia humana en España.
-
-Debe seguir las indicaciones dadas en urgencias y ponerse en contacto lo antes posible con:
-
-**Consulta de vacunación antirrábica:**
-- **Centro:** Centro de Diagnóstico Médico
-- **Dirección:** C/ Montesa 22 (edificio A)
-- **Horario:** de 8:30 a 14:30 horas.
-
-**Recuerde:** El animal agresor debe permanecer en observación hasta que le sea comunicada la actitud a seguir por el centro de vacunación antirrábica.
-
-## [RECOMENDACIONES AL ALTA URG](#recomendaciones-al-alta-urg)
-
-## [CÓLICO NEFRÍTICO](#colico-nefritico)
-
-### RECOMENDACIONES PACIENTE CON CÓLICO RENOURETERAL
-
-**¿Qué es un cólico nefrítico?**
-
-Un cólico nefrítico significa que tiene un cálculo (una "piedra") en las vías urinarias. Este cálculo puede tardar desde horas hasta meses en ser eliminado. En un pequeño número de pacientes, es necesario un tratamiento posterior para eliminarlo.
-
-**Formación y expulsión:**
-Los cálculos renales se forman dentro del riñón a partir de sustancias en la orina. Pueden permanecer en el riñón o bajar por los conductos urinarios.
-- Si el cálculo es pequeño, puede eliminarse con la orina sin causar síntomas.
-- Si es más grande, puede quedar atrapado en los uréteres, la vejiga o la uretra, causando dolor.
-
-**Después del cólico:**
-Es normal expulsar arenilla o algún pequeño cálculo con la orina. A veces, la orina puede ser de color rojo.
-
-**Recomendaciones:**
-- **Hidratación:** Beba abundantes líquidos (1,5 - 2 litros al día), al menos la mitad debe ser agua. El resto pueden ser zumos.
-- **Medicación:** Tome la medicación prescrita según le han indicado.
-- **Alivio del dolor:** La aplicación de calor en la zona dolorosa tiene un efecto calmante.
-- **Control:** Controle su temperatura 2 veces al día.
-
-**Síntomas de alarma (acuda a su Médico de Familia o a Urgencias):**
-- El dolor no desaparece con la medicación.
-- Fiebre superior a 38º C.
-- Imposibilidad para orinar.
-
-## [ESTREÑIMIENTO](#estrenimiento)
-
-### INFORMACIÓN PARA PACIENTES SOBRE EL ESTREÑIMIENTO
-
-**¿Qué es el estreñimiento?**
-La frecuencia normal de evacuación varía entre personas (desde tres veces al día hasta tres veces por semana). Se considera estreñimiento cuando la frecuencia disminuye respecto a lo habitual para una persona.
-
-**¿Qué causa el estreñimiento?**
-- No beber suficientes líquidos.
-- Inactividad física o permanecer en la cama.
-- No comer suficiente fibra.
-- Consumo de ciertos medicamentos.
-- Ignorar la necesidad de ir al baño.
-- Uso excesivo de laxantes.
-- Es frecuente durante el embarazo, en personas mayores, en viajes o en situaciones de estrés.
-
-### Consejos para evitar el estreñimiento
-
-1.  **Alimentación:**
-    - Coma diariamente verduras (preferiblemente crudas), fruta con piel, hortalizas y pan integral.
-    - Coma despacio, mastique bien y procure mantener horarios regulares.
-2.  **Hidratación:** Beba al menos 1,5 litros (8 vasos) de líquidos al día.
-3.  **Hábitos intestinales:**
-    - No reprima nunca la necesidad de evacuación.
-    - Acostúmbrese a ir al servicio a la misma hora, sin prisas.
-    - Evite esfuerzos excesivos al evacuar.
-4.  **Actividad física:** Haga ejercicio diariamente (caminar, bicicleta, etc.).
-5.  **Laxantes:** Evite los laxantes irritantes, ya que pueden crear hábito y alterar el intestino.
-
-**¿Cómo se trata?**
-Lo más importante es una dieta rica en fibra, beber suficientes líquidos y aumentar el ejercicio físico.
-
-### Alimentos ricos en fibra
-- **Verduras:** Crudas o cocinadas.
-- **Legumbres:** Garbanzos, lentejas, alubias, habas.
-- **Frutas:** Frescas (mejor con piel) y secas (ciruelas pasas, higos).
-- **Cereales:** Integrales (All-Bran, pan de trigo integral, etc.).
-- **Salvado de trigo.**
-
-**¿Cuándo debo ir al médico?**
-- Si el estreñimiento es nuevo o inusual para usted.
-- Si hay sangre en las heces.
-- Si pierde peso sin estar a dieta.
-- Si el estreñimiento dura más de 3 semanas.
-- Si siente dolor al defecar.
-
-## [GEA (Gastroenteritis Aguda)](#gea)
-
-### RECOMENDACIONES GENERALES GASTROENTERITIS AGUDA
-
-**¿QUÉ ES LA GASTROENTERITIS?**
-Es la inflamación del estómago y el intestino, generalmente de corta duración (2-3 días).
-- **Causas:** Infecciones (virus como Rotavirus, bacterias como Salmonella), tóxicos, alimentos, medicamentos.
-
-**¿QUÉ SÍNTOMAS TIENE?**
-- **Diarrea:** Aumento del número y disminución de la consistencia de las deposiciones.
-- **Vómitos.**
-- **Dolor Abdominal:** Tipo retortijón.
-- **Náuseas, inapetencia, fiebre.**
-- **Malestar general.**
-
-### Recomendaciones dietéticas
-
-**En las primeras horas:**
-- **Reposo digestivo:** No tome alimentos sólidos durante 4-6 horas (niños) o 12 horas (adultos).
-- **Rehidratación:** Beba únicamente soluciones de rehidratación oral (ej. Sueroral Hiposódico, un sobre en 1 litro de agua) en pequeñas cantidades y de forma continua.
-
-**Reintroducción de alimentos:**
-Cuando haya menos de 3-4 deposiciones al día, introduzca gradualmente una dieta sólida en pequeñas cantidades.
-
-**Alimentos permitidos (dieta astringente):**
-- **Sopas:** De arroz, de zanahoria, de pescado.
-- **Purés:** De patata y zanahoria.
-- **Proteínas:** Huevo (pasado por agua, duro o en tortilla), pescado blanco (cocido o a la plancha), carne de ave (cocida o a la plancha, sin piel).
-- **Frutas:** Manzana asada, manzana oxidada (rallada y expuesta al aire), membrillo, plátano maduro.
-- **Pan:** Blanco tostado.
-- **Bebidas:** Infusiones (té, manzanilla) edulcoradas con sacarina.
-- Mantener la rehidratación con Sueroral mientras dure el proceso.
-
-**Alimentos a evitar:**
-- **Lácteos:** Leche y derivados (se puede tolerar yogur natural o queso fresco tras mejoría).
-- **Verduras y frutas crudas:** Especialmente verduras de hoja verde (acelgas, espinacas) durante una semana.
-- **Dulces:** Caramelos, chocolate, pastelería.
-- **Bebidas:** Muy frías, refrescos, aguas con gas.
-
-**Importante:**
-- Consulte a su médico si hay sangre en las heces o fiebre elevada.
-- La diarrea suele resolverse sola en pocos días.
-- **No se automedique** con antidiarreicos, antieméticos o antibióticos sin indicación médica.
-- El riesgo de deshidratación es mayor en niños pequeños.
-- No use soluciones caseras (como limonada alcalina) para la rehidratación.
-
-## [HEMORROIDES](#hemorroides)
-
-### RECOMENDACIONES PACIENTE CON HEMORROIDES
-
-**¿Qué son las hemorroides?**
-Son venas dilatadas (varices) en la zona del ano.
-
-**¿Qué las causa?**
-- Estreñimiento y malos hábitos al defecar (esfuerzos, mucho tiempo en el inodoro).
-- Embarazo (suelen desaparecer tras el parto).
-
-**¿Cuáles son los síntomas?**
-- **Sangrado:** Sangre roja brillante, generalmente escasa, al defecar.
-- **Dolor:** Más común en hemorroides externas.
-- **Prolapso:** Un bulto que sale del ano, a veces con dolor intenso.
-- **Picor y quemazón** en la zona anal.
-
-**¿Cómo se tratan?**
-
-**Durante las crisis:**
-- **Baños de asiento:** Con agua tibia-fresca, 3-4 veces al día durante 10-15 minutos.
-- **Cremas antihemorroidales:** (Synalar, Hemoal, Ruscus) 2 veces al día por un tiempo limitado (máximo 5-7 días).
-- **Analgésicos:** Paracetamol.
-- **Flebotónicos:** (Daflón 500 mg) 1 comprimido cada 12 horas.
-- **Si hay sangrado:** Usar pomadas cicatrizantes (Blastoestimulina) en lugar de las antihemorroidales.
-
-**En la defecación:**
-- No reprima el deseo de ir al baño.
-- Intente tener una deposición diaria, evitando diarreas y esfuerzos.
-- Si las hemorroides se prolapsan, intente reintroducirlas suavemente con el dedo.
-- Para la limpieza, use toallitas húmedas o baños de agua tibia.
-
-**Para prevenir:**
-- **Evitar el estreñimiento:**
-  - Aumente la fibra en su dieta (frutas, verduras, pan integral).
-  - Beba 2-3 litros de líquidos al día.
-  - Realice ejercicio.
-- **Suplementos (si es necesario):** Pruina o Duphalac según indicación.
-- Si no mejora, consulte a su médico de Atención Primaria.
-
-## [LUMBALGIA](#lumbalgia)
-
-### RECOMENDACIONES PACIENTE CON LUMBALGIA
-
-**¿QUÉ ES LA LUMBALGIA?**
-Es el dolor en la parte baja de la espalda. La mayoría son de origen mecánico (postural) por esfuerzos o movimientos bruscos.
-
-**Síntomas:**
-- Dolor en la región lumbar, que puede irradiarse a las piernas (ciática).
-- Contractura muscular que limita la movilidad.
-- Suele desaparecer en unos días.
-
-**Visite a su médico si:**
-- Los síntomas son severos.
-- Aparece fiebre, problemas para controlar esfínteres o debilidad marcada en una pierna.
-- El dolor le impide realizar sus actividades diarias o no mejora en unos días.
-
-**RECOMENDACIONES POSTURALES:**
-
-**Para dormir:**
-- Use un colchón firme.
-- Duerma de lado con las rodillas flexionadas, o boca arriba con un cojín bajo las rodillas.
-
-**Para levantarse de la cama:**
-- Gire de lado, saque las piernas de la cama y use los brazos para incorporarse.
-
-**Para sentarse:**
-- Mantenga los pies en el suelo y las rodillas a la altura de la cadera. Use sillas con respaldo recto.
-
-**Al estar de pie:**
-- Alterne el apoyo de los pies, usando un reposapiés si es posible. Evite giros bruscos de cintura.
-
-**Para coger pesos:**
-- **NUNCA** levante un peso con las rodillas estiradas.
-- Flexione las rodillas, mantenga la espalda recta y el objeto pegado al cuerpo.
-- Evite levantar más de 6-7 kg.
-
-**Trabajos domésticos:**
-- Use utensilios con mangos largos. Siéntese para tareas como planchar o pelar patatas.
-
-**Ejercicio físico:**
-- Evite el sedentarismo. Camine al menos 1 hora al día.
-- La natación y la bicicleta estática son muy beneficiosas.
-
-## [OLA DE CALOR](#ola-de-calor)
-
-### INFORMACIÓN PARA PACIENTES SOBRE LAS OLAS DE CALOR
-
-El calor excesivo puede provocar agotamiento o un golpe de calor, especialmente en ancianos, niños y personas con enfermedades crónicas.
-
-**Agotamiento por calor:**
-- **Síntomas:** Cansancio, dolor de cabeza, náuseas, piel fría, pálida y húmeda.
-- **Causa:** Pérdida de líquidos y sales por el sudor.
-
-**Golpe de calor o insolación:**
-- **Síntomas:** Temperatura corporal elevada (hasta 40ºC), piel seca, roja y caliente, sed intensa, confusión, somnolencia.
-- **¡Es una emergencia médica!** Puede ser mortal.
-
-**¿Cómo actuar?**
-- **Llame al 061 o 112.**
-- Mientras llega la ayuda: coloque a la persona en un lugar fresco, aflójele la ropa, mójale con agua fresca y abaníquele. Si no vomita, dele líquidos.
-
-### Recomendaciones para prevenir los efectos del calor
-
-1.  **En casa:**
-    - Permanezca en las zonas más frescas.
-    - Cierre persianas y cortinas durante el día y abra las ventanas por la noche.
-    - Use ropa ligera y refrésquese con duchas.
-2.  **En la calle:**
-    - Evite salir en las horas de más calor.
-    - Use ropa ligera, sombrero y busque la sombra.
-    - Nunca deje a niños o animales en un coche cerrado.
-3.  **Alimentación:**
-    - Coma ligero (ensaladas, gazpachos, fruta).
-    - Beba agua y líquidos con frecuencia, aunque no tenga sed.
-    - **Evite el alcohol y las bebidas con cafeína o muy azucaradas.**
-4.  **Actividad:**
-    - Evite el ejercicio físico intenso en las horas centrales del día.
-5.  **Cuidado de personas vulnerables:**
-    - Mantenga contacto frecuente con familiares mayores o enfermos que vivan solos.
-
-## [QUEMADURAS](#quemaduras)
-
-### RECOMENDACIONES AL ALTA DEL PACIENTE CON QUEMADURAS
-
-- Siga las indicaciones de su informe de Urgencias y tome la medicación pautada.
-- Realice el seguimiento con su médico de cabecera o en Cirugía Plástica, según le indiquen.
-- Complete la vacunación antitetánica si es necesario.
-- Mantenga la zona quemada en reposo y elevada.
-- Realice ejercicios suaves de movilización.
-- Beba abundantes líquidos y siga una dieta rica en proteínas si las quemaduras son extensas.
-- **Protección solar:** Evite la exposición al sol en la zona afectada durante al menos 2 años. Use siempre crema con factor de protección alto (>15).
-- Hidrate la piel cicatrizada con su crema habitual.
-- Use ropa amplia de tejidos naturales (algodón, lana).
-- Evite golpes o contacto con productos irritantes (detergentes, lejías) en la zona.
-- **Acuda a Urgencias** si aparece cualquier complicación.
-
-## [TCE (Traumatismo Craneoencefálico)](#tce)
-
-### RECOMENDACIONES AL PACIENTE CON TRAUMATISMO CRANEOENCEFÁLICO
-
-**Vigilar durante las próximas 24-48 horas:**
-
-- **Reposo:** Relativo, en un ambiente tranquilo, evitando luces y ruidos intensos.
-- **Observación:** Un familiar debe vigilarle, comprobando cada 2-3 horas que está orientado (preguntar nombre, lugar, fecha) y que habla y mueve las extremidades con normalidad.
-- **Dieta:** Ayuno durante 8 horas. Luego, líquidos y sólidos en pequeñas cantidades. No tomar alcohol ni tranquilizantes.
-- **Dolor de cabeza:** Es normal que tenga un dolor de cabeza leve. Puede tomar el analgésico prescrito.
-- **Hielo:** Aplique hielo en la zona del golpe, de forma indirecta.
-
-**ACUDIR AL SERVICIO DE URGENCIAS SI APARECE ALGUNO DE LOS SÍNTOMAS SIGUIENTES:**
-- Dolor de cabeza intenso que no cede con analgésicos.
-- Vómitos bruscos o persistentes.
-- Somnolencia excesiva o dificultad para despertarle.
-- Desigualdad en el tamaño de las pupilas.
-- Pérdida de conocimiento, confusión o desorientación.
-- Irritabilidad o cambios de comportamiento.
-- Dificultad para hablar.
-- Alteraciones del equilibrio, mareo o visión doble.
-- Pérdida de fuerza en alguna extremidad.
-- Convulsiones.
-- Salida de sangre o líquido claro por el oído o la nariz.
-
-Si tiene que volver a Urgencias, aporte el informe que se le ha entregado.
-
-## [TRAUMATISMO COSTAL](#traumatismo-costal)
-
-### RECOMENDACIONES AL PACIENTE CON TRAUMATISMO COSTAL
-
-Ha sufrido un traumatismo torácico leve. El dolor puede durar de 3 a 4 semanas. Es importante que respire profundo para evitar que se acumulen secreciones y se produzcan infecciones.
-
-**PAUTAS A SEGUIR:**
-
-1.  **Analgésicos:** Tómelos según la pauta indicada.
-2.  **Posturas para disminuir el dolor:**
-    - Duerma incorporado con 2-3 almohadas.
-    - Al toser, sujete la zona afectada con una almohada. **No evite la tos.**
-    - Levántese de la cama despacio, incorporándose de lado.
-3.  **Calor seco:** Aplique 2-3 veces al día durante 10-15 minutos.
-4.  **Líquidos:** Beba 2-3 litros al día para fluidificar secreciones.
-5.  **Ejercicios respiratorios:**
-    - Inspire profundo por la nariz y espire lentamente por la boca (como soplando una vela).
-    - Hinche un globo suavemente.
-    - Realice suspiros frecuentes.
-6.  **Actividad:** Reposo relativo al principio, luego reanude sus actividades según tolerancia.
-7.  **Evitar sujeción:** **NO** utilice fajas ni vendas.
-
-**ATENCIÓN: Acuda a su médico de Atención Primaria si presenta:**
-- Tos persistente.
-- Sensación de ahogo.
-- Fiebre.
-- Dolor que no cede con los calmantes.
-- Secreciones espesas o purulentas.
-
-## [VARICES](#varices)
-
-### RECOMENDACIONES EN PACIENTES CON VARICES
-
-**Ejercicios recomendados (gimnasia en casa):**
-1.  Sentado, póngase de puntillas 20 veces.
-2.  Camine de puntillas unos minutos.
-3.  De pie, póngase de puntillas 20 veces.
-4.  Acostado, flexione las piernas alternativamente hacia el pecho.
-5.  Masajee las piernas con agua fría, desde el pie hasta la rodilla.
-
-**Posición aconsejable:**
-- Al sentarse, apoye las pantorrillas con las piernas ligeramente flexionadas.
-
-**SE DEBE EVITAR:**
-- Vida sedentaria y estar mucho tiempo de pie o sentado.
-- Ropa ceñida, tacones altos.
-- Sobrepeso, alcohol y tabaco.
-- Anticonceptivos orales.
-- Exposición prolongada al sol y baños calientes.
-
-**ES ACONSEJABLE:**
-- Dormir con las piernas ligeramente elevadas.
-- Baños de agua fría en las piernas.
-- Caminar 30 minutos al día.
-- Practicar deportes suaves (natación, ciclismo).
-
-**TERAPIA COMPRESIVA (Medias elásticas):**
-- Reduce el edema y mejora la circulación.
-- La compresión es mayor en el tobillo y menor en el muslo.
-- Deben colocarse por la mañana, antes de levantarse, y quitarse por la noche.
-
-## [VÉRTIGO PERIFÉRICO](#vertigo-periferico)
-
-### RECOMENDACIONES PACIENTE CON VÉRTIGO PERIFÉRICO
-
-**¿Qué es el vértigo?**
-Es una sensación de giro de objetos o falta de estabilidad, acompañada de náuseas, vómitos e inestabilidad. Suele desencadenarse por un movimiento brusco.
-
-**CUIDADOS GENERALES:**
-- **Reposo:** Permanezca tumbado en una habitación tranquila y con poca luz durante la crisis.
-- **Oídos:** Evite que entre agua y no introduzca objetos (bastoncillos).
-- **Catarros:** Si está acatarrado, suénese la nariz con suavidad, sin tapar ambas fosas nasales.
-- **Ruidos:** Evite ambientes con ruidos fuertes.
-- **Medicación:** Tome la medicación prescrita.
-- **Movimiento:** Empiece a moverse poco a poco, evitando movimientos bruscos de cabeza.
-- **Dormir:** Duerma con la cabeza incorporada (30º o con un par de almohadas).
-
-**SÍNTOMAS DE ALARMA (Acuda a Urgencias):**
-- Vértigo con pérdida de conocimiento u hormigueo en extremidades.
-- Dolor de cabeza intenso y persistente.
-
-## [VARIOS](#varios)
-
-<a id="ref-42"></a>
-
-## [PAUTA DE CONTROL GLUCEMIAS](#pauta-de-control-glucemias)
-
--   **< 200 mg/dl:** No administrar insulina rápida.
--   **200-230 mg/dl:** 2 UI.
--   **231-260 mg/dl:** 4 UI.
--   **261-290 mg/dl:** 6 UI.
--   **291-320 mg/dl:** 8 UI.
--   **320-350 mg/dl:** 10 UI.
-
--   **> 350 mg/dl:** Avisar al médico.
-
-## [TABLAS DE REFERENCIA](#tablas-de-referencia)
-
-### [Equivalencias de Corticoides](#equivalencias-corticoides)
-
-![Equivalencias de Corticoides][image2]
-
-### [Valores de LCR](#valores-lcr)
-
-![Valores de LCR][image3]
-
-<a id="ref-44"></a>
-
-## [ECOGRAFÍA EN URGENCIAS](#ecografia-en-urgencias)
-
-### [Abdomen Normal](#eco-abdomen-normal)
-
-Valoración ecográfica del abdomen en Urgencias:
--   **Hígado:** De tamaño normal y bordes lisos, sin alteraciones aparentes de su ecoestructura.
--   **Vía biliar:** Porta permeable de calibre normal. Radicales biliares intra y extrahepáticos de calibre normal. Vesícula biliar de paredes finas y sin ecos en su interior.
--   **Páncreas:** De tamaño y ecoestructura normal.
--   **Bazo:** De tamaño normal y ecogenicidad homogénea.
--   **Riñones:** Ambos de tamaño normal, con buena diferenciación córtico-medular, sin dilatación de vía excretora.
--   **Vejiga:** A media repleción, sin lesiones groseras en su pared.
--   **Pelvis:** Útero con endometrio de aspecto proliferativo. No se observan anejos por interposición de gas.
--   **Grandes vasos:** No alteraciones de aorta abdominal.
--   **Líquido libre:** No se observa líquido libre intraabdominal.
-
-### [Colelitiasis](#eco-colelitiasis)
-
-Valoración ecográfica del abdomen superior:
--   **Hígado:** De tamaño normal y bordes lisos, sin alteraciones aparentes de su ecoestructura.
--   **Vía biliar:** Porta permeable de calibre normal. Radicales biliares intra y extrahepáticos de calibre normal. Vesícula biliar de paredes finas con 2 imágenes hiperecogénicas de 1 cm de diámetro que dejan sombra acústica posterior. Murphy ecográfico negativo.
--   **Páncreas:** De tamaño y ecoestructura normal.
--   **Bazo:** De tamaño normal y ecogenicidad homogénea.
--   **Riñones:** Ambos de tamaño normal, con buena diferenciación córtico-medular, sin dilatación de vía excretora.
--   **Vejiga:** A media repleción, sin lesiones groseras en su pared.
--   **Pelvis:** Útero con aspecto secretor. No se observan anejos por interposición de gas.
--   **Grandes vasos:** No alteraciones de aorta abdominal.
--   **Líquido libre:** No se observa líquido libre intraabdominal.
-
-### [Ecocardiograma (Ejemplo)](#ecocardio-ejemplo)
-
-ETT con nula colaboración del paciente para maniobras de mejora de la ventana. Ritmo de base con múltiples extrasístoles auriculares.
-1.  **Válvula Aórtica:** Calcio en la base de los velos pero apertura adecuada (al menos del velo no coronariano y coronariano derecho). Velocidades máximas no superan 2 m/s (post-extrasístole). No insuficiencia aórtica.
-2.  **Ventrículo Izquierdo (VI):** Dimensiones y espesores en límites. Contractilidad en el seno de ritmo auricular difícil de valorar, en límites bajos (FEVI ~50%). No imágenes intracavitarias. No se puede valorar función diastólica.
-3.  **Aurícula Izquierda (AI):** Dilatación leve (diámetro apical 51 x 53 mm). No imágenes en su interior.
-4.  **Cavidades derechas:** Sin hallazgos reseñables. No insuficiencia tricuspídea.
-5.  **Pericardio:** No derrame pericárdico.
-
-### [Tiroides (BMN)](#eco-tiroides-bmn)
-
-Glándula tiroidea aumentada de tamaño globalmente, sobre todo el lóbulo derecho, con extensión endotorácica. Presenta bordes lisos y bien definidos.
--   **Lóbulo derecho (LTD):** 30 x 26 x 76 mm (T x AP x CC).
--   **Lóbulo izquierdo (LTI):** 45 x 40 x 71 mm (T x AP x CC).
--   **Istmo:** 31 mm de espesor en la región inferior.
-
-Se identifican varias imágenes nodulares de ecoestructura mixta:
--   **LTD:** Las mayores oscilan entre 6 mm y 9x12 mm.
--   **LTI:** Se visualizan 2 en el polo inferior de 43x33x53 mm y otra de 30 mm (esta última casi endotorácica).
-
-**CONCLUSIÓN:** Bocio multinodular (BMN) con nódulo mayor de 53 mm, de ecoestructura mixta, en el LTI.
-
-## [RADIOLOGÍA EN URGENCIAS](#radiologia-en-urgencias)
-
-### [Tórax PA y LAT](#rx-torax)
-
--   Silueta cardiaca sin alteraciones.
--   No hay desviación mediastínica.
--   En parénquima pulmonar no se identifican imágenes de consolidación.
--   Senos costofrénicos libres.
--   Estructuras óseas sin hallazgos reseñables.
-
-### [Columna](#rx-columna)
-
-**AP y lateral de columna:**
--   Adecuada alineación de elementos vertebrales.
--   Espacios articulares respetados.
--   Cuerpos vertebrales mantienen altura y morfología normal.
-
-## [OXIGENOTERAPIA DOMICILIARIA](#oxigenoterapia-domiciliaria)
-
-### [Carburos Metálicos](#o2-carburos-metalicos)
-
--   Se adjunta ficha de prescripción de Oxigenoterapia.
--   Al llegar a su domicilio, llamará a **CARBUROS METÁLICOS** – teléfono **902 365 910**.
-
-### [Oximesa](#o2-oximesa)
-
--   Contactar a través de [email](mailto:contact_oximesa@praxair.com).
--   Teléfono de atención al paciente: **902 21 23 33**.
-
-## [OTROS TRATAMIENTOS](#otros-tratamientos)
 
 ### [Catarro / Faringitis](#tto-catarro-faringitis)
 
