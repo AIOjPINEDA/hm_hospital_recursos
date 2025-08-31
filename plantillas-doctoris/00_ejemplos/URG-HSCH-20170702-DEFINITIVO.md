@@ -60,7 +60,7 @@ EA: Enfermedad Actual
 EF: Exploración Física
 PC: Pruebas Complementarias
 JC: Juicio Clínico
-PLAN/TTO: Plan Terapéutico
+PLAN: Plan Terapéutico
 ```
 
 ---
@@ -747,6 +747,73 @@ Atragantamiento tras ingesta de carne, con disfagia para sólidos y líquidos, y
     - **Analgesia:** METAMIZOL 575 mg y/o PARACETAMOL 1 g.
 3.  **Seguimiento:**
     - Cita preferente en **Cirugía General** en 2-3 días. Acudir a Urgencias si empeora.
+
+
+<a id="dermatologia"></a>
+## 🩹 1.15. Dermatología
+
+### 🩹 1.15.1. Dermatitis Atópica
+
+**MC:** Erupción cutánea en varón/mujer de [edad] años.
+
+**AP:**
+- RAMC: No conocidas.
+- Alergias: Pólenes de olivo y gramíneas.
+- Patologías previas: Dermatitis atópica (DA).
+- Cirugías previas: No refiere.
+
+**EA:**
+El paciente presenta desde hace días un brote de DA en cuello, fosas antecubitales, antebrazos y cara. Ha estado en tratamiento con antihistamínicos H1 sin mejoría. No presenta clínica respiratoria ni otra sintomatología asociada. Cita pendiente en Dermatología.
+
+**EF:**
+- **Constantes:** TA 134/74 mmHg, FC 100 lpm, SatO₂ 97%.
+- **Piel:** Lesiones eritemato-edematosas, liquenificadas y de rascado en cuello, brazos y fosas antecubitales.
+
+**JC:** Brote de Dermatitis Atópica.
+
+**PLAN:**
+1.  **Tratamiento en Urgencias:**
+    - Se administra **Polaramine® IM** y **Urbasón® 60 mg IM**.
+
+2.  **Recomendaciones Generales:**
+    - Evitar ropas ajustadas y fibras sintéticas.
+    - Evitar cambios bruscos de temperatura, humedad, baños frecuentes y ejercicio intenso.
+    - Controlar el estrés emocional y la ansiedad.
+    - Mantener las uñas cortas y limpias.
+    - Evitar alimentos picantes y muy especiados.
+    - Se recomiendan los baños de sol y de mar.
+
+3.  **Tratamiento al Alta:**
+    - **Baños semanales** con **AVENAMIT® coloidal** (½ sobre por baño) durante 15-20 minutos, aplicando un aceite dermatológico (ej. URIAGE®) antes de salir del agua. Secar sin frotar y aplicar crema emoliente (ej. URIAGE®, EUCERIN®, LACTICARE®, Leti AT4®).
+    - **DEFLAZACORT 30 mg** (Zamene®): 2 comprimidos juntos al día durante 3 días, con pauta descendente de ¼ de comprimido cada 2 días hasta suspender.
+    - **EBASTINA 20 mg** (Ebastel Forte Flas®): 1 comprimido al día.
+    - **ELIDEL® CREMA**: Aplicar cada 12 horas durante 10 días.
+    - **EMOLYTAR®**: 1 tapón y medio en la bañera, 3 veces por semana durante 3-4 semanas.
+    - **Cremas Hidratantes:** Xeramance®, Stelatopia®, Dexeryl®.
+
+4.  **Seguimiento:**
+    - Acudir a su cita programada en Dermatología.
+    - Control por su MAP. Acudir a Urgencias si presenta empeoramiento.
+
+### 🩹 1.15.2. Acné Inflamatorio
+
+**MC:** Erupción facial en varón/mujer de [edad] años.
+
+**AP:**
+- RAMC: No conocidas.
+- Cirugías previas: No refiere.
+- Tratamiento habitual: No refiere.
+- Ginecológicos: No hay cambios menstruales, no hirsutismo.
+
+**EA:**
+Desde hace 2 semanas, el paciente presenta lesiones quístico-nodulares en el tercio inferior de la cara y en el cuello, que dejan cicatriz residual. No ha recibido tratamiento previo.
+
+**JC:** Acné inflamatorio.
+
+**PLAN:**
+1.  **Tratamiento Farmacológico:**
+    - **DOXICLAT® 100 mg**: 2 comprimidos al día durante 1 semana, y luego 1 comprimido al día durante 2 meses.
+    - **PEROXIBEN® 10%**: [Especificar pauta].
 
 <a id="endocrinologia"></a>
 ## 💊 1.10. Endocrinología
@@ -1888,9 +1955,11 @@ Debe seguir las indicaciones dadas en urgencias y ponerse en contacto lo antes p
 
 **Recuerde:** El animal agresor debe permanecer en observación hasta que le sea comunicada la actitud a seguir por el centro de vacunación antirrábica.
 
-## [RECOMENDACIONES AL ALTA URG](#recomendaciones-al-alta-urg)
+<a id="recomendaciones-al-alta-urg"></a>
+## RECOMENDACIONES AL ALTA URG
 
-## [CÓLICO NEFRÍTICO](#colico-nefritico)
+<a id="colico-nefritico"></a>
+## CÓLICO NEFRÍTICO
 
 ### RECOMENDACIONES PACIENTE CON CÓLICO RENOURETERAL
 
@@ -2269,13 +2338,16 @@ Es una sensación de giro de objetos o falta de estabilidad, acompañada de náu
 
 -   **> 350 mg/dl:** Avisar al médico.
 
-## [TABLAS DE REFERENCIA](#tablas-de-referencia)
+<a id="tablas-de-referencia"></a>
+## TABLAS DE REFERENCIA
 
-### [Equivalencias de Corticoides](#equivalencias-corticoides)
+<a id="equivalencias-corticoides"></a>
+### Equivalencias de Corticoides
 
 ![Equivalencias de Corticoides][image2]
 
-### [Valores de LCR](#valores-lcr)
+<a id="valores-lcr"></a>
+### Valores de LCR
 
 ![Valores de LCR][image3]
 
