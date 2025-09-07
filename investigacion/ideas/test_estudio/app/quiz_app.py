@@ -82,6 +82,12 @@ def index():
     return render_template("index.html", total=len(QUESTIONS))
 
 
+@app.get("/healthz")
+def healthz():
+    """Lightweight health endpoint for Render and uptime checks."""
+    return "ok", 200
+
+
 def get_question_by_number(num: int):
     # You can optimize by indexing a dict; list scan is fine for 603 items
     for q in QUESTIONS:

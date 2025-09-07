@@ -23,6 +23,7 @@ HOST=0.0.0.0 PORT=8787 \
 ```
 Abrir en el navegador:
 - http://127.0.0.1:8787
+- Salud/health local: http://127.0.0.1:8787/healthz
 
 Variables útiles:
 - `PORT`: puerto (p. ej. 5000, 8787)
@@ -67,6 +68,13 @@ QUIZ_SECRET="cambia-esta-clave" \
   - Cambia `PORT`.
 - Flask no instalado:
   - Instala con el comando de Requisitos.
+
+## Despliegue en Render
+- URL: https://hm-hospital-recursos.onrender.com/
+- Health check: https://hm-hospital-recursos.onrender.com/healthz
+- Root Directory (Blueprint): `investigacion/ideas/test_estudio`
+- Build: `pip install -r app/requirements.txt`
+- Start: `cd app && gunicorn -b 0.0.0.0:$PORT quiz_app:app`
 
 ## Estructura
 - `quiz_app.py`: servidor Flask y APIs (`/api/random`, `/api/question/<n>`, `/api/check`, `/api/reset`).
