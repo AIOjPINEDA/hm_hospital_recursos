@@ -6,7 +6,7 @@ services:
     rootDir: investigacion/ideas/test_estudio/app
     branch: main
     buildCommand: pip install -r requirements.txt
-  startCommand: gunicorn -b 0.0.0.0:$PORT quiz_app:app
+    startCommand: gunicorn -b 0.0.0.0:$PORT quiz_app:app
     envVars:
       - key: PYTHON_VERSION
         value: 3.11

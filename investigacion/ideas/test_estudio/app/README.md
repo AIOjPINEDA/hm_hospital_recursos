@@ -6,7 +6,7 @@ App web mínima para practicar preguntas del banco normalizado.
 - Python 3 (usa el venv del repo)
 - Dependencias: Flask
 - Ficheros necesarios (en `investigacion/ideas/test_estudio/`):
-  - `FEA_Neurocirugia_600_preguntas_normalized.md` (banco)
+  - `FEA_Neurocirugia_600_preguntas_normalized.md` (banco, canónico)
   - `FEA_Neurocirugia_600_preguntas_answer_key.md` (clave)
 
 Instala Flask si hace falta:
@@ -75,6 +75,7 @@ QUIZ_SECRET="cambia-esta-clave" \
 - Root Directory (Blueprint): `investigacion/ideas/test_estudio`
 - Build: `pip install -r app/requirements.txt`
 - Start: `cd app && gunicorn -b 0.0.0.0:$PORT quiz_app:app`
+  - La app usa siempre el banco canónico `FEA_Neurocirugia_600_preguntas_normalized.md`.
 
 ## Estructura
 - `quiz_app.py`: servidor Flask y APIs (`/api/random`, `/api/question/<n>`, `/api/check`, `/api/reset`).
