@@ -20,22 +20,35 @@ def parse_md_questions(md_text: str) -> List[Dict]:
     lines = md_text.splitlines()
     i = 0
     questions: List[Dict] = []
+
+    # Accept question headers in either bolded "**1.**" or plain "1." form
+    header_re = re.compile(r"^(?:\*\*(\d+)\.\*\*|(\d+)\.)\s*$")
+    # Detect start of next question (same patterns as header)
+    next_header_re = header_re
+    # Detect answer options lines like "A) texto"
+    option_re = re.compile(r"^\s*[A-D]\)\s")
+
     while i < len(lines):
-        m = re.match(r"^\*\*(\d+)\.\*\*\s*$", lines[i])
+        m = header_re.match(lines[i])
         if not m:
             i += 1
             continue
-        num = int(m.group(1))
+        num = int(m.group(1) or m.group(2))
         i += 1
+
+        # Collect prompt lines until options begin or next header encountered
         prompt_parts: List[str] = []
-        while i < len(lines) and not re.match(r"^[A-D]\)\s", lines[i]) and not re.match(r"^\*\*\d+\.\*\*\s*$", lines[i]):
+        while i < len(lines) and not option_re.match(lines[i]) and not next_header_re.match(lines[i]):
             if lines[i].strip():
                 prompt_parts.append(lines[i].strip())
             i += 1
         prompt = " ".join(prompt_parts).strip()
+
+        # Collect options A-D (must be four to consider valid)
         options: Dict[str, str] = {}
         for key in ["A", "B", "C", "D"]:
-            if i < len(lines) and re.match(fr"^{key}\)\s", lines[i]):
+            if i < len(lines) and re.match(fr"^\s*{key}\)\s", lines[i]):
+                # Extract text after the first ')'
                 options[key] = lines[i].split(")", 1)[1].strip()
                 i += 1
         if prompt and len(options) == 4:
