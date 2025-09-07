@@ -31,7 +31,16 @@ Thumbs.db
 # Archivos personales sensibles
 documentos-empleo/contratos/
 documentos-empleo/personal/
+investigacion/ideas/test_estudio/app/templates/tab-bar-glassmorphism-effect
 
 # Scripts temporales
 *.sh
 !setup.sh
+
+# Python cache files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
