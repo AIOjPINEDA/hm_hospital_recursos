@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Simulacro FEA Neurocirugía</title>
+    <link rel="icon" href="/static/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="bg"></div>
+    <div class="container">
+      <header class="app-header">
+        <div class="title">
+          <h1>Simulacro FEA Neurocirugía</h1>
+          <p class="subtitle">Banco normalizado · práctica rápida</p>
+        </div>
+        <div class="badges">
+          <span class="badge">QBank</span>
+          <span class="badge badge-alt">Practice</span>
+        </div>
+      </header>
+
+      <div id="meta" class="meta"></div>
+      <div class="mode">
+        <label><input type="radio" name="mode" value="random" checked /> Aleatorio (sin repetir)</label>
+        <label><input type="radio" name="mode" value="manual" /> Manual</label>
+        <input type="number" id="manualNumber" min="1" placeholder="Nº pregunta" />
+        <button id="goManual">Ir</button>
+        <button id="reset">Reiniciar sesión</button>
+      </div>
+
+      <div id="question">
+        <div id="prompt"></div>
+        <div id="options"></div>
+      </div>
+      <div class="actions">
+        <button id="next">Siguiente</button>
+      </div>
+      <div id="result" class="hidden"></div>
+
+      <footer class="app-footer">
+        <p>“Con cariño para mi colega Kevin Armas” — by <strong>JPinedaM</strong></p>
+      </footer>
+    </div>
+
+    <script>
+      let currentNumber = null;
+
+      async function loadRandom() {
+        const res = await fetch('/api/random');
+        const data = await res.json();
+        if (data.done) {
+          document.getElementById('meta').textContent = `Completadas ${data.servedCount} / ${data.total}. ${data.message}`;
+          document.getElementById('prompt').textContent = '';
+          document.getElementById('options').innerHTML = '';
+          return;
+        }
+        currentNumber = data.number;
+        const served = data.servedCount ?? 0;
+        document.getElementById('meta').textContent = `Pregunta ${data.number} · servidas ${served}/${data.total}`;
+        document.getElementById('prompt').textContent = data.prompt;
+        const opts = document.getElementById('options');
+        opts.innerHTML = '';
+        for (const key of ['A','B','C','D']) {
+          const div = document.createElement('div');
+          div.className = 'option';
+          const btn = document.createElement('button');
+          btn.textContent = `${key}) ${data.options[key]}`;
+          btn.onclick = () => checkAnswer(key);
+          div.appendChild(btn);
+          opts.appendChild(div);
+        }
+        const result = document.getElementById('result');
+        result.classList.add('hidden');
+        result.textContent = '';
+      }
+
+      async function loadManual(num) {
+        const res = await fetch(`/api/question/${num}`);
+        const data = await res.json();
+        if (!data.ok) {
+          const result = document.getElementById('result');
+          result.textContent = data.error || 'No se pudo cargar la pregunta.';
+          result.classList.remove('hidden');
+          result.classList.add('wrong');
+          return;
+        }
+        currentNumber = data.number;
+        document.getElementById('meta').textContent = `Pregunta ${data.number} / ${data.total}`;
+        document.getElementById('prompt').textContent = data.prompt;
+        const opts = document.getElementById('options');
+        opts.innerHTML = '';
+        for (const key of ['A','B','C','D']) {
+          const div = document.createElement('div');
+          div.className = 'option';
+          const btn = document.createElement('button');
+          btn.textContent = `${key}) ${data.options[key]}`;
+          btn.onclick = () => checkAnswer(key);
+          div.appendChild(btn);
+          opts.appendChild(div);
+        }
+        const result = document.getElementById('result');
+        result.classList.add('hidden');
+        result.textContent = '';
+      }
+
+      async function checkAnswer(choice) {
+        const res = await fetch('/api/check', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ number: currentNumber, choice })
+        });
+        const data = await res.json();
+        const result = document.getElementById('result');
+        if (!data.ok) {
+          result.textContent = data.error || 'Error al comprobar la respuesta.';
+          result.classList.remove('hidden');
+          result.classList.add('wrong');
+          return;
+        }
+        result.classList.remove('hidden');
+        if (data.correct) {
+          result.innerHTML = '¡Correcto! <span class="emoji">🎉✅</span>';
+          result.classList.remove('wrong');
+          result.classList.add('correct');
+        } else {
+          result.innerHTML = `Incorrecto <span class=\"emoji\">😅❌</span>. Respuesta correcta: <strong>${data.correctAnswer}</strong>`;
+          result.classList.remove('correct');
+          result.classList.add('wrong');
+        }
+      }
+
+      document.getElementById('next').addEventListener('click', () => {
+        const mode = document.querySelector('input[name="mode"]:checked').value;
+        if (mode === 'manual') {
+          const num = parseInt(document.getElementById('manualNumber').value, 10);
+          if (!isNaN(num)) loadManual(num);
+        } else {
+          loadRandom();
+        }
+      });
+
+      document.getElementById('goManual').addEventListener('click', () => {
+        const num = parseInt(document.getElementById('manualNumber').value, 10);
+        if (!isNaN(num)) loadManual(num);
+      });
+
+      document.getElementById('reset').addEventListener('click', async () => {
+        await fetch('/api/reset', { method: 'POST' });
+        loadRandom();
+      });
+
+      loadRandom();
+    </script>
+  </body>
+  </html>

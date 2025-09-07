@@ -1,4 +1,4 @@
-# 📚 MANUAL DE PLANTILLAS CLÍNICAS - URGENCIAS HM HOSPITAL
+# 📚 MANUAL DE PLANTILLAS CLÍNICAS - TRAUMA - URGENCIAS HM HOSPITAL
 
 > **Versión:** 3.0 | **Fecha:** 2025-08-30
 > **Documento reestructurado y optimizado para navegación rápida**
@@ -94,7 +94,7 @@ PLAN: Plan Terapéutico
     - Control por su Médico de Atención Primaria.
     - Acudir a Urgencias si presenta empeoramiento o signos de alarma.
 
-<a id="alergologia"></a>
+
 
 ## 🦴 2. Traumatología
 
@@ -535,8 +535,8 @@ Contusión
 PLAN:
 -Reposo. Frío local. Cabestrillo antiálgico.
 -Mano en alto. Mover dedos.
--DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
--SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+- DEXKETOPROFENO 25 mg: 1 comp v. oral después de desayuno, comida y cena durante 4-5 días
+- Si dolor: PARACETAMOL 1 g: 1 comp tras cada comida.
 -Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
 -OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
 -Si empeoramiento o fiebre, volver a Urgencias.
@@ -566,8 +566,8 @@ PLAN:
 -Reducción cerrada.
 -Reposo. Frío local. Férula braquiopalmar posterior.
 -Mano en alto. Mover dedos.
--DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
--SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
+- DEXKETOPROFENO 25 mg: 1 comp v. oral después de desayuno, comida y cena durante 4-5 días
+- Si dolor: PARACETAMOL 1 g: 1 comp tras cada comida.
 -Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
 -OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
 -Si empeoramiento o fiebre, volver a Urgencias.
@@ -602,7 +602,7 @@ PLAN:
 -Mano en alto. Mover dedos.
 -DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
 -PARACETAMOL 1 GRAMO EFG 1 COMP. / 8 h (alterno, si mucho dolor)
--OMPRAZOL 20 MG EFG 1 COMP./ 24 h SI MOLESTIAS GÁSTRICAS
+-OMEPRAZOL 20 mg EFG. 1 COMP./24 h si molestias gástricas.
 -Control Traumatología área en ±10 días previa citación.
 
 ### Fractura de olécranon
@@ -631,9 +631,9 @@ Fractura de olécranon desplazada.
 PLAN:
 -Inmovilización con férula braquiopalmar.
 -DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
--SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
--Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
--OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+- Si dolor: PARACETAMOL 1 g: 1 comp tras cada comida.
+- Si dolor intenso persistente: 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- OMEPRAZOL 20 mg EFG: 1 comp/24 h si molestias gástricas.
 -Si empeoramiento o fiebre, volver a Urgencias.
 
 -Solicito preoperatorio. Se entrega consentimiento informado.
@@ -691,9 +691,9 @@ PLAN:
 -Reposo deportivo. Frío local.
 -Cincha anti-epicondilitis.
 -DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
--SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
--Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
--OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS.
+- Si dolor: PARACETAMOL 1 g: 1 comp tras cada comida.
+- Si dolor intenso persistente: 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- OMEPRAZOL 20 mg EFG: 1 comp/24 h si molestias gástricas.
 -Si empeoramiento o fiebre, volver a Urgencias.
 -Control por su médico de atención primaria
 <a id="trauma-24"></a>
@@ -730,44 +730,44 @@ Contusión muñeca
 PLAN:
 -Reposo. Frío local. Cabestrillo antiálgico. Vendaje compresivo.
 -Mano en alto. Mover dedos.
--DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
--SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
--Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
--OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
---Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología la próxima semana.
+- DEXKETOPROFENO 25 mg: 1 comp v. oral después de desayuno, comida y cena durante 4-5 días.
+- Si dolor: PARACETAMOL 1 g: 1 comp tras cada comida.
+- Si dolor intenso persistente: 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- OMEPRAZOL 20 mg EFG: 1 comp/24 h si molestias gástricas.
+- Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología la próxima semana.
 
 ### Traumatismo de dedos de la mano
 
-**AP:**
-**-Sin interés**
-**-NAMC**
+AP:
+- Sin interés.
+- NAMC.
 
-**EA:**
-**Paciente de años que acude tras traumatismo por dolor en mano derecha.**
-### No impotencia funcional.
+EA:
+- Paciente de [edad] años que acude tras traumatismo por dolor en mano derecha.
+- No impotencia funcional.
 
-**EF:**
-**-No derrame articular. No otros signos de flogosis.**
-**-No deformidad muñeca.**
-**-Dolor a palpación de base/diáfisis/cabeza º dedo de mano D / I.**
-**-No Dolor a la palpación de estiloides radial.**
-**-No otras eminencias óseas dolorosas.**
-**-Pronosupinación normal (codo-muñeca). Dolor en grados máximos.**
-**-Flexoextensión muñeca normal. Dolor en grados máximos.**
-**-No dolor a la palpación sobre tabaquera anatómica.**
+EF:
+- No derrame articular. Sin otros signos de flogosis.
+- Sin deformidad de muñeca.
+- Dolor a la palpación de base/diáfisis/cabeza del [nº] dedo de mano derecha/izquierda.
+- Sin dolor a la palpación de estiloides radial.
+- Sin otras eminencias óseas dolorosas.
+- Pronosupinación codo-muñeca normal, dolor en grados máximos.
+- Flexoextensión de muñeca normal, dolor en grados máximos.
+- Sin dolor a la palpación sobre tabaquera anatómica.
 
-**RX:**
-### No veo lesión ósea aguda.
+RX:
+- No se observa lesión ósea aguda.
 
-**JC:**
-**Contusión mano**
+JC:
+- Contusión de mano.
 
-**PLAN:**
-**-Reposo + sindactila. Frío local.**
-**-Mano en alto. Mover dedos.**
--DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
--SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
--Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
+PLAN:
+- Reposo + sindactilia. Frío local. Mano en alto. Mover dedos.
+- DEXKETOPROFENO 25 mg: 1 comp v. oral después de desayuno, comida y cena durante 4-5 días.
+- Si dolor: PARACETAMOL 1 g: 1 comp tras cada comida.
+- Si dolor intenso persistente: 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología la próxima semana.
 -OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
 -Si empeoramiento, volver a Urgencias. Control en Consultas de Traumatología la próxima semana.
 
@@ -852,10 +852,10 @@ Contusión. Sospecha fractura escafoides
 PLAN:
 -Férula posterior + corbata escafoides.
 -Reposo. Frío local. Brazo en alto. Mover dedos.
--DEXKETOPROFENO 25MG, 1 COMP. V.ORAL DESPUÉS DE DESAYUNO, COMIDA Y CENA 4-5 DÍAS
--SI DOLOR, PARACETAMOL 1GRAMO 1 COMP. TRAS CADA COMIDA.
--Y SI NO CEDE EL DOLOR O ES MUY INTENSO PUEDE AÑADIR 1 AMP. DE METAMIZOL BEBIDA, MÁXIMO CADA 8 HORAS.
--OMEPRAZOL 20MG EFG. 1 COMP. AL DÍA EN AYUNAS, SI MOLESTIAS GÁSTRICAS.
+- DEXKETOPROFENO 25 mg: 1 comp v. oral después de desayuno, comida y cena durante 4-5 días.
+- Si dolor: PARACETAMOL 1 g: 1 comp tras cada comida.
+- Si dolor intenso persistente: 1 ampolla de METAMIZOL bebida, máximo cada 8 horas.
+- OMEPRAZOL 20 mg EFG: 1 comp/24 h si molestias gástricas.
 -Si empeoramiento o fiebre, volver a Urgencias.
 
 -Control Traumatología ambulatorio en ± 15 días con RX de control (entrego volante) previa citación
@@ -1026,7 +1026,7 @@ AP:
 -NAMC
 -Sin interés
 
-TTo. Habitual:
+Tratamiento habitual:
 -
 SB:
  Camina: Sola / con muletas o bastón / No camina. Vida cama-sillón
@@ -1039,7 +1039,7 @@ Impotencia funcional.
 
 EF:
 TÓRAX:
-AbdomenOMEN:
+Abdomen:
 MMII: Acortamiento y rotación externa. Dolor con los intentos de movilización de la cadera y con las rotaciones de la misma.
 
 EKG:
@@ -1230,7 +1230,7 @@ JC: Contusión rodilla
 PLAN:
 -Reposo. Pierna en alto. NO APOYAR si dolor.
 -Vendaje compresivo. Frío local
--DEXKETOPROFENO 25MG, 1 COMP. V.ORAL / 8 horas 3-5 días
+- DEXKETOPROFENO 25 mg: 1 comp v. oral cada 8 horas durante 3-5 días
 -Paracetamol 1 gramo EFG, 1 comp / 8 h (alterno, si mucho dolor)
 -Omeprazol 20mg EFG, 1 comp / 24h si molestias gástricas.
 -Control en Consultas de Traumatología en ± 15 días
@@ -1846,3 +1846,41 @@ PLAN:
 [image2]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAqUAAAFTCAYAAAAA+3WrAABJb0lEQVR4Xu29sa7sWJqlN09SBdRbSLK60abmAbpLeoAZodoceV2Q5A6yDUGDMaqBkZktS4KQxkBWQo4EpSFBRtppp53uHazM+rJW/rnJHXEOT8S5934fsBAR5ObmJvnz5+Img/wXH0REREREnsy/mANERERERB7Nz6b0f/yf/r1SSimllFIPlaZUKaWUUko9XZpSpZRSSin1dGlKlVJKKaXU06UpVUoppZRST5emVCmllFJKPV2aUqWUUkop9XRpSpVSSiml1NOlKVVKKaWUUk+XplQppZRSSj1dmlKllFJKKfV0aUqVUkoppdTTdYkp/X//v/9fKaWUUkqpnzX94k6aUqWUUkopdbmmX9xJU6qUUkoppS7X9Is7aUqVUkoppdTlmn5xJ02pUkoppZS6XNMv7qQpVUoppZRSl2v6xZ00pUoppZRS6nJNv7iTplQppZRSSl2u6Rd30pQqpZRSSqnLNf3iTppSpZRSSil1uaZf3ElTqpRSSimlLtf0izu9C1P65Zf/y4f//r/7Hz787je//fCv/9V/8+Hf/tsvPvybf/Pf/jju3/27f//j8HzO6T43ZT25Lu5T1lfrv/jP/vMf4+v/+r//n1+V/Rzk/nSdnrkO/6vf/9c/xvIcfqbEfbb9HP5exT77v/5v//uvxn3MyrYjF81xj1KOr6zfxEWOv7PMo5WcjAeY4470kmmmyInvcd8g9v/jf/w/ft5Ws8xbK75jDrtH0y/u9HRTulrRCZLeSZ6Z/F+iLFOCaA6/VWemIeM+V0P1Us3kTxKa5e7Rv/wv/+Wvhj1KnLC9VEexpW5XclbMxRx+q27ZhilzFmczb96i17SZA+Mc/laK0XiN2Xitsu5v2U5HOpuWk+M5/BHKduwckGPtf/gP//Ovyr1EZ/GKzuI6JuxeE5Rpjk5czubVyvqYx4nonv18rtfXKMsz25197+uv/89flX1rZflf42emX9zpqaY0G3yVdLLieydZlflcNQNVnSs79zyQJr5ee+LwMeu1+1MOGlcdxD5G5aQw++HqIHakq9dZ4vol9b2HHrFblfV71UH+FuV49IiDPjnpJdvvCk3zlO9Hpu7RSlvu3QZXxMjqBCj7yhV1v0TJL3Pezzr2x9jPttyj6Rd3epop5az7FmNwT/J/hmYwv6U+poPKe9BRr2h28GcdFJ6t1+xPrM97DxyfkkjS96yHe8reopccvF9qZJ+lrLNHmaVbe9Su0L2x8xZKDnjm/I/0kmPpS6aZWp0APeuKZE6OVjn6Wcf+7Btnvf47Tb+409NMKffVzOFTs1t9dtWTSBJAqTM7GveZUCYrNMk4ynCCrxNRpiW428hk3myQjOfsqevpeWVYJ/6evpNsd4mnTr7ns4OPtvO9E8lcFoZzueE1gfSpKOt/dbDJcNYrscM26O1J7CVRsK5nnbv1ne2ZabgnmOGpjzqJz9V8+wCWeVBH2t37Bt+zHPmeeKUMMTX3J9pG703Gc8KYYZlvX2bMcnd8sk8x/9U6mMvf+81qHlOZZ8pw33k+87svq6XNLG+U72910OXyYi8LSlsZ3+2b+/TRNiQ/UIZlYJumfMrM7b7a1jOue5pWyrNd2fasY3JiD+/f5KTefkcxke+dhzOs81vWZW+zNhsZxzxSpuOs50FM9frK8N4WHENSJ8uT6eb+1/t46ud3tyvT0a5uR29jxh1towxP+9j3mOYtxb44Y6LbQvvZXmkz7c/41NHbvdfZKtfxveO659Pfo96ne521yFu0o2N07kNdf4ax7DMnHsUOMd9tmvtHt23lLdKmnu+cJsqwmVeyDTIP9rcZm8RuPnva3qcznHlmfWUbsU/SnvyeebPb/BJNv7jT00xpFnJuEA7AKMOy8mdy4ntWNgGYDU/wdKLvDZ/hbBAOlGyATJuVT5Cv6iUI5z0vHSDsuPnOgZRxqXd1gEh91JkA6fp7HXUi7oSQOjuhpj1pwwzsz1G9LRHbmG0/DUyvc7ZTxmcd55MYosxufac825T6+sAcZTxtoH3U3fGV732A7X2D5Zz7TCeeHsf+lnl3QuI79c2DMHVx4Ek9JL6Ow56ml5/lPJrHVOK+zUNPT5m0geHZFnObXyWWGfV88r3jiO1E7DD8bBuSO7pMhvXvPgBiapi+t3WG9zo6OrCkbnILcclyENMMZzvOAxhtOIoJYrpz2Dwo9/5DHPK7y0W9blc5dq7jtId1m3pnfPQyz318HitYhixT19PHirn9ui2sk3xnG6VMr5tHiPXPeom6LbQ5y0iOY910+/M51xl18b2PadQ7j7XzWN15r+O6NWMo5WhTb4M5r25H58S5r0VZFxlOvsyy5nfnr5nPOxekrtRBWznxzO9eRtRlur6IbbVaZxHt5PfMqynLfsX+2ft614XS/lU7b9X0izu9K1MaZdgM9E5OvZI5Q2BlTrPISu8kQn357I2HsvLnzsA8Z1CjHtbTEsyzfObfy5TvBGHXxZnRqm6+k4C7/l6Hn7uyLmYyyzom9lY7Yv+e24rk00njbH33Nsy0iVES2jxo9jxJ6B1zq/2h44VYSxlOfjrxzOl730gMsf9woGS99cGFupiG2Mtntwutlp9xR/NoZV5zf8xnG3fqZpnT/pnUr9Jsy8ooTqVt0/AcbUPioMtk/fU27QNgxq22NXFNHcx3to3hLFfa0uu481JvoyPDexQTxHQvd8df1N8xsvyeOY797SjH9vrq8nzvcbP+uY/n+9Gxon/PY0Vvv55f70Nd7iiHvKU4huZ757q0pfdztu80X3P40TbrHMY8OlYow29iPt+neWpNw8S2mvvZnFfUOZZyHBtWscMyZlyG9fL2/nGUCzJsxvvKT6TcjOm0nTZl2ch3s860h2XJ91l/r4OU698Y8jnvjuuXaPrFnZ5mSjmjnsM7+GYi5ECUlZZxrKgE5jyoZYP1mQ11s8E6oKib4eykmU9vjBnUUeqj/t5hM+1cPjZ2mxEOHvk+Dxxdrpexp2llmTnod6B+zprbLOux42AmtQxPLGRbsr0ynp0734mJW9b3HJ7yJFzq7wQccfAmQSYuMq+5P0Qpl3EsD72eXVemSx1z+lkXy5J58j37UJa598m0m/jufWieFEar5c9npjuaR6uTah/Qsg1630x9q+mvEicSnbB7u5FrehrWDdORt+Z6n9uQafje8UqOye+ZQ3tbZzjrJ7+PDixtBOaBvMv3cPLwavsdxQRt63n3MrIumZY2ZfqoczLjjnIs65lhWQ6moe09Dfs7B/3ex6O5TNFc9/NYwbLNcplPb+ee5i3jF2XZ2nD1CVNvjwyL2ogxPft0loNp5jqLMLydF3q79Hol15EXOt46rrt+2sbwlGeauZ+l3Iwh2ju3VeesVezMdsz9ZuaCzgMMI95nXbNclHq7Ptbh9Dcztuf2SPl5cpR1kuk6JrsOfs/4v0fTL+70NFMaZSVlxXVQ9YqMYchvgomdgANjvmcYGyffs9KzwXuHIoHPHYLgy2cfkBmeefdBqDcc6vaxI1Au7ScIKEM5DkK9s9Be2pm6MdepK2InJ3DSPtqbwMHItqH9XJX1y3rIesp6zPaZ24Ik0Dt/vrNee5sST5nulvWdeRJb2ZaYy9RDTPZ8SSz5TNnUy0GZRNpxOOM60/E709D2LMvcn2hDvhNr+d5JMdNwQODgnbowBPQgZdhq/1gtf7532Z7HnJ4DQpR59wGU/T2/2SdSTx8Er1LWD8uK+uCz2iczjO3JOrtlGzI/8lbnpI6dPgjNbZ3vrDviPp9zHadMx0vq63VMrprxehQjRzFBTPe8U0emybQY27SB2Mq0+Z4y5PSsl3mMWOXYDGc7tBGbbWdY7zfMu5epjxX5ZDjf57GC7Te3EfHJvNI21ncv11spy06uynw7b+V7twVzTxyxzKxntgX5i3VGfdmmMyekro5rxme95ne2E+ssdc247rrYlrST9cx8jvYh2s32Iidmvpluxg7rhHrYF5gX+w3DOheQB/KdeOdYxLroZaJc/077Og/me6Znvixj78urelKObUfuynTkB/aRnld0dGy7VdMv7vRUUxplhbOh505JoLIiCX6CqZMNZWdyZ+XPFUtdUSdqdgI2NsMTsDOpRgR018k4dmJ2KoaTdDMt7Y9I/vN3yqdsBxnL1XUQYKt1+bmJeGit1gnrdq5LEmyGtxkhaWXb3rK+2dYRscnBIMM4KJMI2Ob8znfiC7PRCbG/I6YnlknAc3/qfW8eUPs7bUn8U1d+s+xRx3Frtfxn82j1gT+aCbcPrhwAWa+zrteKZej9eA5j/8/ykFM4wLLObt2GXYY4zDDqY/21mettzQGLddHrq5XxxEPHIdOwXXue+TzafkcxMQ+QUaZh3czc2bmd6WcejY5yLHGQZZqxPfdV9vWedxu0s2PFat7R3H75jfHpfYh2rtbP1cq8E3+9jbrd5J5uSxsdlreNK2XnOos6b6I2aZk+9WU61jHT0MYZ16v6Ui7jO17mfnZ0XI+YT76njqPYoW20lXpYbx1XlOn1QbynbYxnvq0ZC/nd8Zn2sVztb7quPhlq9bpiGTM8nyx3r8e0f+V77tH0izs93ZQq9TmL5LFKTmqvJNCZxF2XSqkrNU+6k2NWJ3lXKIb1PeQwTmLm8Hs1/eJOmlKlniQu86A5Xt2m7t2YPQZKKXWFyDF2Ityn6Rd30pQqpZRSSqnLNf3iTppSpZRSSil1uaZf3ElTqpRSSimlLtf0iztpSpVSSiml1OWafnEnTalSSimllLpc0y/upClVSimllFKXa/rFnTSlSimllFLqck2/uJOmVCmllFJKXa7pF3fSlCqllFJKqcs1/eJOmlKllFJKKXW5pl/cSVOqlFJKKaUu1/SLO11iSpVSSimllHqNNKVKKaWUUurp0pQqpZRSSqmnS1OqlFJKKaWeLk2pUkoppZR6ujSlSimllFLq6dKUKqWUUkqpp0tTqpRSSimlni5NqVJKKaWUero0pUoppZRS6unSlCqllFJKqadLU6qUUkoppZ6uS0ypiIiIiEgz/eJOoCkVERERkcuYfnEn0JSKiIiIyGVMv7gTaEpFRERE5DKmX9wJNKUiIiIichnTL+4EmlIRERERuYzpF3cCTemf+eGHHz78/R/+8OFv/uqv5ygRERERuZHpF3cCTemfiSH93W9+++Hrr7+eo0RERETkRqZf3Ak0pR9+6iUVERERkdcz/eJO8HRTmh7KM/7pT3/6sQczyvdvv/32w/fff/+LMvlNme7tTPk//sMffzEuvyFm9Kuvvvrxkj3j8xtSD8P/+csvfx4eqHe2pUldv//bv/uxXD7zO22aZeil7WUM+ey2t9IeyoW5nFNdNmjERURE5C2YfnEneKopxXCuDFJMV8ZN05ff3Pf5zTff/Gy6JjF6GNA2Z4CRXZnEWd9q+jCnhaO6A3VkmWNUowYj2iaY9YTZpo3dnjbbjMOIZtw0pZlvTyMiIiJyBdMv7gRPM6UxZfRQdu9k6J7PFTGjgV7IVbnU8Y9ffPHj95WppGfxu++++3lYSLtmfd0L2SZ5ZToDJpJ2NvQMYyznsgd6TmGa0u5BhTaxjMOIph3TlFJmLr+IiIjIa5h+cSd4mimNoYwBxPA1bQLPoMyROQTKUR89rLOXEjJumkV6aDMOs7uaL4bxqO7Qpnv2BIfZWztNad8SsIK6pxGFzBPznWVa9VSLiIiIvITpF3eCp5lSjB0GsXlrU8q9omembprS0LcLpGdyNd+3NKWts0vvlDkypSwb5VbLKiIiIvISpl/cCZ5mStswTXP21qb0JT2l0HWt5vuWpjRmmnFn9VP3kSllWsqd1SUiIiJyD9Mv7gRPMaXT8MUY9WXk1T2TK7icvnvgPXV1fffcUzrhns+VKQ3UfWQKw2vuKWVZjpab8av595+ezv4oJiIiIvISpl/cCZ5iSmfPXC7lT4PGv+9XxopyZ6Yq02EaKdPljv4hP3spV/DP+TktUPfqEjvTHP37PiY50579+74fIbWCcXPdpV1zfhj7WVZERETkJUy/uBM83JTGbM0ePgxohvfl7JjVDONf7DFOGdbmddXjmPq4ZzWsTGmY//7nXtN+q1PM4+xNDRl2ZErD/FNUyHx6+TCvKZP5ZPn4E1NDzyvt7J7k2TZ6euc6Cf2YrB6WsrvnxYqIiIjcwvSLO8HDTamIiIiIfLpMv7gTaEpFRERE5DKmX9wJNKUiIiIichnTL+4EmlIRERERuYzpF3cCTamIiIiIXMb0izuBplRERERELmP6xZ3goaaURz8hHpfUw3gcUh5RdPSYojwGqZ/j+UyO2ijyCI7e8JXHmvF4sX7EmcgOHmd3lGP7kXRHZVbkcXR5ZF00HwsocjU84rG9xhEpiz9p+u2Luzrkl0y/uBM81JRCv70JstHnczWPeE+mVORZxHTmGb5JnDng93Nz+3m0GT5Nq8gZ3UHQJNaSv19iKlPfzPsib0HyX+fAmM5d7PESnzkscPK/ei24rJl+cSfQlN5J2jgfWC/yDHipREiyJIGmJ6t7R3nzmW/tklvhhR2T5N2c5GhK5T2T+O0T8VuuFq1MaZO499h/O9Mv7gSa0jtJOw1MeY/QU5r9qA0or669df8SSX7NgX0ezJO7E1uaUnnPcOkebrnNbmdK5xsZ5ZzpF3eCp5lSLg+1OGjym8SXRJagIqElWfb9qTkjyjDKzFeMQsoQVCnL9+79zGfm2/XznR4nynYbqTOkDfRirdqzehVoPvsAkGm4VHb2OlOR0Cdp+d4nTsSb90TJrRBP5L3A7SLzntDOe52nO6eROzv3QV9mvcU8iNwKsTZPrlacmdLErbdA3cf0izvB00zpPGNugxaSnEh88wbk7ilNmQ6WGLiuG/PJPSGQIE093Mjc8HtOw7g+4K+ScyCRH7Un9LRHvb8pY6KWM9Jz1Qf2I1PqyY3cSptSTmbafHbu4sDfBmCWoVyGE48rMq95bBB5CcmJyYP84XPHmSlNXd7+dB/TL+4EH4Up7e9hmtI2bdPApc4YxKOA4wy+YV73mlKCvw/+R+0JR8sE3Nc16xBp+FczdM9/4MTLy/dyK+QiclriifiZhnOVn1Z59cyUxsiSo+exQeReEr/EKL2cHXvRPN4eeYTEvbnzfqZf3Ak+ClM6b7o/M6UZ3vXke+bVl+BhdSkqvNSUNvTeHrUnHJnSPgDM5RNp+pI8VwTm8Azz0pPcAyfW5MfOgzNnzpyYeOOxUc2RKe3YtKdUriAx1THanUFHrEzp7B3t47ecM/3iTvBwU0pC6yQW5plLm1ISXN8DSvBM00b9szeykyuC1NeXP0mSR6Y0dXOPSgf+6pE8R+2Z39uUpiz/9EsZzvJEmsRIx3NEEs33jtFb7qkSgc453esUyMfEGr2pM68mB3KShBGN2pTO79ze5B9K5DX0sZu42pEy83g/PUP7BDln+sWd4KGmlN5KRG9OD5vCvHI5KAkwAUfQoe6N7IN1H4y5jBnNrnsCMiKI+T2NJPOb7ez5dlKd7ekEzTC+9zrJcNaZyKRjKOoep+wvmAUNqdxDH4hDcht5id4klPyU8fye9y13XuNEm2HkVXIpvVkYU5HX0MfovnK0omO6DWwPj8yltzP94k7wUFMqIiIiIp820y/uBJpSEREREbmM6Rd3Ak2piIiIiFzG9Is7gaZURERERC5j+sWdQFMqIiIiIpcx/eJOoCkVERERkcuYfnEn0JSKiIiIyGVMv7gTaEpFRERE5DKmX9wJNKUiIiIichnTL+4EmlIRERERuYzpF3cCTamIiIiIXMb0izuBplRERERELmP6xZ1AUyoiIiIilzH94k6gKRURERGRy5h+cSfQlIqIiIjIZUy/uBNoSkVERETkMqZf3Ak0pX/mhx9++PD3f/jDh7/5q7+eo0RERETkRqZf3Ak0pR9+MqT//OWXc7CIiIiI3Mn0izuBpvTDT6ZURERERF7P9Is7wdNNaS6Zn/FPf/rTh9/95rc/Kt+//fbbD99///0vyuQ3ZaKvv/7652n/+A9//MW4/IaY0a+++urHS/aMz29IPQyfPanUO9sy50d7juqZZY+UerPsc3iL5Z7D5/gw2zmZ6zTrZdbXSvlezjktrJYhwybZdiIiIvLxMf3iTvBUU4rhXPVUxrxhdpr85r7Pb7755mdjM4nZxYC2AQJM1zQ/mK9mNX2Y0zar8r//27/7cdh3333387AYMurp+lKuDXR/p+42mYHfbQ4h82QY6zvzw5BPMj/WRW8D6lhtF8j4NprMI8sP1N2GFdg2q3EiIiLyvpl+cSd4mimNMcKsTPPRvXQrYkYDJm9VLnX84xdf/PidMl2OnsI2iCHtmvV1r2Kbr5ea0iw39bQpZblCyrUR7R5W6r7HlIa5DJkv5n8a5WyTq0wp8+j2nJlSxvmnMxERkY+P6Rd3gqeZ0hgPzEr3oIWViVlBmd0tAJSjPoznUf0Z3gYx5TGUmVf3NB6xqj91zHralDYp06a0oW5M6LwlYGVK6Slto5f5MrzryPCYzJ0p5faHSca3KV31aJ+Z0j7ZmMZbRERE3jfTL+4ETzOl9GJiWJrumTyDMitT11CO+jBt0wzDkVlqcxUTdzbfVfuZX7fnNaYUzXJH93bO3k3mi0HESGIEz0wpWq2nrit0zzd1HZnSLEuMckw704iIiMjHw/SLO8FTTGn3VKLuqbu3p3SasknPJ9zbU9rEyDHtykzCqv42wbt6zpaL6W7tKc0JQL5zIgA934xPL2qbyTNTek9Paf+5CVamtLd7a3XPsYiIiLxPpl/cCZ5iSqeRwRBhPlYmZgX3pO7uPWyDA/fcUzqhF29lJmHOL8ye2bN6MvxWUwqpJ+2fprR7KtssTlMarf6MdGRKmza8cz7U0+tjZUoz7zagmNQZLyIiIvJ+mX5xJ3iKKZ3mjJ68Va9Zmxug3OpeRejL4pTpchi1aQgxS2dwj+mctpnzC3O5McCrejL8XlNK/dOUhtX9uz1fDH7fn3uPKZ0Gt7cb94iuDG9v87ke+j5Ye0tFREQ+DqZf3Akeakq7x6xNC8OmkQp9mTvmdWVSuycwarPW96dGbfS4/Hz0nNJu7zRMYTVszo86j+qJsZ7DVtOH7kFeiXJzOOush/V6zXQYfMzfrKOXYaXM4+he1l6nq2XoYWyfVV1dj4iIiLxPpl/cCR5qSkVERETk02b6xZ1AUyoiIiIilzH94k6gKRURERGRy5h+cSfQlIqIiIjIZUy/uBNoSkVERETkMqZf3Ak0pSIiIiJyGdMv7gQPNaVHb+yZbyTawfM984igTDuf/ynyucCzXM8el9X72ny2rcgZR2/Xm2/lOyNlU898UYnI1RCvq+daE6tHz/+GfkzkKl8Sz3lE5Wo+8hPTL+4EDzWlsHoYegJgPq9zBc8kBYJQ5HMjcX/0OlxYPddX5F7yUo3k7fnSjLOToUZTKo+AF/G0v0iOxIjmezqxVmYzrHzJ/H1vJ9rnyvSLO8G7MaW89Wd3EOWh6vBeTWmW49aELXIvXCXYccuJnsgOXoncb3wLt+Y4Tak8gpUpTez173iIW+O2e1UTvzP+5ZjpF3eCd2NKMZts9PzGqBJA/eYljOg0pf3mId7H3tOgnDH1PBJ83QvA8K57Dqd86sm8aMt8+5HIlbCv8Pawo8tI8+1ZJlR5KYmdxBj5D+Zb5LisOXNfm9JVjha5gpUpnRz1kkKmJbdya2C/lpzY9STrnOkXd4J3Y0p5zWWSHyYvkMDoFeI3tCnlIBy6R7XPigiskHYwn3xneMpzWTT1E8QZTiDmM9PQbtqYIG5zKnI180Qs38/ukyIuexqRe+CEhrzXOTGQB8nTM0bblJIbydE7kyByK7eY0ltPzvtWwfkabm4DOJvP5870izvBuzOlObh2byTijOXMlDb8AaThTH/OO6RNBGtPl8DMPOe9rIHfq3nlt6ZU3oIZ8yTiHdm3drfHiKzoA3lMJPeXvsSUAnmTaURey86UJl7vOS4T58R34zH+nOkXd4J3Y0oxokeJikvlO1Oa31H3moZ5LyrD6CE9MqWwCspMEzSl8khmLM/fR2Sf05TKS5i9S1zeJAfeY0rzPdORo2euF3kpZ6b07GrSEVxJPeqU8hh/zPSLO8G7MaXZwH1ZvZNVEh5J8cyU9rg2igmoNp3QQTVNaQdbvqe9JGDQlMqz6MegcZDfsfunvsgRHW8h+ZA/P4V7TGmG5/tRB4TISzkypfndw27NhR338/7nzMeT/GOmX9wJHm5KMXf9p6KcwfQGx1y22PhnpnRlUDOfJM+eZz4p20aYACTZIoI5dfbZFuWPTGnmMR+hInIF/FEvJHY5AaIHi+GcaHEPlMi9zKtOwMk+31Mm8Zd8SA4lLpMLyeEZntglR/uECLkK4m6a0nlMPzqJT4z2n577eJ9hxGrqnyZVfsn0izvBw02piLwt8949ERGRRzL94k6gKRX5hOhbXURERJ7B9Is7gaZU5BPCXlIREXk20y/uBJpSEREREbmM6Rd3Ak2piIiIiFzG9Is7wUNN6epf9fwT8zXkkuUtjxXJ/Xa3PgpC5GNjvlbUfzXLFRzl7VufLtL/0hd5S3iqzvz3fSBud88rTbzzWMqVN0ndmc/R653lJ6Zf3AkeakqhH02zeij9Pczn452hKZVPmX4vc+Qz9ORKElPcs4xRvcVsakrlEbSZnGaRR+WhOb7BiK4emM+LSnwc1J7pF3eCp5jS+e/g/H6NWby1p1TkU8aXNchb0qY03PomMZFHsXp4frxB/+YZubfQvao8f1duY/rFnUBTKvKJkGScfcl9Qd6CaUrni0xEns3KlM5bTBLDq8vyk1kmBvU1PuVzY/rFneBdmNJ0uSeIEgQJKu4LSdLLsFzu5zekPF3xGc6BmDc4cVbTZzop13XQ1T/vMWF+aQsBnelSjrZxOYo3O3RbRJ4BMRiZPOVq2pQmL/cbw87yIHkdKOMlULmalSmdTLM5ybRc7udWQy7l9y1SPn7vnOkXd4KnmdLVAfTodZ0tgqTLzZ7Svn+py2U+JMsE2QzOeQ9J3+86ewVWNzlTRkMgzyZx6AmSXEkfiJNvk2dX94rOPEgHwiTD7NWXK9mZ0tkxtSPxHV+w+u+LOfac6Rd3gqeZ0hXTlOb3kcHrZPgSU8q4tIVhq8Cjrp0ppe2aUnkP5OTNnii5kjalYXVP6SoPTlOa31xx0pTKlZyZ0vzxs3MiMYhW06TH9MyUGr/HTL+4E7x7Uzo3egIkwXOFKc10BDHjZ+DtTCld/ZjbTsYiz6JPtkSuILmtTSn5epcHpylNTtWUyltwZkrnbXq3gImdV1FDfptjj5l+cSd4iilNL84qaKYpDfnd4jE3+d73e+Y3AXSLKc38SbCpk3oznuBNfdwucGRKk4Tp4meHmLcFiLw1iVliO7FospSr6fzb9/qHszzYpjQmlOEZlnv05h9RRF4KtwZOfzFvGVzddhIS3/SOhjayGcazn1O/V6LOmX5xJ3ioKcXYoT5Lnl3pGMaepnsg6dVMYkyZiOSH+pliJEp+YyhXAcpwynXb8r0DPO3I9LT56D4rkbeEWI9e0iMgcsTM2x1nGMyzPNimlB4nelXz3RMouYIZp1yR7WM/OnqxSHuIfp468Aco4lmOmX5xJ3ioKRURkc+L1RUwEfm0mX5xJ9CUiojI5cSMpvdqda++iHzaTL+4E2hKRUREROQypl/cCTSlIiIiInIZ0y/uBJpSEREREbmM6Rd3gqeY0v5X22vvN2L6W553l7IveYZo//te5L3Sr8CLeHyPyBUkpuZTUW550kj+cX9LOZHXkJjkCRDzkVD9r/nV+IYnSqyeTdpP9JFzpl/cCZ5iSufD83m+3UuZD89/C+YDoEXeG3O/ErmSNqWBk3WR98Lq4fnpiOIxefmeTrGjZ4lPszrjO7/f2mt8Kky/uBO8C1Oa3y/pwQRNqchPPQUib8U0pavXjIo8k5UpjTfo34nbW3NlP/M5sT+9ixwz/eJO8C5MaXpKEzQJlgQVZ+AJnH5zSAdSP+Q2wzGl6XFN/QRQBxUP2Qe6+ufDxplf2kIP7sqUckkgn5jqfGa6tJv6G9ps979cDbEVveYkT2RF4gpTSn4jlyc/9kPKO8+S18EcKG/FypROjnpJIdNybOdWQy7l9y1SfYImv2b6xZ3g6aaUBytzb2gUg5lgyOdMZpjP1EHgJYA4G0qZJEuSYn4HgpXhmODQQZrxaVOUNqzeShJyv17KdgD3MmAK+pVlTEMPw27nELmXxFdijhM9kasgt6HO49xjmrzJgTt5b96PTw6kPnOgXMktpnR2ih3R95RybKdebgM4m8/nzvSLO8HTTGknNwzc6s0fMxFy5tLl5uX7vqm+y2U+JMQE3EyI88ZmAjFMU9p/1so45jmXIfObvVaUeetbDuTzJfHVvVUiryUxRe9Qcle/SrTBoJL3Zu4Ec6Bczc6UzqulO/i/S3sBMMeeM/3iTvA0U7piGrppNkMCpE1gmOVuMaUh0xHEjJ+Bt+opXSXZ1JPhcxmmKU196S0wIctbkn3MhClX0qY0kOuS97hiRNydmdLkQHpQzYFyJWemdN6mdwtcqZ0dVkFTes70izvBU0zpUbf3NHQhv1s85ibfuSxOEiSAbjGlGMiQOqk34wne1EeP6EysmRZzzfwZ3uXalCYBc5N1yuQyl8gVJGaJ7ewXJku5ms6/fa9/SC6kVwljwJWozp3kwEAOfM2TV0QarsJOfzGvzq56+EPiu2+5ayObYRyzU7/3RJ8z/eJO8FBTihlDfZbc9x5FGMaepnsc6dVMYkyZiOSHuHczwUOi5HfKEqgzQBlOuW5Dl+0/OqW9tClKHb1MqYOzLQxtvotcAbFOPIpcxczbHWcYzOS+5EbyW1/ab1NKDqRXldwo8lpmnNJp1Md+dNQh1B6ib9EDjvnEsxwz/eJO8FBTKiIinxfzKpOIfPpMv7gTaEpFRORy0mPK7UuaUpHPi+kXdwJNqYiIXA49pLmMP590IiKfNtMv7gSaUhERERG5jOkXdwJNqYiIiIhcxvSLO4GmVEREREQuY/rFneDhpjSPBOHhyROe8fmSR9qkTp5NxiMb3uJRI/28sx289eQlvFX75dMncbPav0ReQnI2j96b5NE6/UD9ST9i56ycyGtJfPJYsvmc0n6U02p8w/3PqwfmJ4azL7zEo3xuTL+4EzzclAYetDxJgsvwVfK7B/7t+dp6jui3QL0V8+1TIrfA83c1pXIlPHN5/mHpVqOZ6W8tK/JSVm90yrEUE5nvMZUzjmGa1Xmcjz/RkN7G9Is7wdNM6TSNCYZs8BjTW8zYDJ5GUyqfK9l/knA1pXIlmFLe2gS3Gk1NqTyClSlN7PVv3qp4C9OA9hVZOWf6xZ3gaaYUY8pbmnL2kqSVAOqA6dfZ9XC64Qm41EfSa1PKpacMSxm+h4znbUwpz/T5Ps+maEfKtynNd16d121MmzKct0qEjJvL0W+b6OHTlPbbodpwsAwsc/dAs1wsj3zaJA4Sd+xHIldBPHEZFDpnkps6p0GbUvJg5Ksa5UpWpnRy1EsKmZY47+NmvnM1N+N29XzuTL+4EzzNlIZ+dzJGcZpSktc0V53w+L0ypYwjSNs8khwJrjZxiCDs15K1Kc0niZX6elkol3lgGGlX6uydB6MeI92mNNNSZ6Bezvh6WXk16uRouHwa9LbVlMrVdDxxr13yz8y5lOvcx+/ZU0q+NVblKnamlOP+rXBlIPV1PIf8nj2p8hemX9wJnmpKMVTffvvtz+PalCZptRlrVgEyE+TKlJIIE7zTRPJ70nWFl5jSkADuIO5e1NDTtymdCT3rK+VYV92+aT5z4NjtqPLx0ydNmlK5mhlPySedd+41pclFdErMukVeytmxLsfN7pknZtHKa+R4fWRKY1jnMVz+wvSLO8FTTWmYNw5PUzoT1lGA5Pc9prQN3ZkpxQBeYUpDlhUDMQP6zJS2cV8tw8qUplzmhzFd7ajy8cP+sNLcf0Rewowj8g5Xf+4xpfme6frkWuQKzkzpS3o128TOW+D8F/450y/uBA83pSQiSPB0Upq9ifMgizmbl8J73MqU8r1N8DSRgXtJogRd2sewlM9vLrN3r+uqvk7MGcZ8aXvqynfK5zvtbFMaehky/7kM05S2cafNMfT9JwX5NFmdzIm8FHo1V3BizSX95KXEHzlydWKd4X3rUffyi7wG4m6aUoaj/u9FkxildzRM05nf1H20T8hPTL+4EzzUlJKE2siFJDEMXisbv6dp85hERvBw4zFJsOsI+cQgdgKc5QJmrgMzcAaWzyj1dPf/Kuj5njalLG2Yy0G5vnGaYW14qXOa1VUbsj7bsGaeGFP5tNGUylV0jlsdyDufdL6JyF0zF/ZJPd9FXss89nPCxLG7dXQi1FedVqazj9ceS8+ZfnEneKgpfRYJoHnmJCIiIiLXM/3iTqApFREREZHLmH5xJ/jkTWlfOupbBkRERETkeqZf3Ak+eVMqIiIiIo9j+sWdQFMqIiIiIpcx/eJO8FBTOv8dN3V032f+RTef6Xk1PJ7pNf9a5vl7Is/mNXEsAv3v+0k/7eOM5NZ+TqnIW8BjyXa36t3jJWZZXvhw5lfkJ6Zf3Akebkph9YzPj30jJ4A1pfJMeCatplSuhMfZzfd932o0NaXyliS+5vPC58kSuXEOPyL1tSmdzyzVmJ4z/eJO8FBT2kxT+imgKZVnk+foxThoSuVKMKXJb/18xluNpqZU3pLpI3ie6ByW3DiHr+DlDmem1GP9OdMv7gTvzpQSDCRBHgTeD7LlTKinTRneJpJxPCieS/+dSKk7dfIg+8w3QUudqYsH3vdblwJvZ0odPXya0syTB/dmXvQUp86Upa0d7GkHlwh8OK/cA28b8eH5cjXEE3kPMJoZFtFjxW9oU9o9WTP/i1xBH8uB3NhxuSLT8vaxefkebzHrll8z/eJO8K5MKfcvxZRhRElemL1+TWk+uZxEmUxHGYxsvvMGhyRV3tZEV/68FwXTSrnUQ13Uze0G3YY2pRmXaVg+ztyYJuV480nXkeGZJvM9euuEyApiSFMqV0M8cQmU3ITRJHdTjhwKbUrJn/RazVsCRF4Dx96+tE6H0K2mFKYpxTPs6pD7PSW8K1PK8GnGZg8kdBKcZfKdgMp3eiMzDcmRpJjfmEXaQ+IMnPkT7B2oqRvD2m3IMuR77xj02GY45VgPKxMxdwiRIzrONKVyNR1PnMQnf77ElMJZ7hN5KTnW09MZkhs5rt9iSucxu4knSB195VPWTL+4E7xLUzqT1DScGU/Su9WU8j3T9CV3uNWU5rMvt/e4bsNsT0h9mfeZKU2iz7gMnzuEyAricqW5L4m8hBlHXOEhj91jSvM903HVadYt8lJmLJ3lxhXdE4o4DvcthCHjVl5CfmL6xZ3gozOlJMPQCW2awDNT2veSZvp8v9WUErQk2BhU6u42kJT7bIpL/kemlO9MoymVl7Dah0Rew7x6FciL4R5TSv6cJ+Qir6F7R6F7PcMtPaVNH4M1pfcx/eJO8DRTylnyNF6rA+rK7IV8Jllyf+gtpjTfMx2i13P2grY5bFOa9k2T2zdF04bZc8p04ciUktizTBnOTjB3LJEzVvuQyEtJ/pkHZCAPckmfP5ty8k4OTTySJzOcP7SS70ReA7fF9bE9mrzGlCZeiVWO73LM9Is7wdNMqYiIiIh8eky/uBNoSkVERETkMqZf3Ak0pSIiIiJyGdMv7gSaUhERERG5jOkXdwJNqYiIiIhcxvSLO4GmVEREREQuY/rFnUBTKiIiIiKXMf3iTqApFREREZHLmH5xJ9CUioiIiMhlTL+4E2hKRUREROQypl/cCTSlIiIiInIZ0y/uBJpSEREREbmM6Rd3Ak2piIiIiFzG9Is7gaZURERERC5j+sWdQFMqIiIiIpcx/eJOoCkVERERkcuYfnEn0JSKiIiIyGVMv7gTaEr/zA8//PDh7//whw9/81d/PUeJiIiIyI1Mv7gTaEr/TAzp737z2w9ff/31HCUiIiIiNzL94k6gKf3wUy/pP3/55RwsIiIiIncy/eJO8HRTmh7KM/7pT3/6sQczyvdvv/32w/fff/+LMvlNme7tTPk//sMffzEuvyFm9Kuvvvrxkj3j8xtSD8OnaaXe2ZY5v9n21D/HRWnDrCt88803H/7xiy9+LtftD7Oe6Ijvvvvux+WgXC9r6HWd+TarujM9Pcxpf35nna6WI8x1GOa267Yd1ZN5/P5v/24OFhERkXfA9Is7wVNNaUzaNDpNTEzMR8qFNpAQ85Tffdkdo4SBa7PTUBfmDBPadbVRmyZuGkSgHowT7WH+bYID62EaU8woxj3j8j2KMQOM7lF7gHlgOPkdsxq4r5a2MTxkPfTyYybTxkwXsa5WZjLjj+7XZTkzfUhZ2jDNcWB5V+NERETkuUy/uBM81ZRiYtpgAT160+DkN+YGQxpNYq7OTCmmCiMEGJ5mNX2Y0wImE1PavaMhw2d9GLPuTaRMrwMMW/cwY4KP2hNoQxtuenXbLHbPZfdGZvpp/Fe9lUc9nLSRE4yGtrXpnUa+Yf3tTLiIiIg8nukXd4KnmdIYEIznNDd9ifkMyuxuAaAc9XVP3IoM7144LhczL0z0kQmcppTfzO/MlGLM5u9mLvfOlB71pPZ6YJliKNNDynDqbFOKYVwZzBWpL8vDck/TujKl3bbusQ23xoeIiIg8nukXd4KnmdIYlBgPeuuavi/zjGmcjqAc9dHDOs0wTIMU6KHNuBiscDTfaUp3PaUr00iZ1dMA5vLsTCk90qvx1IPBxDB2L3TahyltszjN5RGZb+pbmc9wNJz13ScImSe3AmTcqpddREREnsf0izvB00wpxg7z07y1KZ33fE5WBim0UUtv3dF8pymdJrR/z7bBs01pmH+Kynz68v6tppT1gKGNoWwzeWRKV+uAMrRtTiMiIiLPZfrFneApprR721DfS3nr5VnKzMvSk55PuPfyfYPBi1YmL0xTOmlT2pfK+zL1My/fN31vJ+Zw1YMZMO2zHUzf6lsujkzpbFsPa812iIiIyPOYfnEneIopnWZtZcAwpqv7Fil39kenTIc5agMD9/zRacI9pnNauMeUhr41oHsFKfPSPzpxqTuwXF0/633+0WmCcWZaln/2eLJOezvONtGOXscrU9rmH1Zto8wqTkREROTxTL+4EzzclMZszkcDYUBXj0TqRxjFeGRYm5eVoUl93B4QMC5tcAJGkGkxd23cYrrmH21Chk3DBdQzTRsw35Uxi9ljmtUjodLbOR8JxfrrntDUN9czbWJ98ruXL+t41ea5XjCgaQvTswzUv7o1o08kKHf0SKi0rc3m6g9t1LUaJyIiIo9n+sWd4KGmtHvJ2mwwDDXdYxbzsuoR6/scozZPfX9q1MYt5gfzxviV4Y1WBnQ1bM5vLk/XOduzmibGDdM2y4c5r6lm9/D8bvu8lzXTzWGZvi/v5zt19hMHej6zfRj4qUzT5njeZzy3OcNFRETkuUy/uBM81JSKiIiIyKfN9Is7gaZURERERC5j+sWdQFMqIiIiIpcx/eJOoCkVERERkcuYfnEn0JSKiIiIyGVMv7gTPNSUzn+e9z+wReR19JMqVs90FbmXoxeZ9Is35rhJyqae1aP1RK6in8iSp7WsHm3IE2jmk2cmq8c2Nv2yH1kz/eJO8FBTCvOZkvP5pCJyH3l0GPsQz4L1ZE+uIjl7lad3B3fQlMpbMh8hmFidL69JTrzl7X8xtDPOG56fLudMv7gTvAtTmt+3BMujMHnKx8Y8c08CvtUwiOzgecQzd98aY5pSeST9kpiQOJ058oj5LPAmJ/o821zOmX5xJ9CUDhJwJk/52Jhn9vaUypUkR/MCi/nmuFvQlMojSG9p4nPG5dHbFVckxlN+ZWJ5U6SmdM/0izvB000p71UP3HMauD+u711KQPCaTcrxRqDAfSAEU94qRBd+lwu0IfXnOwHbyTPzIvhShrpShmn6FajsCLQ58+xXZmZ8hFnoaTJMEyFXsXrzmchLIV8mNyaXkavIX9wyQu7lXlTovJrh5EHypMhV4COIvxmLGX/WGxoSk7xJETqnakr3TL+4EzzdlK4giDogVkGQcjGKK7O5+k0dCbZZDlZn9P2az5Beqcx3vqu9oVch4zJf5s2N1sCfAFLf6sxM5B6SODmbF7mKmS+T25KzXmJKQ/Ieudu8J1fDa67DjMVA3HFc51g94RjfnUlh5Ufkl0y/uBO8K1PaXe/daxpmECSgog6+MOs+MqWzPs6COnnmM9OvzppCkmr3hjaU35nSDGc5TM7yGnKytOsBEHkJM69y0k1eu8eU5numI3eb9+Rq+grsvEoa5u8jiE2uzk7N/UL+wvSLO8G7MqUxclwi35lSxnXwhVn3ypRSd5+5c8bfyTNtodepTSllKRMyn66P2wzCkSlNPW2ATc7yGuZjUGIU3su92vJxM//JzG1P5MR7TCm5l9xt3pOrybG1PcOM3+knjph+Am6d/nNm+sWd4KGmtO/1WCWjJLZs7BjAJKx8J9khDGGCJQdhejMJQsr1M8v6vtQ2hwyjiz4wXaC9+aQdGZ/f3PPafzCh9yAiAfe8W1lG5sVyMC+Re+lbTFDHtchLwFySsybzH87ksKj/FEIdGY6ZJXfnu8hraG+Bf5gQa2eGsn3BkSENZ3XIT0y/uBM81JSKiIiIyKfN9Is7gaZURERERC5j+sWdQFMqIiIiIpcx/eJOoCkVERERkcuYfnEn0JSKiIiIyGVMv7gTPNSU9j85W/Nf+CLya3jeXv75efQWnH4CBJpvImH4fEyKyKSffjLpZzeewQtCVv+IFrmKfuLOfDwe8OjFs6fcnOXPW2Ne7veU8FBTCjkwzoDJRvYRNiJreAQarPYVHsUzhzX9CDORW6FDYZ4M3Wo0NaXyliTPtaeIx5gn3Ynf3XObZ77s3/2IqH6muqyZfnEneDemlFfOvcd3dptM5Znw5ps2BEmuc19ZJdw2shpSeSmY0uTujqNbc6OmVB4JzziHmMtbrsjOHEr+TMzP6X1W6TnTL+4E78aUkvRWPUDPJMFsMpVnwoOh24QmJudZ/SSJtBNnyue38Sz3kvxMju4eoltjSVMqj6BfVd6sPMctdP6cJ/X2lJ4z/eJO8G5MKfcupYucd80HDshJagkKelQzfZ/VZBiB2L1K+Z66Uj7qV4d2F3/MMNNnPHXPZNpByrQpk3azQ9CLRZsYTrvpceBya7c3w3nb03sz6PIcMAMdh4mj1Rt2msTcvNzKfanR7BUQOYJeosRdch25iZi89zWjyXvE4oxRkdfAMZX4m7GY8X0F6Yyj2DR37pl+cSd4d6Y0wYLxbGEAk9hW94s0Mzn2wTzjmHfmhcmc8yPpzukbAj1lud8kZjTLkvb1PSiZJ/PKJ99Td7e3OXvNmXw+HJnSs5MW4m3uZ6H3NZFb6PzEH0pywH6JKYWz3CfyGjr+ZiyG+XsFHVkTTszknOkXd4J3Y0o5u+Gd8mdnIiTASeokAG8xpbwvnN7L2aYwpw/05NIGenDTdrr4M272ZPGPwFtMacoa+BLYNzoOE2fzElWTGD0znYnV7vUXOWPmp8RjRAzea0qTB+l8mHWLvBauVIYZiyG/iVk0PcdRL2mO69MTyK+ZfnEneDemNEFBz0/Gd7JKsGDQ+nJ+9xT1QXsmx1tNaeZLIGIo5/RtNAn0Ngf09PLoiJ4Wk3BkSvlOfZpSgcRCx96ZIQ2Jr3kPVJP6dnWIwKpXvk/M7zGl5MWjE3KR15Lc1ifd88rqLSfkqzIzZ672C/mJ6Rd3goebUnoK+4AZszYPuElWrZz5MJyy+d73jvZ3ei2nqcy4lSnlnk9EmcwzCZdLVRhFjCzzIDhTT5SyWc5ppsORKSWxp64MZ0eaBl4+P/rMn9iCDJ/JciZh4i+xlLifvfgiR9CruYL8xiV9ch8n5cRl8ht/1CNXE5Me2OW19K14HDu755NjOONnvpxwC17T9+OjXT2fM9Mv7gQPNaWcPU+tzpRJWEluBNecpr+TBLnsTcBQht5WfmMGEQdr6gCSLcFHeermMiq3HWRaDHfmgdklWWNmVwqUZwc4uwQrnxectHSPfmBYM5MlibpjWWRHX+KcMRa6c4GcmM+IE59MRx0Z3leR+C7yGvpYf3R5nVhbxfEkx/POk9MvoLOrUZ870y/uBA81pSJyPTGbqyQsIiLyDKZf3Ak0pSIfOZ6ti4jIe2L6xZ1AUyoiIiIilzH94k6gKRURERGRy5h+cSd4qCntm5Fbqz86icgx/Ye5W57OwLN1j569J7Ki/+g06T+OnpH4nE9BEbka/pQc5Q/Cq7yYGEwsnv3Zc/qTfr3zrTEv93tKeKgphfnHjFsPrCLyE510d8+zTdn5iBSRW+HlIKsDOY+vO6JPns7KibwGnp4T6PyaT67hCTmrOIY2ttN88lg+dFaP3O8p4SmmNAfRTlC7MxcR+Qv0XsFZguQZk/4ZSl4Dj+CbPe23Gk17SuUtSf7rjq089mk+ZzTxuzsxn3m0f/fJfwzwrF9+yfSLO8G7MKU8125HpvOh3/K5k4TbvQDZJ1bP3usH7ou8hphKjGkfjG81mppSeQQxpsmN008kP77kamzn1Xliryk9Z/rFneBdmNIZMDkbXz3oe3apz9+Q+hNAHKzznYfS95kSD8uPuj2ZPvPvS6RpB23KdARovifh8rD7bi+XEZhG5LVwObTjCbMw4XKV90HJa+G+f/IokDeJr5TrvAptSs2L8lYQV8Ri6BfRMO5Wg3oWn9P4yi+ZfnEneJop7eCZ98R1IHRwdRLjtaMhQdfvrKccly6ZhnujgCSZcm2M+zWfGZb5ZHyGMTy/uYzK/XoEfeZDL1WmZaeYl75E7uUeUzrflrPqQRC5BXJw4i9xxatByaHkQsrNmGxTal6Ut6RPesKMxYyf95secRSbu9sA5H5PCU8zpd0zSc9oyPCjDT4PxkmQCbhMSzKkHPVjTntcfp+dAXVy5fc8mNOt321iZ+j2Y4xnnSIvJbHX8RuDsLp8n/1snvB1cha5lZm7OOiTF+8xpcG8KG9J37o0YzFwnCaO53E7HBnS5F5vRdkz/eJO8C5Mab4nKJKo8n0mqfQ8rnqIciBO2QTgNJG3mNLZhc+jH5gXl/47+cItpjRtSjl2kLlcIi+Bf9P379WZ/8qszt8itzBzF7mOeLrHlJoX5a3BUwR65Jv5e8Wq4yo5dZpXWTP94k7wLkxpNnIfZDtRZRy9PdMAUsc0sreY0kzf7Ui5Np6cyXNgnzc170wp31M/O4jJV64AAwCJxXnSFDoxw8q8iuzgcn2TvEd83WNKzYvy1iQf9gn40fH7jFWZmWdX+4X8xPSLO8FDTWnf69GaB8ou12cl/HEj5enBzHeSW6YjUTIt31Om72XN777xuWF4B1zOtpgeo9v1z/tk0z6G9bxFroJY65Ou+UeUkORKjIrcQ+e41UG6/5FM3s4nuTgQf4wzL8rVtGc4urxOrK3ieJJjfxtQPMbU/Ee+/IXpF3eCh5pSEXl7VglZRETkUUy/uBNoSkU+ITSkIiLybKZf3Ak0pSIiIiJyGdMv7gSaUhERERG5jOkXdwJNqYiIiIhcxvSLO4GmVEREREQuY/rFnUBTKiIiIiKXMf3iTqApFREREZHLmH5xJ9CUioiIiMhlTL+4E2hKRUREROQypl/cCTSlIiIiInIZ0y/uBJpSEREREbmM6Rd3Ak2piIiIiFzG9Is7gaZURERERC5j+sWdQFMqIiIiIpcx/eJOoCkVERERkcuYfnEn0JSKiIiIyGVMv7gTaEpFRERE5DKmX9wJNKUiIiIichnTL+4EmlIRERERuYzpF3eCh5rSr7766sPvfvPbn/XNN9/MIh9+/7d/94syK3377bc/fv7NX/31h++///7naRke/dOf/vThj//wx19NizKf2R406538/R/+8KvxPW+UYSu+++67D//85Ze/asuKDGedUC7LNullyfie96ptUdrQ5eb4qVWZ2W7acbRMP/zww4/Ds46po9flapt8/fXXvxoWZTs0c3yr11m+MzzrIFq1VURERO5n+sWd4KGmNMSAYLL+8YsvfjEuBgkj2SYh5aaxwNSkrhidZhqtlIUY4ZiZTBcyLXXFLPY003gGDF6MzKRN8BnUjyln+Zg/sJ5Y7oynLKSNWZ4MYz2wPNO80ras20zHb9qR71mGLhsyX763aWxShvbye7Y10Da2L/XFeEKWg3kwPMNm/WzHXm+Y/Y6taeTTBqahjZpSERGRa5h+cSd4uCkNbd4wAzEdMQiYvjYpGJc2DrP3rGkzmXEY0KZNC2aH6ZjfNHWhe/gm3QN3RKZvkwwxhj1P6lr1JncP4VyPgFGd6yJi3fKb9dNGey4H47rXtWHYqr3Adp/m+6y+PsFg+oZytI+4mNuO31lPs4c17ZnrT0RERF7G9Is7wdNMKeYOgxAzEd1jSrvXrstPI9amdHVJfZrSs96zvuw+ucWUZhy9kU33Ds7vZ1BuLhftXBnNaUpnj3WPm6xM6S3tpbd1VScGug3tarnOTClGf5rS2aNNzGSbnxloEREReRnTL+4ETzOl09xgIu4xpYCp4ZL7NKWtad4CprS1gmnp1Zzm8lZTOnvxoNuYz1UPb9OX4OetBqyzbuNcxtn+5mg55nbrYWftxSyuyqxu2WAet5pShs8e9Fk+EC8ov4/MtIiIiNzH9Is7wdNMaZj3CIaXmNLuqZt/QsowjFDmcWZKM93K+MDqkn/zsZjSM4MIR8vxsZhS1vHqVomQcm1Ozwy6iIiI3M70izvBU00ppmpeXs+we0xpoPcyOjKlTZeZl+9XJiXz7vljhLuH7cyUtklaGaV5TykGbGWiG+Y3bzXY3VOKeUtbVr2ER8uxMqWBYWftZZne4p5Sln+aUsjwrOM5vI29iIiIvJ7pF3eCp5pSvrcheKkpDZSbRmxlSvvPLtOUcr9rzyNlZm/kbNORKeUf/4E2zvanF7b/8Y9ZmuY4ZD6Uo+29jEf3bzKMefN7GrUeNzkypayz2d60k7bSrjm/VX0Mu8WU9rIfmVLW7RzOycX885OIiIi8jOkXd4KHm1Ie7QMxaX1ZHFPRf1BZPRJq9gxCyk5T2r2BGETMTYZjqDBAGMe0M+PTllWPInUzv74cDJiebjvT8UcbzOzsQaRd8/FGvXz5znxpH0Z1GjDaxrrjd7c3tPGcbWLdrKahvbQjZadJpczs2WyT3rdjMJy4Yb5pV+qet2vwB6+eb+ZF73TWSaaZj4SayykiIiIvY/rFneDhplREREREPl2mX9wJNKUiIiIichnTL+4EmlIRERERuYzpF3cCTamIiIiIXMb0izuBplRERERELmP6xZ1AUyoiIiIilzH94k7wcFPKsyr78Ur5fvSooR08dH6+4/xZ5HFDPvNSrobHdAVifkU//opHmfU49rHo7EUHImcQQ/0oNeKyY07kUZD7pr8IfUxOOR7HuILHEPKs8Dkuw/oxjbJm+sWd4OGmlGdQzqCBlxi6JMZnmdIc2I+emSpyBasXSiSpTlOJ6ZzPbQ280SqQbE2s8lISQ3lu8MqA9jCe8yzyCHjudPuLPqGHW4/Z/bzr+IyX+JPPlekXd4J3YUo7QF6y0Z9pSpOAbw1wkZeA2WwTmpifccdbwZqUyXTzJDDl5ssVRG6BkxteVDHpGEw+9+RHHsXKlIZ+Ycp8m+IRs1wM6lkPq/yS6Rd3gndhSvtsZL6OE7M537zTb/1JWcplOG/54c1RJM+uDxiXsh1wvD0o6p6ntIP5zcuhmOP5xqqMYzrq6LYD09KT1fM9ao98+hCjfak0cT4P9on7aUoT09O8El++xUpeAnHHrViTjsHOj6FzpsjVHJnSvjq0OxnPtLzSmmM50/erxM2f50y/uBO8C1PavaP9PQfUNpEdCJ3UZk9pxmHc+rJl4ADPvSF99sTvmTAJxvmd37Onl6ScOuc9fZl2Ljvtncb7qNf4aLh8mhyZ0plcj0zp6oxf5CXME/FonuhPUzpPnsLM2SJXcGRKkwfJmavxRySWc2xe3cc/j/3yS6Zf3AnehSmdpg7OTGknvpnguv4M74M595dwoF8F5wy+zIt2zSQ8A3MagxiA7vafhpIkn/E7U5qyvO9dPh+IkY7jJMqZEFeX72NI+7J/4n0V8yK3kJ6jGU8z5namlCtCmlK5mpUpnTGavJnYwwOgVV7M8fbMlBrDx0y/uBO8C1PavIUpnffiEUyYwckMvteY0sClgJylTUN5qylNnZk+42Yd8mmz+qNTht3yR6dpXO0llZeSHNW3JsEqX0LGtSnFDCR2PaDL1axMKVdBm1uPocQul++beeyXXzL94k7wcFO6u5+tgyVlOYhiJgmEPvjymwCaQdnBk/qpM8mTOiOG0yMJScTUl3LTlOY3bWlTmiTedWY4Z22Y4XynbUemNGW5VJtxHBiOjL18evQ/SBMD88BPDOWT+CDmoO+HQiK30nE2h/cJU8dcn9DTERBST+LR++PlShJribHZU5qcyHE1sTdvaYLkWXpHQ/uADOM4nDrnFQD5JdMv7gQPNaWYLtQbtU1nGzN+J5BSHjNHd3qCLeMiemFn/RycZ1LF9Gb4PGsnuDvAZ3d/l5vLlvbT05vfKUfb2xz0ztHTIxJ8vmdZOeuzx+vzg5hPTMy4aSPASVpirhPxjK1Vr5fIis59nSuJyWjGWGKPXMeBnk4B8v3K5Iq8hBl/s4PrlrzXHmJVDr8QyTnTL+4EDzWlIvI2zD89iYiIPIvpF3cCTanIR46XQEVE5D0x/eJOoCkVERERkcuYfnEn0JSKiIiIyGVMv7gTaEpFRERE5DKmX9wJNKUiIiIichnTL+4EmlIRERERuYzpF3cCTamIiIiIXMb0izuBplRERERELmP6xZ1AUyoiIiIilzH94k6gKRURERGRy5h+cSfQlIqIiIjIZUy/uBO8ypQqpZRSSin1GmlKlVJKKaXU06UpVUoppZRST5emVCmllFJKPV2aUqWUUkop9XRpSpVSSiml1NOlKVVKKaWUUk+XplQppZRSSj1dmlKllFJKKfV0aUqVUkoppdTTpSlVSimllFJPl6ZUKaWUUko9Xb8ypSIiIiIiz0JTKiIiIiJPR1MqIiIiIk/nPwHEXHIh71TsoQAAAABJRU5ErkJggg==>
 
 [image3]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAAAAABX3VL4AAAADklEQVR4XmP49J/h338AC7cD7yE4JlcAAAAASUVORK5CYII=>
+
+<a id="trauma-28"></a>
+## 2.8. Procedimientos Generales y Heridas
+
+### 2.8.1. Sutura simple
+
+- Indicaciones: heridas limpias, bordes afrontables, sin pérdida de sustancia relevante.
+- Contraindicaciones relativas: mordeduras humanas/animales, heridas muy contaminadas, aplastamiento, cuerpos extraños no accesibles. Valorar alternativas (cierre diferido, grapas, adhesivos) según caso.
+- Material: campo limpio, suero de irrigación, antiséptico (según protocolo), instrumental básico, sutura monofilamento (calibre según zona), anestésico local según protocolo del servicio.
+- Técnica (resumen): lavado e irrigación abundante, valoración de profundidad/lesiones asociadas, debridamiento conservador, anestesia local, puntos simples interrumpidos sin tensión, comprobación vascular/neurológica distal.
+- Retirada orientativa de suturas: cara 3–5 días; cuero cabelludo 7 días; tronco 7–10 días; extremidades 10–14 días (adaptar a evolución).
+
+### 2.8.2. Profilaxis antitetánica
+
+- Valorar tipo de herida: limpia/menor vs sucia/contaminada.
+- Revisar estado vacunal (dosis previas documentadas vs desconocido/insuficiente).
+- Conducta general:
+  - Herida limpia + pauta completa documentada: no precisa profilaxis.
+  - Herida limpia + pauta incompleta/desconocida: VACUNA antitetánica.
+  - Herida sucia + pauta completa documentada: VACUNA si última dosis >10 años (según protocolo vigente).
+  - Herida sucia + pauta incompleta/desconocida: VACUNA + INMUNOGLOBULINA antitetánica.
+- Consultar protocolo institucional para dosis, presentación y lugar de administración.
+
+### 2.8.3. Férulas y yesos: indicaciones breves
+
+- Indicaciones orientativas:
+  - Miembro superior: férula braquiopalmar/braquio-antebraquial posterior en fracturas/lesiones de codo/antebrazo/muñeca.
+  - Miembro inferior: férula posterior de tobillo, suropédica o inmovilización corta según lesión.
+- Recomendaciones: elevación del miembro, movilización activa de dedos, evitar presiones externas.
+- Signos de alarma: dolor progresivo desproporcionado, parestesias, frialdad/palidez distal, incapacidad para movilizar dedos, dolor a la extensión pasiva (valorar síndrome compartimental). Acudir a Urgencias.
+
+### 2.8.4. Curas y cuidados domiciliarios
+
+- Higiene: mantener el apósito seco las primeras 24–48 h. Luego limpieza suave con agua y jabón; secar por toques; aplicar apósito limpio.
+- Cambio de apósito: diario o antes si se humedece/ensucia.
+- Medicación: seguir la analgesia pautada en el alta; no aplicar productos no indicados.
+- Signos de alarma: enrojecimiento progresivo, calor local, dolor en aumento, supuración/mal olor, fiebre, sangrado persistente, pérdida de sensibilidad/movilidad. En su presencia, acudir a Urgencias.
+- Retirada de puntos/grapas: según zona (ver tiempos orientativos en 2.8.1) o indicación médica.

@@ -1429,10 +1429,10 @@ Cefalea frontal y dolor periorbitario tras cuadro catarral.
 **PLAN:**
 1.  **Pruebas:** Rx de senos paranasales (si duda diagnóstica).
 2.  **Tratamiento:**
-    - **Lavados nasales**.
-    - **Corticoides nasales** (Budesonida).
+    - **Lavados nasales** con suero fisiológico, varias veces al día.
+    - **Corticoides nasales** Budesonida 100 µg/inh 1 inh/fosa/12h, 10 días
     - **Descongestionante/Antihistamínico** (Rino-Ebastel®).
-    - **Antibiótico:** AZITROMICINA.
+    - **Antibiótico:** Amoxicilina/Clavulánico 875/125 mg VO c/8h, 7 días.
     - **Analgesia**.
 3.  **Seguimiento:** Control en **ORL**.
 
