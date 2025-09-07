@@ -11,6 +11,7 @@ from flask import Flask, jsonify, render_template, request, session
 
 BASE_DIR = Path(__file__).resolve().parent.parent  # points to test_estudio
 MD_PATH = BASE_DIR / "FEA_Neurocirugia_600_preguntas_normalized.md"
+MD_PATH_FIXED = BASE_DIR / "FEA_Neurocirugia_600_preguntas_normalized_fixed.md"
 ANS_JSON_PATH = BASE_DIR / "FEA_Neurocirugia_600_preguntas_answer_key.json"
 ANS_MD_PATH = BASE_DIR / "FEA_Neurocirugia_600_preguntas_answer_key.md"
 
@@ -55,8 +56,31 @@ def parse_md_answer_key(md_text: str) -> Dict[str, str]:
     return answers
 
 
+USED_MD_PATH: Path | None = None
+
+
+def resolve_md_path() -> Path:
+    """Resolve which Markdown to use in order of precedence:
+    1) QUIZ_MD_FILE env var (absolute or relative to BASE_DIR) if exists
+    2) fixed file if present
+    3) default normalized file
+    """
+    env = os.environ.get("QUIZ_MD_FILE")
+    if env:
+        p = Path(env)
+        if not p.is_absolute():
+            p = BASE_DIR / env
+        if p.exists():
+            return p
+    if MD_PATH_FIXED.exists():
+        return MD_PATH_FIXED
+    return MD_PATH
+
+
 def load_data():
-    md_text = MD_PATH.read_text(encoding="utf-8")
+    global USED_MD_PATH
+    USED_MD_PATH = resolve_md_path()
+    md_text = USED_MD_PATH.read_text(encoding="utf-8")
     questions = parse_md_questions(md_text)
     answers: Dict[str, str] = {}
     if ANS_JSON_PATH.exists():
@@ -86,6 +110,15 @@ def index():
 def healthz():
     """Lightweight health endpoint for Render and uptime checks."""
     return "ok", 200
+
+
+@app.get("/api/info")
+def api_info():
+    """Return loaded bank metadata (file and totals)."""
+    return jsonify({
+        "mdFile": str(USED_MD_PATH.name if USED_MD_PATH else MD_PATH.name),
+        "total": len(QUESTIONS),
+    })
 
 
 def get_question_by_number(num: int):
