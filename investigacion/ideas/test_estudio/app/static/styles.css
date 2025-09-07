@@ -8,9 +8,9 @@
 	--brand-2: #8aa9ff;
 	--glass-shadow: rgba(0,0,0,0.28);
 	--glass-rim: rgba(255,255,255,0.06);
-	/* Superficies oscuras para mantener contraste en texto claro */
-	--glass-surface-dark-1: rgba(17, 27, 46, 0.36);
-	--glass-surface-dark-2: rgba(17, 27, 46, 0.22);
+	/* Superficies oscuras (ligeramente más claras para mayor transparencia) */
+	--glass-surface-dark-1: rgba(17, 27, 46, 0.18);
+	--glass-surface-dark-2: rgba(17, 27, 46, 0.10);
 	--ok-bg: rgba(46, 160, 67, 0.15); --ok-fg: #adf7c9; --ok-br: rgba(46,160,67,0.35);
 	--ko-bg: rgba(220, 53, 69, 0.16); --ko-fg: #ffb4b0; --ko-br: rgba(220,53,69,0.35);
 }
@@ -60,7 +60,7 @@ body {
 
 #prompt { font-size: 1.15rem; margin-bottom: 1rem; text-shadow: 0 1px 0 rgba(0,0,0,0.12); }
 .option { margin: .55rem 0; }
-.option button { position: relative; isolation: isolate; overflow: hidden; width: 100%; text-align: left; padding: .95rem 1rem; border: 1px solid var(--glass-border); border-radius: 14px; color: var(--text); text-shadow: 0 1px 2px rgba(0,0,0,0.45); cursor: pointer; -webkit-backdrop-filter: saturate(140%) blur(18px); backdrop-filter: saturate(140%) blur(18px); background-image: linear-gradient(145deg, var(--glass-surface-dark-1), var(--glass-surface-dark-2)); box-shadow: -1.5px -1.5px 2px -2px rgba(255,255,255,0.85), 6px 10px 30px var(--glass-shadow), inset 0 0 0 1px var(--glass-rim); transition: transform .08s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease; will-change: transform, filter; }
+.option button { position: relative; isolation: isolate; overflow: hidden; width: 100%; text-align: left; padding: .95rem 1rem; border: 1px solid var(--glass-border); border-radius: 14px; color: var(--text); text-shadow: 0 1px 2px rgba(0,0,0,0.45); cursor: pointer; -webkit-backdrop-filter: saturate(150%) blur(22px); backdrop-filter: saturate(150%) blur(22px); background-color: rgba(255,255,255,0.02); background-image: linear-gradient(145deg, var(--glass-surface-dark-1), var(--glass-surface-dark-2)); box-shadow: -1.5px -1.5px 2px -2px rgba(255,255,255,0.85), 6px 10px 30px var(--glass-shadow), inset 0 0 0 1px var(--glass-rim); transition: transform .08s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease; will-change: transform, filter; }
 /* Liquid glass overlay via pseudo-element: subtle distortion and tint */
 .option button::before {
 	content: "";
@@ -68,13 +68,13 @@ body {
 	inset: 0;
 	z-index: 0;
 	filter: url(#glass-distortion);
-	background: linear-gradient(145deg, rgba(255,255,255,0.10), rgba(255,255,255,0.04));
-	opacity: .72;
+	background: linear-gradient(145deg, rgba(255,255,255,0.08), rgba(255,255,255,0.03));
+	opacity: .60;
 	pointer-events: none;
 	transition: opacity .25s ease;
 }
-.option button:hover::before { opacity: .85; }
-.option button:hover { border-color: rgba(255,255,255,0.38); background-image: linear-gradient(145deg, rgba(17,27,46,0.44), rgba(17,27,46,0.30)); box-shadow: -1.5px -1.5px 2px -2px rgba(255,255,255,0.9), 10px 16px 38px rgba(0,0,0,0.30), inset 0 0 0 1px var(--glass-rim); transform: translateY(-1px) scale(1.008); filter: brightness(1.04); }
+.option button:hover::before { opacity: .78; }
+.option button:hover { border-color: rgba(255,255,255,0.38); background-image: linear-gradient(145deg, rgba(17,27,46,0.24), rgba(17,27,46,0.12)); box-shadow: -1.5px -1.5px 2px -2px rgba(255,255,255,0.9), 10px 16px 38px rgba(0,0,0,0.30), inset 0 0 0 1px var(--glass-rim); transform: translateY(-1px) scale(1.008); filter: brightness(1.04); }
 /* Focus accesible */
 .option button:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(255,255,255,0.7), 0 0 0 4px rgba(45,108,223,0.55), 8px 12px 28px rgba(0,0,0,0.25); }
 /* Efecto de "relleno" sutil */
