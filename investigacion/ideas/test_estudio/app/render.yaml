@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: hm-fea-neuro-quiz
+    env: python
+    plan: free
+    buildCommand: pip install -r investigacion/ideas/test_estudio/app/requirements.txt
+    startCommand: gunicorn -w 2 -b 0.0.0.0:$PORT investigacion.ideas.test_estudio.app.quiz_app:app
+    envVars:
+      - key: QUIZ_SECRET
+        generateValue: true
