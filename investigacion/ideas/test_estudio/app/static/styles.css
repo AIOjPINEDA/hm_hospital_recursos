@@ -13,8 +13,8 @@
 	--glass-shadow: rgba(0,0,0,0.28);
 	--glass-rim: rgba(255,255,255,0.06);
 	/* Superficies oscuras para mantener contraste en texto claro */
-	--glass-surface-dark-1: rgba(17, 27, 46, 0.62);
-	--glass-surface-dark-2: rgba(17, 27, 46, 0.46);
+	--glass-surface-dark-1: rgba(17, 27, 46, 0.36);
+	--glass-surface-dark-2: rgba(17, 27, 46, 0.22);
 	--ok-bg: rgba(46, 160, 67, 0.15); --ok-fg: #adf7c9; --ok-br: rgba(46,160,67,0.35);
 	--ko-bg: rgba(220, 53, 69, 0.16); --ko-fg: #ffb4b0; --ko-br: rgba(220,53,69,0.35);
 }
@@ -64,13 +64,31 @@ body {
 
 #prompt { font-size: 1.15rem; margin-bottom: 1rem; text-shadow: 0 1px 0 rgba(0,0,0,0.12); }
 .option { margin: .55rem 0; }
-.option button { position: relative; overflow: hidden; width: 100%; text-align: left; padding: .95rem 1rem; border: 1px solid var(--glass-border); border-radius: 14px; color: var(--text); text-shadow: 0 1px 2px rgba(0,0,0,0.45); cursor: pointer; -webkit-backdrop-filter: saturate(140%) blur(14px); backdrop-filter: saturate(140%) blur(14px); background-image: linear-gradient(145deg, var(--glass-surface-dark-1), var(--glass-surface-dark-2)); box-shadow: -1.5px -1.5px 2px -2px rgba(255,255,255,0.85), 6px 10px 30px var(--glass-shadow), inset 0 0 0 1px var(--glass-rim); transition: transform .08s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease; }
-.option button:hover { border-color: rgba(255,255,255,0.38); background-image: linear-gradient(145deg, rgba(17,27,46,0.68), rgba(17,27,46,0.52)); box-shadow: -1.5px -1.5px 2px -2px rgba(255,255,255,0.9), 10px 16px 38px rgba(0,0,0,0.30), inset 0 0 0 1px var(--glass-rim); transform: translateY(-1px); }
+.option button { position: relative; overflow: hidden; width: 100%; text-align: left; padding: .95rem 1rem; border: 1px solid var(--glass-border); border-radius: 14px; color: var(--text); text-shadow: 0 1px 2px rgba(0,0,0,0.45); cursor: pointer; -webkit-backdrop-filter: saturate(140%) blur(18px); backdrop-filter: saturate(140%) blur(18px); background-image: linear-gradient(145deg, var(--glass-surface-dark-1), var(--glass-surface-dark-2)); box-shadow: -1.5px -1.5px 2px -2px rgba(255,255,255,0.85), 6px 10px 30px var(--glass-shadow), inset 0 0 0 1px var(--glass-rim); transition: transform .08s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease; will-change: transform, filter; }
+.option button:hover { border-color: rgba(255,255,255,0.38); background-image: linear-gradient(145deg, rgba(17,27,46,0.44), rgba(17,27,46,0.30)); box-shadow: -1.5px -1.5px 2px -2px rgba(255,255,255,0.9), 10px 16px 38px rgba(0,0,0,0.30), inset 0 0 0 1px var(--glass-rim); transform: translateY(-1px) scale(1.008); filter: brightness(1.04); }
 /* Focus accesible */
 .option button:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(255,255,255,0.7), 0 0 0 4px rgba(45,108,223,0.55), 8px 12px 28px rgba(0,0,0,0.25); }
 /* Efecto de "relleno" sutil */
 .option button::after { content: ""; position: absolute; width: 160%; height: 160%; left: 50%; top: 100%; transform: translate(-50%, -50%); background: radial-gradient(circle at 50% 80%, rgba(255,255,255,0.22), transparent 40%); opacity: 0; pointer-events: none; }
 .option button:hover::after { animation: btn-fill .9s ease .15s both; }
+/* Brillo diagonal inspirado en el ejemplo aportado */
+.option button::before {
+	content: "";
+	position: absolute;
+	top: -60%;
+	left: -130%;
+	width: 65%;
+	height: 260%;
+	transform: rotate(-35deg);
+	background: linear-gradient(90deg, transparent, rgba(255,255,255,0.16), transparent);
+	transition: left .7s ease, top .7s ease, filter .7s ease;
+	pointer-events: none;
+}
+.option button:hover::before {
+	left: 140%;
+	top: -120%;
+	filter: brightness(.85);
+}
 .actions { margin-top: 1rem; display: flex; gap: .6rem; }
 .actions button { position: relative; overflow: hidden; padding: .7rem 1.05rem; border: 1px solid var(--glass-border); background: linear-gradient(145deg, rgba(45,108,223,0.60), rgba(138,169,255,0.46)); color: white; border-radius: 12px; cursor: pointer; -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); box-shadow: -1px -1px 2px -2px rgba(255,255,255,0.9), 8px 12px 28px rgba(45,108,223,0.35), inset 0 0 0 1px var(--glass-rim); transition: transform .08s ease, box-shadow .18s ease; }
 .actions button:hover { transform: translateY(-1px); box-shadow: -1px -1px 2px -2px rgba(255,255,255,0.9), 12px 16px 36px rgba(45,108,223,0.40), inset 0 0 0 1px var(--glass-rim); }
@@ -99,6 +117,8 @@ body {
 /* Reduce motion for accessibility */
 @media (prefers-reduced-motion: reduce) {
 	.option button, .actions button, .emoji { transition: none !important; animation: none !important; }
+	/* Desactivar brillo diagonal en reduce-motion */
+	.option button::before { display: none !important; }
 }
 
 .app-footer { margin-top: 1.25rem; text-align: center; font-size: .92rem; }
