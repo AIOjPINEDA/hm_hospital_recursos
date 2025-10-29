@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+PRODID:-//Jaime//Guardias HM Torrelodones//ES
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Guardias HM Torrelodones (Nov 2025)
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:aad5c120-6a4c-44d3-9d60-8b0c344b1077@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251104T090000
+DTEND;TZID=Europe/Madrid:20251104T210000
+SUMMARY:Refuerzo Torrelodones (Solo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Refuerzo
+DESCRIPTION:🏥 Guardia Refuerzo\n🕒 09:00–21:00\n⏱ 12h + 0h postguardia\n🧮 Total computables: 12h\n👥 Cobertura: Solo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:607e49a3-ef1c-4250-bc80-3c535439ca6e@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251105T080000
+DTEND;TZID=Europe/Madrid:20251105T150000
+SUMMARY:Mañana Torrelodones (Con Siles)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Mañana
+DESCRIPTION:🏥 Guardia Mañana\n🕒 08:00–15:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Siles\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5d179c-45ea-49c8-9226-40e4da826a83@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251106T080000
+DTEND;TZID=Europe/Madrid:20251106T150000
+SUMMARY:Mañana Torrelodones (Con Alexis)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Mañana
+DESCRIPTION:🏥 Guardia Mañana\n🕒 08:00–15:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Alexis\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:f91239e0-149a-4aa2-a7cf-b64548a8c655@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251107T090000
+DTEND;TZID=Europe/Madrid:20251107T210000
+SUMMARY:Refuerzo Torrelodones (Solo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Refuerzo
+DESCRIPTION:🏥 Guardia Refuerzo\n🕒 09:00–21:00\n⏱ 12h + 0h postguardia\n🧮 Total computables: 12h\n👥 Cobertura: Solo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:b47d68c5-240b-4dc2-9ee1-33c59a72218a@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251111T080000
+DTEND;TZID=Europe/Madrid:20251111T150000
+SUMMARY:Mañana Torrelodones (Con Rod)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Mañana
+DESCRIPTION:🏥 Guardia Mañana\n🕒 08:00–15:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Rod\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:1a6025ae-ecc6-4454-af76-47476b6942ce@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251111T150000
+DTEND;TZID=Europe/Madrid:20251111T220000
+SUMMARY:Tarde Torrelodones (Con Rod)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Tarde
+DESCRIPTION:🏥 Guardia Tarde\n🕒 15:00–22:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Rod\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:825ba2a6-7233-475d-b803-434941d16a85@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251112T080000
+DTEND;TZID=Europe/Madrid:20251112T150000
+SUMMARY:Mañana Torrelodones (Con Rod)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Mañana
+DESCRIPTION:🏥 Guardia Mañana\n🕒 08:00–15:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Rod\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:4f9406c5-51bf-472e-a05d-62c43322c715@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251112T150000
+DTEND;TZID=Europe/Madrid:20251112T220000
+SUMMARY:Tarde Torrelodones (Con Farah)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Tarde
+DESCRIPTION:🏥 Guardia Tarde\n🕒 15:00–22:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Farah\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:2007a7fd-91aa-45d5-8ad4-7d9eb8af41d6@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251113T150000
+DTEND;TZID=Europe/Madrid:20251113T220000
+SUMMARY:Tarde Torrelodones (Con Galazo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Tarde
+DESCRIPTION:🏥 Guardia Tarde\n🕒 15:00–22:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Galazo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb0a5dd-f0d9-43e9-a9ff-beaf36baa09d@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251113T220000
+DTEND;TZID=Europe/Madrid:20251114T080000
+SUMMARY:Noche Torrelodones (Solo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Noche
+DESCRIPTION:🏥 Guardia Noche\n🕒 22:00–08:00\n⏱ 10h + 7h postguardia\n🧮 Total computables: 17h\n👥 Cobertura: Solo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:4bde1218-f5e7-430e-9b0f-f0e5429f85d2@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251116T100000
+DTEND;TZID=Europe/Madrid:20251116T220000
+SUMMARY:Refuerzo Torrelodones (Solo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Refuerzo
+DESCRIPTION:🏥 Guardia Refuerzo\n🕒 10:00–22:00\n⏱ 12h + 0h postguardia\n🧮 Total computables: 12h\n👥 Cobertura: Solo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:847702fd-15cb-4a98-a57e-292928d293fd@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251118T080000
+DTEND;TZID=Europe/Madrid:20251118T150000
+SUMMARY:Mañana Torrelodones (Con Farah)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Mañana
+DESCRIPTION:🏥 Guardia Mañana\n🕒 08:00–15:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Farah\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:d2fa8ee4-d89d-4763-bf1a-22d0bf3c1995@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251121T090000
+DTEND;TZID=Europe/Madrid:20251121T210000
+SUMMARY:Refuerzo Torrelodones (Solo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Refuerzo
+DESCRIPTION:🏥 Guardia Refuerzo\n🕒 09:00–21:00\n⏱ 12h + 0h postguardia\n🧮 Total computables: 12h\n👥 Cobertura: Solo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:0436cd20-e724-44e3-a6c4-80a39c0074a2@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251125T150000
+DTEND;TZID=Europe/Madrid:20251125T220000
+SUMMARY:Tarde Torrelodones (Con Rod)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Tarde
+DESCRIPTION:🏥 Guardia Tarde\n🕒 15:00–22:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Rod\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:77bcd23a-85a5-46bf-8218-9ba3f106d82d@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251125T220000
+DTEND;TZID=Europe/Madrid:20251126T080000
+SUMMARY:Noche Torrelodones (Solo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Noche
+DESCRIPTION:🏥 Guardia Noche\n🕒 22:00–08:00\n⏱ 10h + 7h postguardia\n🧮 Total computables: 17h\n👥 Cobertura: Solo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:7d92c373-01a5-40b3-aab3-21aea7fec965@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251127T150000
+DTEND;TZID=Europe/Madrid:20251127T220000
+SUMMARY:Tarde Torrelodones (Con Harold)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Tarde
+DESCRIPTION:🏥 Guardia Tarde\n🕒 15:00–22:00\n⏱ 7h + 0h postguardia\n🧮 Total computables: 7h\n👥 Cobertura: Con Harold\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:defd2ba6-1e57-4ae9-b34a-a1ea8133a131@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251127T220000
+DTEND;TZID=Europe/Madrid:20251128T080000
+SUMMARY:Noche Torrelodones (Solo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Noche
+DESCRIPTION:🏥 Guardia Noche\n🕒 22:00–08:00\n⏱ 10h + 7h postguardia\n🧮 Total computables: 17h\n👥 Cobertura: Solo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:0358c504-e6c1-4777-98ac-9fd70e245176@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251129T100000
+DTEND;TZID=Europe/Madrid:20251129T220000
+SUMMARY:Refuerzo Torrelodones (Solo)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Refuerzo
+DESCRIPTION:🏥 Guardia Refuerzo\n🕒 10:00–22:00\n⏱ 12h + 0h postguardia\n🧮 Total computables: 12h\n👥 Cobertura: Solo\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+BEGIN:VEVENT
+UID:70d8e44e-8f25-46ae-9411-c5789cd750d5@jaime-guardias
+DTSTAMP:20251028T233600Z
+DTSTART;TZID=Europe/Madrid:20251129T220000
+DTEND;TZID=Europe/Madrid:20251130T080000
+SUMMARY:Noche Torrelodones (Con Uribe)
+LOCATION:HM Torrelodones - Urgencias
+CATEGORIES:Noche
+DESCRIPTION:🏥 Guardia Noche\n🕒 22:00–08:00\n⏱ 10h + 7h postguardia\n🧮 Total computables: 17h\n👥 Cobertura: Con Uribe\n📍 HM Torrelodones - Urgencias
+END:VEVENT
+END:VCALENDAR
