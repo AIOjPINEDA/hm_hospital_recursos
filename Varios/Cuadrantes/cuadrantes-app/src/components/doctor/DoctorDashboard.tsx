@@ -3,11 +3,9 @@ import type { DoctorStats } from '../../logic/stats';
 import type { Shift } from '../../logic/parser';
 import { Card } from '../Card';
 import { StatCard } from '../StatCard';
-import { Clock, Moon, Sun, Briefcase } from 'lucide-react';
+import { Clock, Moon, Sun, Briefcase, Download } from 'lucide-react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip } from 'recharts';
-
 import { generateICS } from '../../logic/ics';
-import { Download } from 'lucide-react';
 
 interface DoctorDashboardProps {
     stats: DoctorStats;
