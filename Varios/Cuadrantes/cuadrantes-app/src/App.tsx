@@ -1,14 +1,16 @@
 import { useState, useMemo } from 'react';
-import { Upload, Calendar, BarChart2, Clock, Users } from 'lucide-react';
+import { Upload, LayoutDashboard, User } from 'lucide-react';
 import { parseCuadrante, type Shift } from './logic/parser';
+import { getDoctorStats, getAllDoctorsStats } from './logic/stats';
 import { cn } from './lib/utils';
-import { Card } from './components/Card';
-import { StatCard } from './components/StatCard';
+import { EquityTable } from './components/admin/EquityTable';
+import { DoctorDashboard } from './components/doctor/DoctorDashboard';
 
 export default function App() {
   const [shifts, setShifts] = useState<Shift[]>([]);
   const [isDragging, setIsDragging] = useState(false);
   const [selectedDoctor, setSelectedDoctor] = useState<string>('Todos');
+  const [activeTab, setActiveTab] = useState<'doctor' | 'admin'>('doctor');
 
   const handleFileUpload = (file: File) => {
     const reader = new FileReader();
@@ -26,25 +28,17 @@ export default function App() {
     return ['Todos', ...Array.from(unique).sort()];
   }, [shifts]);
 
-  const filteredShifts = useMemo(() => {
-    return selectedDoctor === 'Todos'
-      ? shifts
-      : shifts.filter(s => s.medico === selectedDoctor);
+  const allStats = useMemo(() => getAllDoctorsStats(shifts), [shifts]);
+
+  const currentDoctorStats = useMemo(() => {
+    if (selectedDoctor === 'Todos') return null;
+    return getDoctorStats(shifts, selectedDoctor);
   }, [shifts, selectedDoctor]);
 
-  const stats = useMemo(() => {
-    const totalShifts = filteredShifts.length;
-    const totalHours = filteredShifts.reduce((acc, s) => {
-      const start = parseInt(s.startTime.split(':')[0]);
-      let end = parseInt(s.endTime.split(':')[0]);
-      if (end < start) end += 24; // Handle night shift crossing midnight
-      return acc + (end - start);
-    }, 0);
-    const nightShifts = filteredShifts.filter(s => s.type === 'N').length;
-    const weekendShifts = filteredShifts.filter(s => s.isWeekend).length;
+  const doctorShifts = useMemo(() => {
+    return shifts.filter(s => s.medico === selectedDoctor);
+  }, [shifts, selectedDoctor]);
 
-    return { totalShifts, totalHours, nightShifts, weekendShifts };
-  }, [filteredShifts]);
 
   // --- Render ---
 
@@ -86,65 +80,69 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-slate-50 p-8">
-      <header className="max-w-7xl mx-auto mb-8 flex justify-between items-center">
+      <header className="max-w-7xl mx-auto mb-8 flex flex-col md:flex-row justify-between items-center gap-4">
         <div>
           <h1 className="text-3xl font-bold text-slate-900">Dashboard de Guardias</h1>
           <p className="text-slate-500">Análisis de Noviembre 2025</p>
         </div>
-        <select
-          value={selectedDoctor}
-          onChange={(e) => setSelectedDoctor(e.target.value)}
-          className="px-4 py-2 rounded-lg border border-gray-200 bg-white shadow-sm focus:ring-2 focus:ring-blue-500 outline-none"
-        >
-          {doctors.map(d => <option key={d} value={d}>{d}</option>)}
-        </select>
+
+        <div className="flex items-center gap-4">
+          {/* Tab Switcher */}
+          <div className="bg-white p-1 rounded-lg border border-gray-200 flex shadow-sm">
+            <button
+              onClick={() => setActiveTab('doctor')}
+              className={cn(
+                "px-4 py-2 rounded-md text-sm font-medium transition-all flex items-center gap-2",
+                activeTab === 'doctor' ? "bg-blue-50 text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
+              )}
+            >
+              <User className="w-4 h-4" />
+              Mi Cuadrante
+            </button>
+            <button
+              onClick={() => setActiveTab('admin')}
+              className={cn(
+                "px-4 py-2 rounded-md text-sm font-medium transition-all flex items-center gap-2",
+                activeTab === 'admin' ? "bg-blue-50 text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
+              )}
+            >
+              <LayoutDashboard className="w-4 h-4" />
+              Visión Global
+            </button>
+          </div>
+
+          {activeTab === 'doctor' && (
+            <select
+              value={selectedDoctor}
+              onChange={(e) => setSelectedDoctor(e.target.value)}
+              className="px-4 py-2 rounded-lg border border-gray-200 bg-white shadow-sm focus:ring-2 focus:ring-blue-500 outline-none"
+            >
+              {doctors.map(d => <option key={d} value={d}>{d}</option>)}
+            </select>
+          )}
+        </div>
       </header>
 
       <main className="max-w-7xl mx-auto space-y-8">
-        {/* Stats Row */}
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-          <StatCard title="Total Guardias" value={stats.totalShifts} icon={Calendar} color="text-blue-600" />
-          <StatCard title="Horas Totales" value={stats.totalHours} icon={Clock} color="text-emerald-600" />
-          <StatCard title="Noches" value={stats.nightShifts} icon={Users} color="text-indigo-600" />
-          <StatCard title="Fines de Semana" value={stats.weekendShifts} icon={BarChart2} color="text-amber-600" />
-        </div>
-
-        {/* Calendar Grid (Simplified) */}
-        <Card>
-          <h2 className="text-xl font-semibold mb-6">Vista Calendario</h2>
-          <div className="grid grid-cols-7 gap-4">
-            {['Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb', 'Dom'].map(d => (
-              <div key={d} className="text-center font-medium text-gray-400 text-sm py-2">{d}</div>
-            ))}
-
-            {/* Group shifts by day */}
-            {Array.from({ length: 30 }, (_, i) => i + 1).map(day => {
-              const dayShifts = filteredShifts.filter(s => s.dayOfMonth === day);
-
-              return (
-                <div key={day} className="min-h-[120px] border border-gray-100 rounded-lg p-2 hover:shadow-md transition-shadow bg-white">
-                  <div className="text-right text-sm font-bold text-gray-300 mb-2">{day}</div>
-                  <div className="space-y-1">
-                    {dayShifts.map(shift => (
-                      <div
-                        key={shift.id}
-                        className={cn(
-                          "text-xs p-1.5 rounded border-l-2 truncate",
-                          shift.type === 'M' && "bg-blue-50 border-blue-500 text-blue-700",
-                          shift.type === 'T' && "bg-amber-50 border-amber-500 text-amber-700",
-                          shift.type === 'N' && "bg-indigo-50 border-indigo-500 text-indigo-700",
-                          shift.type === 'Ref' && "bg-emerald-50 border-emerald-500 text-emerald-700",
-                        )}
-                      >
-                        <span className="font-bold">{shift.type}</span> {shift.medico}
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              );
-            })}
+        {activeTab === 'admin' ? (
+          <div className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+            <div className="p-6 border-b border-gray-100">
+              <h2 className="text-lg font-bold text-gray-900">Tabla de Equidad</h2>
+              <p className="text-sm text-gray-500">Comparativa de carga de trabajo entre facultativos</p>
+            </div>
+            <EquityTable stats={allStats} />
           </div>
-        </Card>
+        ) : (
+          <>
+            {selectedDoctor === 'Todos' ? (
+              <div className="text-center py-20">
+                <p className="text-gray-500 text-lg">Selecciona un médico para ver su análisis detallado</p>
+              </div>
+            ) : (
+              currentDoctorStats && <DoctorDashboard stats={currentDoctorStats} shifts={doctorShifts} />
+            )}
+          </>
+        )}
       </main>
     </div>
   );
