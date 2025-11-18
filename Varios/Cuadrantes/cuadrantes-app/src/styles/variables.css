@@ -1,0 +1,79 @@
+:root {
+  /* 
+   * PREMIUM COLOR PALETTE (HSL)
+   * Modern, clean, and medical-tech inspired
+   */
+  
+  /* Primary Brand - Deep Medical Blue */
+  --primary-hue: 215;
+  --primary-sat: 90%;
+  --primary-light: 45%;
+  --color-primary: hsl(var(--primary-hue), var(--primary-sat), var(--primary-light));
+  --color-primary-hover: hsl(var(--primary-hue), var(--primary-sat), 35%);
+  --color-primary-soft: hsl(var(--primary-hue), var(--primary-sat), 95%);
+
+  /* Secondary - Teal/Cyan for accents */
+  --secondary-hue: 180;
+  --secondary-sat: 70%;
+  --secondary-light: 40%;
+  --color-secondary: hsl(var(--secondary-hue), var(--secondary-sat), var(--secondary-light));
+
+  /* Backgrounds - Glassmorphism bases */
+  --bg-body: #f8fafc;
+  --bg-card: #ffffff;
+  --bg-glass: rgba(255, 255, 255, 0.8);
+  
+  /* Text Colors */
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --text-light: #94a3b8;
+
+  /* Status Colors */
+  --status-morning: #3b82f6; /* Blue */
+  --status-afternoon: #f59e0b; /* Amber */
+  --status-night: #4f46e5; /* Indigo */
+  --status-refuerzo: #10b981; /* Emerald */
+
+  /* Spacing & Layout */
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --shadow-glass: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-smooth: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Dark Mode Support (Future proofing) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-body: #0f172a;
+    --bg-card: #1e293b;
+    --bg-glass: rgba(30, 41, 59, 0.8);
+    --text-main: #f1f5f9;
+    --text-muted: #94a3b8;
+  }
+}
+
+body {
+  background-color: var(--bg-body);
+  color: var(--text-main);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Utility Classes for Glassmorphism */
+.glass-panel {
+  background: var(--bg-glass);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: var(--shadow-glass);
+}
