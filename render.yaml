@@ -12,9 +12,9 @@ services:
         value: 3.11
       - key: QUIZ_SECRET
         generateValue: true
-  - type: static
-    name: cuadrantes-app
-    env: static
+
+staticSites:
+  - name: cuadrantes-app
     plan: free
     rootDir: Varios/Cuadrantes/cuadrantes-app
     branch: main
