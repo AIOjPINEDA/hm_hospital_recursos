@@ -1,32 +1,9 @@
-import React, { useState, useMemo } from 'react';
-import { Upload, FileText, Calendar, BarChart2, Clock, Users } from 'lucide-react';
+import { useState, useMemo } from 'react';
+import { Upload, Calendar, BarChart2, Clock, Users } from 'lucide-react';
 import { parseCuadrante, type Shift } from './logic/parser';
-import { clsx } from 'clsx';
-import { twMerge } from 'tailwind-merge';
-
-// --- Components ---
-
-function cn(...inputs: (string | undefined | null | false)[]) {
-  return twMerge(clsx(inputs));
-}
-
-const Card = ({ children, className }: { children: React.ReactNode, className?: string }) => (
-  <div className={cn("glass-panel rounded-xl p-6", className)}>
-    {children}
-  </div>
-);
-
-const StatCard = ({ title, value, icon: Icon, color }: any) => (
-  <Card className="flex items-center space-x-4">
-    <div className={`p-3 rounded-lg bg-opacity-10 ${color} bg-current`}>
-      <Icon className={`w-6 h-6 ${color}`} />
-    </div>
-    <div>
-      <p className="text-sm text-gray-500 font-medium">{title}</p>
-      <h3 className="text-2xl font-bold text-gray-900">{value}</h3>
-    </div>
-  </Card>
-);
+import { cn } from './lib/utils';
+import { Card } from './components/Card';
+import { StatCard } from './components/StatCard';
 
 export default function App() {
   const [shifts, setShifts] = useState<Shift[]>([]);
@@ -140,13 +117,9 @@ export default function App() {
               <div key={d} className="text-center font-medium text-gray-400 text-sm py-2">{d}</div>
             ))}
 
-            {/* Empty cells for start of month (Nov 2025 starts on Saturday? No, Nov 1 is Saturday) */}
-            {/* We should calculate this dynamically, but for now let's just map the shifts */}
             {/* Group shifts by day */}
             {Array.from({ length: 30 }, (_, i) => i + 1).map(day => {
               const dayShifts = filteredShifts.filter(s => s.dayOfMonth === day);
-              // Simple offset for Nov 2025 (Nov 1 is Saturday -> 5 empty slots)
-              // This is hacky, ideally we use date-fns
 
               return (
                 <div key={day} className="min-h-[120px] border border-gray-100 rounded-lg p-2 hover:shadow-md transition-shadow bg-white">
