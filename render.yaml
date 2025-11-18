@@ -12,10 +12,11 @@ services:
         value: 3.11
       - key: QUIZ_SECRET
         generateValue: true
-  - type: static_site
+  - type: web
     name: cuadrantes-app
+    runtime: static
     plan: free
     rootDir: Varios/Cuadrantes/cuadrantes-app
     branch: main
     buildCommand: npm install && npm run build
-    publishDir: dist
+    staticPublishPath: dist
