@@ -6,6 +6,9 @@ import { StatCard } from '../StatCard';
 import { Clock, Moon, Sun, Briefcase } from 'lucide-react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip } from 'recharts';
 
+import { generateICS } from '../../logic/ics';
+import { Download } from 'lucide-react';
+
 interface DoctorDashboardProps {
     stats: DoctorStats;
     shifts: Shift[];
@@ -24,8 +27,31 @@ export function DoctorDashboard({ stats, shifts }: DoctorDashboardProps) {
         ].filter(d => d.value > 0);
     }, [stats]);
 
+    const handleDownloadICS = () => {
+        const icsContent = generateICS(shifts);
+        const blob = new Blob([icsContent], { type: 'text/calendar;charset=utf-8' });
+        const url = window.URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.setAttribute('download', `guardias_${stats.doctorName.toLowerCase().replace(/\s+/g, '_')}.ics`);
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
+
     return (
         <div className="space-y-6">
+            {/* Header Actions */}
+            <div className="flex justify-end">
+                <button
+                    onClick={handleDownloadICS}
+                    className="flex items-center gap-2 px-4 py-2 bg-white border border-gray-200 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900 transition-colors shadow-sm"
+                >
+                    <Download className="w-4 h-4" />
+                    Descargar Calendario (.ics)
+                </button>
+            </div>
+
             {/* Top Metrics */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                 <StatCard title="Total Guardias" value={stats.totalShifts} icon={Briefcase} color="text-gray-600" />
