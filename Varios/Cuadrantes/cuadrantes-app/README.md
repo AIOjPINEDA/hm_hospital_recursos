@@ -1,86 +1,87 @@
 # 🏥 Dashboard de Guardias Médicas
 
-Una aplicación web moderna para visualizar y analizar cuadrantes de guardias médicas. Permite subir archivos CSV con la planificación mensual y genera automáticamente un dashboard interactivo con calendarios y estadísticas personalizadas.
+Una aplicación web moderna para visualizar, analizar y gestionar cuadrantes de guardias médicas. Diseñada para ofrecer valor tanto a la dirección médica como a los facultativos individuales.
 
-![Status](https://img.shields.io/badge/Status-Functional-success)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![Tech](https://img.shields.io/badge/Stack-React%20%7C%20Vite%20%7C%20Tailwind-blue)
 
 ## ✨ Características Principales
 
-- **📂 Carga de Archivos**: Soporte para arrastrar y soltar archivos CSV de cuadrantes.
-- **🧠 Parser Inteligente**: Algoritmo capaz de interpretar la estructura compleja de turnos (Mañana, Tarde, Noche, Refuerzos) y sus variaciones por día de la semana.
-- **📅 Visualización de Calendario**: Vista mensual clara con indicadores de colores por tipo de turno.
-- **📊 Analítica en Tiempo Real**:
-  - Cálculo automático de horas totales.
-  - Conteo de guardias, noches y fines de semana.
-- **👨‍⚕️ Filtro por Médico**: Visualización personalizada para cada profesional.
-- **🎨 Diseño Premium**: Interfaz limpia con estilo "Glassmorphism", colores médicos modernos y modo oscuro (preparado).
+### 1. 📊 Dashboard de Equidad (Para Administradores)
+Una herramienta potente para garantizar un reparto justo de la carga de trabajo.
+- **Tabla Comparativa**: Visualiza a todos los médicos en una sola lista.
+- **Métricas Clave**:
+  - **Horas Reales**: Tiempo físico de presencia.
+  - **Horas Computadas**: Cálculo ajustado (Real + 7h/Noche) para compensación.
+  - **Noches y Fines de Semana**: Contadores específicos para detectar sobrecargas.
+- **Heatmaps Visuales**: Barras de color integradas para identificar rápidamente desviaciones de la media.
+
+### 2. 👨‍⚕️ Espacio Personal (Para Médicos)
+Un área privada donde cada profesional puede entender su mes de un vistazo.
+- **Gráficos de Distribución**: Visualiza qué porcentaje de tu tiempo dedicas a Mañanas, Tardes, Noches o Refuerzos.
+- **Tarjeta "Horas Computadas"**: Muestra claramente el total de horas que te corresponden tras aplicar los factores de corrección por nocturnidad.
+- **Agenda Visual**: Lista limpia de tus próximas guardias.
+
+### 3. 📅 Exportación Inteligente a Calendario
+Lleva tu horario contigo. Genera un archivo `.ics` compatible con Google Calendar, Outlook e iOS.
+- **Detalle Rico**:
+  - **Título**: "Mañana 3 HM-Torrelodones" (Claro y conciso).
+  - **Ubicación**: "Hospital Universitario HM Torrelodones..." (Geolocalizable).
+  - **Compañeros**: La descripción incluye quién más está de guardia contigo ese día.
+- **Lógica de Fechas**: Gestiona automáticamente el cruce de medianoche en turnos de noche.
+
+---
+
+## 🧠 Lógica de Negocio
+
+El sistema implementa reglas complejas de gestión de turnos:
+
+### Cálculo de Horas
+- **Horas Reales**: Suma directa de la duración de cada turno.
+- **Horas Computadas**: `Horas Reales + (Nº Noches * 7)`.
+  - *Justificación*: Se añaden 7 horas por cada guardia nocturna en concepto de descanso post-guardia retribuido.
+
+### Tipos de Turno
+- **Mañana (M)**: 8-15h (L-V) | 9-15h (S-D).
+- **Tarde (T)**: 15-22h.
+- **Noche (N)**: 22-08h (Día siguiente).
+- **Refuerzo (Ref)**: Horarios variables según día de la semana.
+
+---
+
+## 📝 Ejemplo de Formato .ICS
+
+Al exportar tu calendario, obtendrás eventos con esta estructura estándar:
+
+```text
+BEGIN:VEVENT
+SUMMARY:Noche 3 HM-Torrelodones
+DTSTART:20251103T220000
+DTEND:20251104T080000
+LOCATION:Hospital Universitario HM Torrelodones, Avenida Castillo Olivares, Torrelodones
+DESCRIPTION:Guardia de Noche (22:00-08:00).\nCompañeros: Dr. Ramiro.
+END:VEVENT
+```
+
+---
+
+## 🚀 Guía de Uso
+
+1.  **Carga**: Arrastra tu archivo CSV (exportado del Excel de turnos) a la pantalla de inicio.
+2.  **Navegación**:
+    - Usa la pestaña **"Visión Global"** para ver la tabla de equidad de todo el equipo.
+    - Usa la pestaña **"Mi Cuadrante"** y selecciona tu nombre para ver tus datos.
+3.  **Exportación**: En tu vista personal, pulsa el botón **"Descargar Calendario"** para obtener el archivo `.ics` e impórtalo en tu móvil.
+
+---
 
 ## 🛠️ Stack Tecnológico
 
-- **Core**: [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
-- **Build Tool**: [Vite](https://vitejs.dev/)
-- **Estilos**: [Tailwind CSS v4](https://tailwindcss.com/) + Variables CSS nativas
-- **Iconos**: [Lucide React](https://lucide.dev/)
-- **Procesamiento de Datos**: [PapaParse](https://www.papaparse.com/)
-
-## 🚀 Guía de Inicio
-
-### Prerrequisitos
-
-- Node.js (v18 o superior)
-- npm
-
-### Instalación
-
-1.  **Clonar el repositorio** (o descargar la carpeta):
-    ```bash
-    cd cuadrantes-app
-    ```
-
-2.  **Instalar dependencias**:
-    ```bash
-    npm install
-    ```
-
-3.  **Iniciar el servidor de desarrollo**:
-    ```bash
-    npm run dev
-    ```
-
-4.  Abrir el navegador en `http://localhost:5173`.
-
-## 📂 Estructura del Proyecto
-
-El proyecto sigue una arquitectura limpia y modular:
-
-```
-src/
-├── components/      # Componentes UI reutilizables (Card, StatCard)
-├── logic/           # Lógica de negocio pura
-│   └── parser.ts    # Motor de interpretación del CSV (El "Cerebro")
-├── lib/             # Utilidades y helpers (cn, formatters)
-├── styles/          # Sistema de diseño
-│   └── variables.css # Paleta de colores y tokens de diseño
-├── App.tsx          # Componente principal y orquestador
-└── main.tsx         # Punto de entrada
-```
-
-## 🧠 Lógica del Cuadrante
-
-El sistema se basa en reglas específicas definidas en `logica_cuadrante.md`. El parser (`src/logic/parser.ts`) maneja casos complejos como:
-
-*   **Turnos de Mañana (M)**: 8-15h (L-V) vs 9-15h (Fines de semana).
-*   **Refuerzos (Ref)**: Horarios variables según si es Lunes, Martes-Viernes o Fin de semana.
-*   **Noches (N)**: Detección de 1 o 2 médicos según el día de la semana.
-*   **Normalización**: Corrección automática de nombres (ej. "PINEDA" -> "Pineda").
-
-## 📝 Uso
-
-1.  Exporta tu cuadrante de Excel a **CSV**.
-2.  Abre la aplicación.
-3.  Arrastra el archivo CSV a la zona de carga.
-4.  Selecciona tu nombre en el desplegable superior para ver tus estadísticas personales.
+- **Core**: React 19 + TypeScript
+- **Estilos**: Tailwind CSS v4 (Diseño "Glassmorphism")
+- **Gráficos**: Recharts
+- **Iconos**: Lucide React
+- **Lógica**: Motores personalizados de parsing (PapaParse) y generación de ICS.
 
 ---
-Desarrollado con ❤️ para optimizar la gestión de tiempo médico.
+Desarrollado para optimizar la gestión clínica en HM Hospitales.

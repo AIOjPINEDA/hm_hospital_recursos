@@ -139,7 +139,7 @@ export default function App() {
                 <p className="text-gray-500 text-lg">Selecciona un médico para ver su análisis detallado</p>
               </div>
             ) : (
-              currentDoctorStats && <DoctorDashboard stats={currentDoctorStats} shifts={doctorShifts} />
+              currentDoctorStats && <DoctorDashboard stats={currentDoctorStats} shifts={doctorShifts} allShifts={shifts} />
             )}
           </>
         )}

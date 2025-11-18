@@ -12,11 +12,12 @@ import { Download } from 'lucide-react';
 interface DoctorDashboardProps {
     stats: DoctorStats;
     shifts: Shift[];
+    allShifts: Shift[];
 }
 
 const COLORS = ['#3b82f6', '#f59e0b', '#4f46e5', '#10b981']; // Blue, Amber, Indigo, Emerald
 
-export function DoctorDashboard({ stats, shifts }: DoctorDashboardProps) {
+export function DoctorDashboard({ stats, shifts, allShifts }: DoctorDashboardProps) {
 
     const pieData = useMemo(() => {
         return [
@@ -28,7 +29,7 @@ export function DoctorDashboard({ stats, shifts }: DoctorDashboardProps) {
     }, [stats]);
 
     const handleDownloadICS = () => {
-        const icsContent = generateICS(shifts);
+        const icsContent = generateICS(shifts, allShifts);
         const blob = new Blob([icsContent], { type: 'text/calendar;charset=utf-8' });
         const url = window.URL.createObjectURL(blob);
         const link = document.createElement('a');
