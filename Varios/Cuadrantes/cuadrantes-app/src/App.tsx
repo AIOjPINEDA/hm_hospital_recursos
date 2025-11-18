@@ -1,16 +1,17 @@
 import { useState, useMemo } from 'react';
-import { Upload, LayoutDashboard, User } from 'lucide-react';
+import { Upload, LayoutDashboard, User, Calendar } from 'lucide-react';
 import { parseCuadrante, type Shift } from './logic/parser';
 import { getDoctorStats, getAllDoctorsStats } from './logic/stats';
 import { cn } from './lib/utils';
 import { EquityTable } from './components/admin/EquityTable';
 import { DoctorDashboard } from './components/doctor/DoctorDashboard';
+import { GlobalCalendar } from './components/calendar/GlobalCalendar';
 
 export default function App() {
   const [shifts, setShifts] = useState<Shift[]>([]);
   const [isDragging, setIsDragging] = useState(false);
   const [selectedDoctor, setSelectedDoctor] = useState<string>('Todos');
-  const [activeTab, setActiveTab] = useState<'doctor' | 'admin'>('doctor');
+  const [activeTab, setActiveTab] = useState<'doctor' | 'admin' | 'calendar'>('doctor');
 
   const handleFileUpload = (file: File) => {
     const reader = new FileReader();
@@ -100,6 +101,16 @@ export default function App() {
               Mi Cuadrante
             </button>
             <button
+              onClick={() => setActiveTab('calendar')}
+              className={cn(
+                "px-4 py-2 rounded-md text-sm font-medium transition-all flex items-center gap-2",
+                activeTab === 'calendar' ? "bg-blue-50 text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
+              )}
+            >
+              <Calendar className="w-4 h-4" />
+              Calendario Global
+            </button>
+            <button
               onClick={() => setActiveTab('admin')}
               className={cn(
                 "px-4 py-2 rounded-md text-sm font-medium transition-all flex items-center gap-2",
@@ -110,21 +121,11 @@ export default function App() {
               Visión Global
             </button>
           </div>
-
-          {activeTab === 'doctor' && (
-            <select
-              value={selectedDoctor}
-              onChange={(e) => setSelectedDoctor(e.target.value)}
-              className="px-4 py-2 rounded-lg border border-gray-200 bg-white shadow-sm focus:ring-2 focus:ring-blue-500 outline-none"
-            >
-              {doctors.map(d => <option key={d} value={d}>{d}</option>)}
-            </select>
-          )}
         </div>
       </header>
 
       <main className="max-w-7xl mx-auto space-y-8">
-        {activeTab === 'admin' ? (
+        {activeTab === 'admin' && (
           <div className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
             <div className="p-6 border-b border-gray-100">
               <h2 className="text-lg font-bold text-gray-900">Tabla de Equidad</h2>
@@ -132,16 +133,34 @@ export default function App() {
             </div>
             <EquityTable stats={allStats} />
           </div>
-        ) : (
-          <>
-            {selectedDoctor === 'Todos' ? (
-              <div className="text-center py-20">
-                <p className="text-gray-500 text-lg">Selecciona un médico para ver su análisis detallado</p>
-              </div>
-            ) : (
-              currentDoctorStats && <DoctorDashboard stats={currentDoctorStats} shifts={doctorShifts} allShifts={shifts} />
-            )}
-          </>
+        )}
+
+        {activeTab === 'calendar' && (
+          <GlobalCalendar
+            shifts={shifts}
+            doctors={doctors}
+            selectedDoctor={selectedDoctor}
+            onSelectDoctor={setSelectedDoctor}
+          />
+        )}
+
+        {activeTab === 'doctor' && (
+          <DoctorDashboard
+            stats={currentDoctorStats || {
+              doctorName: selectedDoctor,
+              totalShifts: 0,
+              totalRealHours: 0,
+              totalComputedHours: 0,
+              nightShifts: 0,
+              weekendShifts: 0,
+              shiftsByType: {}
+            }}
+            shifts={doctorShifts}
+            allShifts={shifts}
+            doctors={doctors}
+            selectedDoctor={selectedDoctor}
+            onSelectDoctor={setSelectedDoctor}
+          />
         )}
       </main>
     </div>

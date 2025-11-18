@@ -13,11 +13,14 @@ interface DoctorDashboardProps {
     stats: DoctorStats;
     shifts: Shift[];
     allShifts: Shift[];
+    doctors: string[];
+    selectedDoctor: string;
+    onSelectDoctor: (doctor: string) => void;
 }
 
 const COLORS = ['#3b82f6', '#f59e0b', '#4f46e5', '#10b981']; // Blue, Amber, Indigo, Emerald
 
-export function DoctorDashboard({ stats, shifts, allShifts }: DoctorDashboardProps) {
+export function DoctorDashboard({ stats, shifts, allShifts, doctors, selectedDoctor, onSelectDoctor }: DoctorDashboardProps) {
 
     const pieData = useMemo(() => {
         return [
@@ -42,8 +45,19 @@ export function DoctorDashboard({ stats, shifts, allShifts }: DoctorDashboardPro
 
     return (
         <div className="space-y-6">
-            {/* Header Actions */}
-            <div className="flex justify-end">
+            {/* Toolbar */}
+            <div className="flex flex-col md:flex-row justify-between items-center gap-4 bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
+                <div className="flex items-center gap-4 w-full md:w-auto">
+                    <label className="text-sm font-medium text-gray-700 whitespace-nowrap">Médico:</label>
+                    <select
+                        value={selectedDoctor}
+                        onChange={(e) => onSelectDoctor(e.target.value)}
+                        className="w-full md:w-64 px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm focus:ring-2 focus:ring-blue-500 outline-none"
+                    >
+                        {doctors.map(d => <option key={d} value={d}>{d}</option>)}
+                    </select>
+                </div>
+
                 <button
                     onClick={handleDownloadICS}
                     className="flex items-center gap-2 px-4 py-2 bg-white border border-gray-200 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900 transition-colors shadow-sm"
