@@ -6,9 +6,17 @@ services:
     rootDir: investigacion/ideas/test_estudio
     branch: main
     buildCommand: pip install -r app/requirements.txt
-  startCommand: sh -c 'cd app && gunicorn -b 0.0.0.0:$PORT quiz_app:app'
+    startCommand: sh -c 'cd app && gunicorn -b 0.0.0.0:$PORT quiz_app:app'
     envVars:
       - key: PYTHON_VERSION
         value: 3.11
       - key: QUIZ_SECRET
         generateValue: true
+  - type: static
+    name: cuadrantes-app
+    env: static
+    plan: free
+    rootDir: Varios/Cuadrantes/cuadrantes-app
+    branch: main
+    buildCommand: npm install && npm run build
+    publishDir: dist
