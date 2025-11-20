@@ -1,5 +1,5 @@
 import { useState, useCallback } from 'react';
-import { Upload, FileSpreadsheet, FileText, CheckCircle2 } from 'lucide-react';
+import { Upload, FileSpreadsheet, FileText, CheckCircle2, Heart, AlertTriangle } from 'lucide-react';
 import { cn } from '../../lib/utils';
 
 interface UploadScreenProps {
@@ -126,8 +126,25 @@ export function UploadScreen({ onFileUpload }: UploadScreenProps) {
                     </div>
                 </div>
 
-                <div className="mt-8 text-center">
-                    <p className="text-xs text-slate-400 font-medium">
+                <div className="mt-12 mx-auto max-w-lg animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-300">
+                    <div className="bg-amber-50/80 backdrop-blur-sm border border-amber-200/50 rounded-2xl p-4 flex gap-4 items-start text-left shadow-sm hover:shadow-md transition-all">
+                        <div className="bg-amber-100 p-2 rounded-full shrink-0">
+                            <AlertTriangle className="w-5 h-5 text-amber-600" />
+                        </div>
+                        <div className="space-y-1">
+                            <p className="text-sm text-amber-900 font-medium flex items-center gap-2">
+                                Nota Importante
+                                <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500 animate-pulse" />
+                            </p>
+                            <p className="text-xs text-amber-800/80 leading-relaxed">
+                                Esta app está creada con cariño para ayudar a los compañeros de Torre, pero <strong>NO debe usarse como única fuente de verdad</strong>.
+                                <br className="mb-1" />
+                                Es una herramienta en desarrollo (demo): por favor, verificad siempre el conteo de horas manualmente.
+                            </p>
+                        </div>
+                    </div>
+
+                    <p className="mt-6 text-xs text-slate-400 font-medium text-center">
                         HM Torrelodones • Servicio de Urgencias
                     </p>
                 </div>
