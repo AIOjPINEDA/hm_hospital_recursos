@@ -84,4 +84,22 @@ END:VEVENT
 - **Lógica**: Motores personalizados de parsing (PapaParse) y generación de ICS.
 
 ---
+
+## 🌐 Despliegue
+
+Esta aplicación está configurada para desplegarse automáticamente en GitHub Pages.
+
+**URL de Producción**: https://aiojpineda.github.io/hm_hospital_recursos/
+
+### Despliegue Automático
+Cada vez que se hace push a `main` con cambios en esta carpeta, la aplicación se despliega automáticamente.
+
+### Despliegue Manual
+```bash
+npm run deploy
+```
+
+Para más información detallada sobre el despliegue, consulta [DEPLOYMENT.md](./DEPLOYMENT.md)
+
+---
 Desarrollado para optimizar la gestión clínica en HM Hospitales.
