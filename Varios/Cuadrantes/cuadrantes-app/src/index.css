@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @import './styles/variables.css';
 
+@plugin "tailwindcss-animate";
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -11,4 +13,29 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
+}
+
+@theme {
+  --animate-slow-spin: slow-spin 20s linear infinite;
+  --animate-gradient-xy: gradient-xy 15s ease infinite;
+
+  @keyframes slow-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes gradient-xy {
+    0%, 100% {
+      background-size: 400% 400%;
+      background-position: 0% 0%;
+    }
+    50% {
+      background-size: 200% 200%;
+      background-position: 100% 100%;
+    }
+  }
 }

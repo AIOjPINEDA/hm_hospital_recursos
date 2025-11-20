@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Upload, LayoutDashboard, User, Calendar } from 'lucide-react';
+import { LayoutDashboard, User, Calendar } from 'lucide-react';
 import { parseCuadrante, type Shift } from './logic/parser';
 import { getDoctorStats, getAllDoctorsStats, getGlobalStats } from './logic/stats';
 import { cn } from './lib/utils';
@@ -7,11 +7,11 @@ import { EquityTable } from './components/admin/EquityTable';
 import { DoctorDashboard } from './components/doctor/DoctorDashboard';
 import { GlobalCalendar } from './components/calendar/GlobalCalendar';
 import { GlobalStatsCards } from './components/admin/GlobalStatsCards';
+import { UploadScreen } from './components/layout/UploadScreen';
 import * as XLSX from 'xlsx';
 
 export default function App() {
   const [shifts, setShifts] = useState<Shift[]>([]);
-  const [isDragging, setIsDragging] = useState(false);
   const [selectedDoctor, setSelectedDoctor] = useState<string>('Todos');
   const [activeTab, setActiveTab] = useState<'doctor' | 'admin' | 'calendar'>('doctor');
 
@@ -67,40 +67,7 @@ export default function App() {
   // --- Render ---
 
   if (shifts.length === 0) {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-slate-50 p-4">
-        <div
-          className={cn(
-            "max-w-xl w-full aspect-video rounded-2xl border-2 border-dashed flex flex-col items-center justify-center transition-all duration-300 cursor-pointer",
-            isDragging ? "border-blue-500 bg-blue-50 scale-105" : "border-gray-300 hover:border-blue-400 hover:bg-white"
-          )}
-          onDragOver={(e) => { e.preventDefault(); setIsDragging(true); }}
-          onDragLeave={() => setIsDragging(false)}
-          onDrop={(e) => {
-            e.preventDefault();
-            setIsDragging(false);
-            const file = e.dataTransfer.files[0];
-            if (file) handleFileUpload(file);
-          }}
-        >
-          <div className="p-4 bg-blue-100 rounded-full mb-4">
-            <Upload className="w-8 h-8 text-blue-600" />
-          </div>
-          <h2 className="text-xl font-semibold text-gray-900">Sube tu Cuadrante</h2>
-          <p className="text-gray-500 mt-2">Arrastra el archivo Excel o CSV aquí</p>
-          <input
-            type="file"
-            className="hidden"
-            accept=".csv,.xlsx,.xls"
-            onChange={(e) => e.target.files?.[0] && handleFileUpload(e.target.files[0])}
-            id="file-upload"
-          />
-          <label htmlFor="file-upload" className="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 cursor-pointer transition-colors">
-            Seleccionar Archivo
-          </label>
-        </div>
-      </div>
-    );
+    return <UploadScreen onFileUpload={handleFileUpload} />;
   }
 
   return (
