@@ -1,7 +1,18 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import type { Shift } from '../../logic/parser';
 import { cn } from '../../lib/utils';
 import { Filter, Eye } from 'lucide-react';
+import {
+    startOfMonth,
+    endOfMonth,
+    eachDayOfInterval,
+    getDay,
+    format,
+    parseISO,
+    getDate,
+    isWeekend
+} from 'date-fns';
+import { es } from 'date-fns/locale';
 
 interface GlobalCalendarProps {
     shifts: Shift[];
@@ -15,14 +26,49 @@ type ViewMode = 'highlight' | 'filter';
 export function GlobalCalendar({ shifts, doctors, selectedDoctor, onSelectDoctor }: GlobalCalendarProps) {
     const [viewMode, setViewMode] = useState<ViewMode>('highlight');
 
-    // Group shifts by day
-    const daysInMonth = 30; // Fixed for Nov 2025 for now, or derived
-    const days = Array.from({ length: daysInMonth }, (_, i) => i + 1);
+    // Determine the initial month from shifts or default to current date
+    const initialDate = useMemo(() => {
+        if (shifts.length > 0) {
+            // Find the first valid date in shifts
+            const firstShift = shifts.find(s => s.date);
+            if (firstShift) return parseISO(firstShift.date);
+        }
+        return new Date();
+    }, [shifts]);
+
+    const [currentMonth, setCurrentMonth] = useState<Date>(initialDate);
+
+    // Update currentMonth if initialDate changes (e.g. new file uploaded)
+    // This effect ensures we jump to the correct month when a file is loaded
+    useMemo(() => {
+        setCurrentMonth(initialDate);
+    }, [initialDate]);
+
+    // Calendar Logic
+    const monthStart = startOfMonth(currentMonth);
+    const monthEnd = endOfMonth(currentMonth);
+    const daysInMonth = eachDayOfInterval({ start: monthStart, end: monthEnd });
+
+    // Calculate padding for the first week (Monday start)
+    // getDay returns 0 for Sunday, 1 for Monday...
+    // We want Monday=0, ..., Sunday=6
+    const startDayOfWeek = getDay(monthStart);
+    const paddingDays = (startDayOfWeek + 6) % 7;
 
     return (
         <div className="space-y-6">
             {/* Controls Header */}
             <div className="flex flex-col md:flex-row justify-between items-center gap-4 bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
+
+                {/* Month Display */}
+                <div className="flex items-center gap-4">
+                    <div className="flex items-center bg-gray-50 rounded-lg p-2 border border-gray-200">
+                        <span className="px-4 font-semibold text-gray-700 capitalize min-w-[140px] text-center">
+                            {format(currentMonth, 'MMMM yyyy', { locale: es })}
+                        </span>
+                    </div>
+                </div>
+
                 <div className="flex items-center gap-4 w-full md:w-auto">
                     <label className="text-sm font-medium text-gray-700 whitespace-nowrap">Médico:</label>
                     <select
@@ -69,12 +115,17 @@ export function GlobalCalendar({ shifts, doctors, selectedDoctor, onSelectDoctor
                 </div>
 
                 <div className="grid grid-cols-7 divide-x divide-y divide-gray-100">
-                    {/* Empty cells for start of month padding if needed (Nov 1 is Sat) */}
-                    {/* Nov 1 2025 is Saturday. So we need 5 empty cells (Mon-Fri) */}
-                    {Array.from({ length: 5 }).map((_, i) => <div key={`pad-${i}`} className="bg-gray-50/30" />)}
+                    {/* Empty cells for start of month padding */}
+                    {Array.from({ length: paddingDays }).map((_, i) => (
+                        <div key={`pad-${i}`} className="bg-gray-50/30 min-h-[140px]" />
+                    ))}
 
-                    {days.map(day => {
-                        const dayShifts = shifts.filter(s => s.dayOfMonth === day);
+                    {daysInMonth.map(date => {
+                        const dayNum = getDate(date);
+                        const dateStr = format(date, 'yyyy-MM-dd');
+                        const isWeekendDay = isWeekend(date);
+
+                        const dayShifts = shifts.filter(s => s.date === dateStr);
 
                         // Sort shifts: M, Ref, T, N
                         const sortedShifts = dayShifts.sort((a, b) => {
@@ -83,13 +134,13 @@ export function GlobalCalendar({ shifts, doctors, selectedDoctor, onSelectDoctor
                         });
 
                         return (
-                            <div key={day} className="min-h-[140px] p-2 hover:bg-gray-50 transition-colors">
+                            <div key={dateStr} className="min-h-[140px] p-2 hover:bg-gray-50 transition-colors">
                                 <div className="text-right mb-2">
                                     <span className={cn(
                                         "text-xs font-bold px-1.5 py-0.5 rounded-full",
-                                        dayShifts.some(s => s.isWeekend) ? "text-red-500 bg-red-50" : "text-gray-400"
+                                        isWeekendDay ? "text-red-500 bg-red-50" : "text-gray-400"
                                     )}>
-                                        {day}
+                                        {dayNum}
                                     </span>
                                 </div>
 
@@ -125,6 +176,11 @@ export function GlobalCalendar({ shifts, doctors, selectedDoctor, onSelectDoctor
                             </div>
                         );
                     })}
+
+                    {/* Fill remaining cells to complete the grid row if necessary */}
+                    {Array.from({ length: (7 - (paddingDays + daysInMonth.length) % 7) % 7 }).map((_, i) => (
+                        <div key={`end-pad-${i}`} className="bg-gray-50/30 min-h-[140px]" />
+                    ))}
                 </div>
             </div>
         </div>

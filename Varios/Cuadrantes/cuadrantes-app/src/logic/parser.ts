@@ -82,15 +82,50 @@ function getShiftTimes(type: ShiftType, dayOfWeek: string, isWeekend: boolean, p
     return { start: '00:00', end: '00:00' };
 }
 
+function detectMonthFromHeader(headerText: string): number | null {
+    if (!headerText) return null;
+
+    const clean = headerText.trim().toLowerCase();
+    const monthMap: Record<string, number> = {
+        'ene': 0, 'feb': 1, 'mar': 2, 'abr': 3, 'may': 4, 'jun': 5,
+        'jul': 6, 'ago': 7, 'sep': 8, 'oct': 9, 'nov': 10, 'dic': 11
+    };
+
+    // Check for first 3 letters match
+    for (const [key, value] of Object.entries(monthMap)) {
+        if (clean.startsWith(key)) {
+            return value;
+        }
+    }
+    return null;
+}
+
 // --- Main Parser ---
 
-export function parseCuadrante(csvContent: string, year: number = 2025, monthIndex: number = 10): ParseResult {
-    // monthIndex: 0=Jan, 10=Nov
-
+export function parseCuadrante(csvContent: string): ParseResult {
     const result: ParseResult = { shifts: [], errors: [] };
 
     const parsed = Papa.parse(csvContent, { header: false, skipEmptyLines: false });
     const rows = parsed.data as string[][];
+
+    if (rows.length === 0) {
+        result.errors.push("El archivo está vacío");
+        return result;
+    }
+
+    // 1. Detect Month from A1 (Row 0, Col 0)
+    // If not found, fallback to current month or keep default logic if needed.
+    // User requested: "ene = enero, dic = diciembre", year is current year.
+
+    let monthIndex = new Date().getMonth(); // Default to current month
+    const year = new Date().getFullYear(); // Always current year as requested
+
+    const headerCell = rows[0][0];
+    const detectedMonth = detectMonthFromHeader(headerCell);
+
+    if (detectedMonth !== null) {
+        monthIndex = detectedMonth;
+    }
 
     // Locate header row (LUNES, MARTES...)
     let headerRowIndex = -1;
