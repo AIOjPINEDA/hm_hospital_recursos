@@ -43,49 +43,51 @@ export function EquityTable({ stats }: EquityTableProps) {
     const maxNights = Math.max(...stats.map(s => s.nightShifts));
 
     return (
-        <div className="overflow-x-auto">
-            <table className="w-full text-sm text-left">
-                <thead className="text-xs text-gray-500 uppercase bg-gray-50/50 border-b border-gray-100">
-                    <tr>
-                        <SortableHeader label="Médico" field="doctorName" currentSort={sortField} onSort={handleSort} />
-                        <SortableHeader label="H. Reales" field="totalRealHours" currentSort={sortField} onSort={handleSort} />
-                        <SortableHeader label="H. Computadas" field="totalComputedHours" currentSort={sortField} onSort={handleSort} className="text-blue-600 font-bold" />
-                        <SortableHeader label="Noches" field="nightShifts" currentSort={sortField} onSort={handleSort} />
-                        <SortableHeader label="Fines de Semana" field="weekendShifts" currentSort={sortField} onSort={handleSort} />
-                    </tr>
-                </thead>
-                <tbody className="divide-y divide-gray-50">
-                    {sortedStats.map((doctor) => (
-                        <tr key={doctor.doctorName} className="hover:bg-gray-50/50 transition-colors">
-                            <td className="px-4 py-3 font-medium text-gray-900">{doctor.doctorName}</td>
-                            <td className="px-4 py-3 text-gray-600">{doctor.totalRealHours}</td>
-                            <td className="px-4 py-3">
-                                <div className="flex items-center gap-2">
-                                    <span className="font-bold text-blue-700 w-8">{doctor.totalComputedHours}</span>
-                                    <div className="flex-1 h-1.5 bg-gray-100 rounded-full max-w-[100px] overflow-hidden">
-                                        <div
-                                            className="h-full bg-blue-500 rounded-full"
-                                            style={{ width: `${(doctor.totalComputedHours / maxComputed) * 100}%` }}
-                                        />
-                                    </div>
-                                </div>
-                            </td>
-                            <td className="px-4 py-3">
-                                <div className="flex items-center gap-2">
-                                    <span className="text-gray-700 w-4">{doctor.nightShifts}</span>
-                                    <div className="flex-1 h-1.5 bg-gray-100 rounded-full max-w-[60px] overflow-hidden">
-                                        <div
-                                            className="h-full bg-indigo-500 rounded-full"
-                                            style={{ width: `${(doctor.nightShifts / maxNights) * 100}%` }}
-                                        />
-                                    </div>
-                                </div>
-                            </td>
-                            <td className="px-4 py-3 text-gray-600">{doctor.weekendShifts}</td>
+        <div className="overflow-hidden rounded-xl border border-gray-200 shadow-sm bg-white">
+            <div className="overflow-x-auto">
+                <table className="w-full text-sm text-left">
+                    <thead className="text-xs text-gray-500 uppercase bg-gray-50/80 border-b border-gray-100">
+                        <tr>
+                            <SortableHeader label="Médico" field="doctorName" currentSort={sortField} onSort={handleSort} />
+                            <SortableHeader label="H. Reales" field="totalRealHours" currentSort={sortField} onSort={handleSort} />
+                            <SortableHeader label="H. Computadas" field="totalComputedHours" currentSort={sortField} onSort={handleSort} className="text-blue-600 font-bold" />
+                            <SortableHeader label="Noches" field="nightShifts" currentSort={sortField} onSort={handleSort} />
+                            <SortableHeader label="Fines de Semana" field="weekendShifts" currentSort={sortField} onSort={handleSort} />
                         </tr>
-                    ))}
-                </tbody>
-            </table>
+                    </thead>
+                    <tbody className="divide-y divide-gray-50">
+                        {sortedStats.map((doctor) => (
+                            <tr key={doctor.doctorName} className="hover:bg-blue-50/30 transition-colors group">
+                                <td className="px-4 py-4 font-medium text-gray-900 group-hover:text-blue-700 transition-colors">{doctor.doctorName}</td>
+                                <td className="px-4 py-4 text-gray-600">{doctor.totalRealHours}</td>
+                                <td className="px-4 py-4">
+                                    <div className="flex items-center gap-3">
+                                        <span className="font-bold text-blue-700 w-8 text-right">{doctor.totalComputedHours}</span>
+                                        <div className="flex-1 h-2 bg-gray-100 rounded-full max-w-[120px] overflow-hidden ring-1 ring-gray-200/50">
+                                            <div
+                                                className="h-full bg-gradient-to-r from-blue-500 to-blue-400 rounded-full transition-all duration-500"
+                                                style={{ width: `${(doctor.totalComputedHours / maxComputed) * 100}%` }}
+                                            />
+                                        </div>
+                                    </div>
+                                </td>
+                                <td className="px-4 py-4">
+                                    <div className="flex items-center gap-3">
+                                        <span className="text-gray-700 w-4 text-right">{doctor.nightShifts}</span>
+                                        <div className="flex-1 h-2 bg-gray-100 rounded-full max-w-[80px] overflow-hidden ring-1 ring-gray-200/50">
+                                            <div
+                                                className="h-full bg-gradient-to-r from-indigo-500 to-indigo-400 rounded-full transition-all duration-500"
+                                                style={{ width: `${(doctor.nightShifts / maxNights) * 100}%` }}
+                                            />
+                                        </div>
+                                    </div>
+                                </td>
+                                <td className="px-4 py-4 text-gray-600">{doctor.weekendShifts}</td>
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+            </div>
         </div>
     );
 }

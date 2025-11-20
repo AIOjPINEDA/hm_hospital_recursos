@@ -1,11 +1,12 @@
 import { useState, useMemo } from 'react';
 import { Upload, LayoutDashboard, User, Calendar } from 'lucide-react';
 import { parseCuadrante, type Shift } from './logic/parser';
-import { getDoctorStats, getAllDoctorsStats } from './logic/stats';
+import { getDoctorStats, getAllDoctorsStats, getGlobalStats } from './logic/stats';
 import { cn } from './lib/utils';
 import { EquityTable } from './components/admin/EquityTable';
 import { DoctorDashboard } from './components/doctor/DoctorDashboard';
 import { GlobalCalendar } from './components/calendar/GlobalCalendar';
+import { GlobalStatsCards } from './components/admin/GlobalStatsCards';
 import * as XLSX from 'xlsx';
 
 export default function App() {
@@ -51,6 +52,7 @@ export default function App() {
   }, [shifts]);
 
   const allStats = useMemo(() => getAllDoctorsStats(shifts), [shifts]);
+  const globalStats = useMemo(() => getGlobalStats(shifts), [shifts]);
 
   const currentDoctorStats = useMemo(() => {
     if (selectedDoctor === 'Todos') return null;
@@ -102,87 +104,102 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen bg-slate-50 p-8">
-      <header className="max-w-7xl mx-auto mb-8 flex flex-col md:flex-row justify-between items-center gap-4">
-        <div>
-          <h1 className="text-3xl font-bold text-slate-900">Dashboard de Guardias</h1>
-          <p className="text-slate-500">Análisis de Noviembre 2025</p>
-        </div>
+    <div className="min-h-screen bg-slate-50/50 pb-12">
+      {/* Header */}
+      <header className="bg-white border-b border-gray-200 sticky top-0 z-30 shadow-sm">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+          <div className="flex items-center gap-2">
+            <div className="bg-blue-600 p-1.5 rounded-lg">
+              <LayoutDashboard className="w-5 h-5 text-white" />
+            </div>
+            <h1 className="text-xl font-bold text-gray-900 tracking-tight">GuardiaAPP - HM Torrelodones</h1>
+          </div>
 
-        <div className="flex items-center gap-4">
-          {/* Tab Switcher */}
-          <div className="bg-white p-1 rounded-lg border border-gray-200 flex shadow-sm">
+          <div className="flex bg-gray-100 p-1 rounded-lg">
             <button
               onClick={() => setActiveTab('doctor')}
               className={cn(
-                "px-4 py-2 rounded-md text-sm font-medium transition-all flex items-center gap-2",
-                activeTab === 'doctor' ? "bg-blue-50 text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
+                "px-3 py-1.5 rounded-md text-sm font-medium transition-all flex items-center gap-2",
+                activeTab === 'doctor' ? "bg-white text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
               )}
             >
               <User className="w-4 h-4" />
-              Mi Cuadrante
+              <span className="hidden sm:inline">Mi Cuadrante</span>
             </button>
             <button
               onClick={() => setActiveTab('calendar')}
               className={cn(
-                "px-4 py-2 rounded-md text-sm font-medium transition-all flex items-center gap-2",
-                activeTab === 'calendar' ? "bg-blue-50 text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
+                "px-3 py-1.5 rounded-md text-sm font-medium transition-all flex items-center gap-2",
+                activeTab === 'calendar' ? "bg-white text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
               )}
             >
               <Calendar className="w-4 h-4" />
-              Calendario Global
+              <span className="hidden sm:inline">Calendario</span>
             </button>
             <button
               onClick={() => setActiveTab('admin')}
               className={cn(
-                "px-4 py-2 rounded-md text-sm font-medium transition-all flex items-center gap-2",
-                activeTab === 'admin' ? "bg-blue-50 text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
+                "px-3 py-1.5 rounded-md text-sm font-medium transition-all flex items-center gap-2",
+                activeTab === 'admin' ? "bg-white text-blue-700 shadow-sm" : "text-gray-500 hover:text-gray-700"
               )}
             >
               <LayoutDashboard className="w-4 h-4" />
-              Visión Global
+              <span className="hidden sm:inline">Global</span>
             </button>
           </div>
         </div>
       </header>
 
-      <main className="max-w-7xl mx-auto space-y-8">
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-8">
         {activeTab === 'admin' && (
-          <div className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
-            <div className="p-6 border-b border-gray-100">
-              <h2 className="text-lg font-bold text-gray-900">Tabla de Equidad</h2>
-              <p className="text-sm text-gray-500">Comparativa de carga de trabajo entre facultativos</p>
+          <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+            <div>
+              <h2 className="text-lg font-bold text-gray-900 mb-4">Visión General del Servicio</h2>
+              <GlobalStatsCards stats={globalStats} />
             </div>
-            <EquityTable stats={allStats} />
+
+            <div className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+              <div className="p-6 border-b border-gray-100 flex justify-between items-center">
+                <div>
+                  <h2 className="text-lg font-bold text-gray-900">Tabla de Equidad</h2>
+                  <p className="text-sm text-gray-500">Comparativa de carga de trabajo entre facultativos</p>
+                </div>
+              </div>
+              <EquityTable stats={allStats} />
+            </div>
           </div>
         )}
 
         {activeTab === 'calendar' && (
-          <GlobalCalendar
-            shifts={shifts}
-            doctors={doctors}
-            selectedDoctor={selectedDoctor}
-            onSelectDoctor={setSelectedDoctor}
-          />
+          <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+            <GlobalCalendar
+              shifts={shifts}
+              doctors={doctors}
+              selectedDoctor={selectedDoctor}
+              onSelectDoctor={setSelectedDoctor}
+            />
+          </div>
         )}
 
         {activeTab === 'doctor' && (
-          <DoctorDashboard
-            stats={currentDoctorStats || {
-              doctorName: selectedDoctor,
-              totalShifts: 0,
-              totalRealHours: 0,
-              totalComputedHours: 0,
-              nightShifts: 0,
-              weekendShifts: 0,
-              shiftsByType: {}
-            }}
-            shifts={doctorShifts}
-            allShifts={shifts}
-            doctors={doctors}
-            selectedDoctor={selectedDoctor}
-            onSelectDoctor={setSelectedDoctor}
-          />
+          <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+            <DoctorDashboard
+              stats={currentDoctorStats || {
+                doctorName: selectedDoctor,
+                totalShifts: 0,
+                totalRealHours: 0,
+                totalComputedHours: 0,
+                nightShifts: 0,
+                weekendShifts: 0,
+                shiftsByType: {}
+              }}
+              shifts={doctorShifts}
+              allShifts={shifts}
+              doctors={doctors}
+              selectedDoctor={selectedDoctor}
+              onSelectDoctor={setSelectedDoctor}
+            />
+          </div>
         )}
       </main>
     </div>

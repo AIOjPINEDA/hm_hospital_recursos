@@ -10,6 +10,15 @@ export interface DoctorStats {
     shiftsByType: Record<string, number>;
 }
 
+export interface GlobalStats {
+    totalShifts: number;
+    totalRealHours: number;
+    totalComputedHours: number;
+    avgHoursPerDoctor: number;
+    shiftsByType: Record<string, number>;
+    activeDoctors: number;
+}
+
 /**
  * Calculates the duration of a shift in hours.
  * Handles shifts crossing midnight (e.g., 22:00 - 08:00).
@@ -68,4 +77,30 @@ export function getDoctorStats(shifts: Shift[], doctorName: string): DoctorStats
 export function getAllDoctorsStats(shifts: Shift[]): DoctorStats[] {
     const uniqueDoctors = Array.from(new Set(shifts.map(s => s.medico))).sort();
     return uniqueDoctors.map(doc => getDoctorStats(shifts, doc));
+}
+
+/**
+ * Calculates global statistics for the entire service.
+ */
+export function getGlobalStats(shifts: Shift[]): GlobalStats {
+    const doctorStats = getAllDoctorsStats(shifts);
+    const activeDoctors = doctorStats.length;
+
+    const totalShifts = shifts.length;
+    const totalRealHours = doctorStats.reduce((acc, curr) => acc + curr.totalRealHours, 0);
+    const totalComputedHours = doctorStats.reduce((acc, curr) => acc + curr.totalComputedHours, 0);
+
+    const shiftsByType: Record<string, number> = { M: 0, T: 0, N: 0, Ref: 0 };
+    shifts.forEach(s => {
+        shiftsByType[s.type] = (shiftsByType[s.type] || 0) + 1;
+    });
+
+    return {
+        totalShifts,
+        totalRealHours,
+        totalComputedHours,
+        avgHoursPerDoctor: activeDoctors > 0 ? Math.round(totalComputedHours / activeDoctors) : 0,
+        shiftsByType,
+        activeDoctors
+    };
 }
