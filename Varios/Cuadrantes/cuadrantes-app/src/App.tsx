@@ -6,6 +6,7 @@ import { cn } from './lib/utils';
 import { EquityTable } from './components/admin/EquityTable';
 import { DoctorDashboard } from './components/doctor/DoctorDashboard';
 import { GlobalCalendar } from './components/calendar/GlobalCalendar';
+import * as XLSX from 'xlsx';
 
 export default function App() {
   const [shifts, setShifts] = useState<Shift[]>([]);
@@ -14,13 +15,33 @@ export default function App() {
   const [activeTab, setActiveTab] = useState<'doctor' | 'admin' | 'calendar'>('doctor');
 
   const handleFileUpload = (file: File) => {
-    const reader = new FileReader();
-    reader.onload = (e) => {
-      const text = e.target?.result as string;
-      const { shifts: parsedShifts } = parseCuadrante(text);
-      setShifts(parsedShifts);
-    };
-    reader.readAsText(file);
+    const isExcel = file.name.endsWith('.xlsx') || file.name.endsWith('.xls');
+
+    if (isExcel) {
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        const data = e.target?.result;
+        if (!data) return;
+
+        const workbook = XLSX.read(data, { type: 'array' });
+        const firstSheetName = workbook.SheetNames[0];
+        const worksheet = workbook.Sheets[firstSheetName];
+        const csvText = XLSX.utils.sheet_to_csv(worksheet);
+
+        const { shifts: parsedShifts } = parseCuadrante(csvText);
+        setShifts(parsedShifts);
+      };
+      reader.readAsArrayBuffer(file);
+    } else {
+      // Assume CSV
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        const text = e.target?.result as string;
+        const { shifts: parsedShifts } = parseCuadrante(text);
+        setShifts(parsedShifts);
+      };
+      reader.readAsText(file);
+    }
   };
 
   // --- Analytics ---
@@ -64,10 +85,11 @@ export default function App() {
             <Upload className="w-8 h-8 text-blue-600" />
           </div>
           <h2 className="text-xl font-semibold text-gray-900">Sube tu Cuadrante</h2>
-          <p className="text-gray-500 mt-2">Arrastra el archivo CSV aquí</p>
+          <p className="text-gray-500 mt-2">Arrastra el archivo Excel o CSV aquí</p>
           <input
             type="file"
             className="hidden"
+            accept=".csv,.xlsx,.xls"
             onChange={(e) => e.target.files?.[0] && handleFileUpload(e.target.files[0])}
             id="file-upload"
           />
