@@ -22,7 +22,15 @@ Un área privada donde cada profesional puede entender su mes de un vistazo.
 - **Tarjeta "Horas Computadas"**: Muestra claramente el total de horas que te corresponden tras aplicar los factores de corrección por nocturnidad.
 - **Agenda Visual**: Lista limpia de tus próximas guardias.
 
-### 3. 📅 Exportación Inteligente a Calendario
+### 3. 📅 Calendario Interactivo Global
+Una vista de calendario completa para coordinar a todo el equipo.
+- **Vista Mensual**: Visualiza todos los turnos del mes en un calendario clásico.
+- **Filtros Dinámicos**:
+  - **Ver Todos**: Panorámica completa del servicio.
+  - **Por Médico**: Filtra para ver solo los turnos de un compañero específico.
+  - **Resaltar**: Mantén la vista global pero destaca visualmente los turnos de una persona.
+
+### 4. 📲 Exportación Inteligente a Calendario
 Lleva tu horario contigo. Genera un archivo `.ics` compatible con Google Calendar, Outlook e iOS.
 - **Detalle Rico**:
   - **Título**: "Mañana 3 HM-Torrelodones" (Claro y conciso).
@@ -69,8 +77,9 @@ END:VEVENT
 
 1.  **Carga**: Arrastra tu archivo CSV (exportado del Excel de turnos) a la pantalla de inicio.
 2.  **Navegación**:
-    - Usa la pestaña **"Visión Global"** para ver la tabla de equidad de todo el equipo.
-    - Usa la pestaña **"Mi Cuadrante"** y selecciona tu nombre para ver tus datos.
+    - **Visión Global**: Tabla de equidad y métricas comparativas.
+    - **Calendario Global**: Vista mensual de todo el equipo.
+    - **Mi Cuadrante**: Tu espacio personal con estadísticas y exportación.
 3.  **Exportación**: En tu vista personal, pulsa el botón **"Descargar Calendario"** para obtener el archivo `.ics` e impórtalo en tu móvil.
 
 ---
@@ -87,19 +96,16 @@ END:VEVENT
 
 ## 🌐 Despliegue
 
-Esta aplicación está configurada para desplegarse automáticamente en GitHub Pages.
+Esta aplicación utiliza **GitHub Actions** para un despliegue continuo (CI/CD) en **GitHub Pages**.
 
-**URL de Producción**: https://aiojpineda.github.io/hm_hospital_recursos/
+**URL de Producción**: [https://aiojpineda.github.io/hm_hospital_recursos/](https://aiojpineda.github.io/hm_hospital_recursos/)
 
-### Despliegue Automático
-Cada vez que se hace push a `main` con cambios en esta carpeta, la aplicación se despliega automáticamente.
-
-### Despliegue Manual
-```bash
-npm run deploy
-```
-
-Para más información detallada sobre el despliegue, consulta [DEPLOYMENT.md](./DEPLOYMENT.md)
+### ¿Cómo funciona?
+El flujo de trabajo está definido en `.github/workflows/deploy-cuadrantes.yml`.
+1.  Detecta cambios en la carpeta `Varios/Cuadrantes/cuadrantes-app`.
+2.  Instala dependencias y construye el proyecto (`npm run build`).
+3.  Sube los archivos estáticos a la rama `gh-pages`.
+4.  GitHub sirve la web automáticamente.
 
 ---
 Desarrollado para optimizar la gestión clínica en HM Hospitales.
